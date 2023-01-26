@@ -2590,8 +2590,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "premature mortality (women)",
-                "premature mortality (men)",
+                "premature death (women)",
+                "premature death (men)",
                 ""
               ]
             }
