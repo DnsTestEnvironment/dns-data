@@ -965,8 +965,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Employment rate, total (20 to 64-year-olds)",
                 "Employment rate, older people (60 to 64-year-olds)",
+                "Employment rate, total (20 to 64-year-olds)",
                 ""
               ]
             },
