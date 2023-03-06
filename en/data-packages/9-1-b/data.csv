@@ -5,6 +5,7 @@ Year,Units,Time series,Value
 2018,Percentage,All wired technologies,27.3
 2019,Percentage,All wired technologies,43.2
 2020,Percentage,All wired technologies,59.2
+2021,Percentage,All wired technologies,
 2025,Percentage,All wired technologies,
 2021/1,Percentage,All wired technologies,62.1
 2015,Percentage,Fibre-to-the-Building/Home (FTTB/H),6.7
@@ -13,6 +14,7 @@ Year,Units,Time series,Value
 2018,Percentage,Fibre-to-the-Building/Home (FTTB/H),9.0
 2019,Percentage,Fibre-to-the-Building/Home (FTTB/H),11.8
 2020,Percentage,Fibre-to-the-Building/Home (FTTB/H),14.5
+2021,Percentage,Fibre-to-the-Building/Home (FTTB/H),18.2
 2025,Percentage,Fibre-to-the-Building/Home (FTTB/H),
 2021/1,Percentage,Fibre-to-the-Building/Home (FTTB/H),15.4
 2015,Percentage,Cable television (CATV),
@@ -21,5 +23,6 @@ Year,Units,Time series,Value
 2018,Percentage,Cable television (CATV),23.7
 2019,Percentage,Cable television (CATV),37.8
 2020,Percentage,Cable television (CATV),53.5
+2021,Percentage,Cable television (CATV),
 2025,Percentage,Cable television (CATV),
 2021/1,Percentage,Cable television (CATV),56.5
