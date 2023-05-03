@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "moving five-year average shown for the last year",
+                "Gleitender Fünfjahresdurchschnitt mit Bezug auf das letzte Jahr",
                 "Berechnete jährliche Werte",
                 ""
               ]
