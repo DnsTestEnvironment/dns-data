@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "moving five-year average shown for the last year",
+                "Moving five-year average shown for each middle year",
                 "Calculated annual values",
                 ""
               ]
