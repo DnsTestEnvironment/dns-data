@@ -473,8 +473,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input in coastal and marine waters of the baltic sea",
-                "nitrogen input in coastal and marine waters of the north sea",
+                "Nitrogen input via the inflows into the Baltic Sea",
+                "Nitrogen input via the inflows into the North Sea",
                 ""
               ]
             },
@@ -783,7 +783,7 @@
           }
         ]
       },
-      "title": "Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung"
+      "title": "Breitbandausbau"
     },
     {
       "path": "11-1-c/data.csv",
@@ -1279,7 +1279,7 @@
           }
         ]
       },
-      "title": "Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt"
+      "title": "Verhältnis der Bruttoanlageinvestitionen zum BIP"
     },
     {
       "path": "8-2-ab/data.csv",
@@ -2299,7 +2299,7 @@
           }
         ]
       },
-      "title": "Anteil erneuerbarer Energien am Bruttoendenergieverbrauch"
+      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
     },
     {
       "path": "2-1-a/data.csv",
