@@ -1,74 +1,77 @@
 Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
-1999,Prozent,,,,,33.35
-2010,Prozent,,,,,41.31
-2011,Prozent,,,,,42.22
-2012,Prozent,,,,,43.43
-2013,Prozent,,,,,44.48
-2014,Prozent,,,,,45.67
-2015,Prozent,,,,,46.77
-2016,Prozent,,,,,47.88
-2017,Prozent,,,,,48.84
-2018,Prozent,,,,,49.83
-2019,Prozent,,,,,50.49
+1999,Prozent,,,,,33.05
+2010,Prozent,,,,,41.245
+2011,Prozent,,,,,42.148
+2012,Prozent,,,,,43.335
+2013,Prozent,,,,,44.3
+2014,Prozent,,,,,45.706
+2015,Prozent,,,,,46.815
+2016,Prozent,,,,,47.979
+2017,Prozent,,,,,48.836
+2018,Prozent,,,,,49.807
+2019,Prozent,,,,,50.488
 2020,Prozent,,,,,52.3
-2021,Prozent,,,,,53.238
-2000,Prozent,,,,,33.0
-2001,Prozent,,,,,33.17
-2002,Prozent,,,,,33.28
-2003,Prozent,,,,,33.89
-2004,Prozent,,,,,36.22
-2005,Prozent,,,,,35.99
-2006,Prozent,,,,,36.5
-2007,Prozent,,,,,37.63
-2008,Prozent,,,,,38.77
-2009,Prozent,,,,,40.71
+2021,Prozent,,,,,54.3
+2022,Prozent,,,,,
+2000,Prozent,,,,,33.366
+2001,Prozent,,,,,33.62
+2002,Prozent,,,,,32.406
+2003,Prozent,,,,,33.947
+2004,Prozent,,,,,36.263
+2005,Prozent,,,,,36.023
+2006,Prozent,,,,,36.455
+2007,Prozent,,,,,37.635
+2008,Prozent,,,,,38.863
+2009,Prozent,,,,,40.743
 2030,Prozent,,,,,
-1999,Prozent,,Weiblich,,,31.39
-2010,Prozent,,Weiblich,,,42.68
-2011,Prozent,,Weiblich,,,44.42
-2012,Prozent,,Weiblich,,,46.04
-2013,Prozent,,Weiblich,,,46.8
-2014,Prozent,,Weiblich,,,48.42
-2015,Prozent,,Weiblich,,,50.52
-2016,Prozent,,Weiblich,,,51.3
-2017,Prozent,,Weiblich,,,52.64
-2018,Prozent,,Weiblich,,,53.83
-2019,Prozent,,Weiblich,,,54.41
-2020,Prozent,,Weiblich,,,56.63
-2021,Prozent,,Weiblich,,,57.158
-2000,Prozent,,Weiblich,,,30.88
-2001,Prozent,,Weiblich,,,31.09
-2002,Prozent,,Weiblich,,,31.25
-2003,Prozent,,Weiblich,,,32.19
-2004,Prozent,,Weiblich,,,34.65
-2005,Prozent,,Weiblich,,,35.0
-2006,Prozent,,Weiblich,,,36.48
-2007,Prozent,,Weiblich,,,38.03
-2008,Prozent,,Weiblich,,,39.68
-2009,Prozent,,Weiblich,,,42.21
-1999,Prozent,,Männlich,,,35.22
-2010,Prozent,,Männlich,,,39.97
-2011,Prozent,,Männlich,,,40.07
-2012,Prozent,,Männlich,,,40.88
-2013,Prozent,,Männlich,,,42.2
-2014,Prozent,,Männlich,,,42.94
-2015,Prozent,,Männlich,,,43.11
-2016,Prozent,,Männlich,,,44.57
-2017,Prozent,,Männlich,,,45.19
-2018,Prozent,,Männlich,,,46.02
-2019,Prozent,,Männlich,,,46.76
-2020,Prozent,,Männlich,,,48.26
-2021,Prozent,,Männlich,,,49.553
-2000,Prozent,,Männlich,,,35.05
-2001,Prozent,,Männlich,,,35.2
-2002,Prozent,,Männlich,,,35.22
-2003,Prozent,,Männlich,,,35.49
-2004,Prozent,,Männlich,,,37.72
-2005,Prozent,,Männlich,,,36.95
-2006,Prozent,,Männlich,,,36.52
-2007,Prozent,,Männlich,,,37.25
-2008,Prozent,,Männlich,,,37.86
-2009,Prozent,,Männlich,,,39.23
+1999,Prozent,,Weiblich,,,30.931
+2010,Prozent,,Weiblich,,,42.419
+2011,Prozent,,Weiblich,,,44.191
+2012,Prozent,,Weiblich,,,45.771
+2013,Prozent,,Weiblich,,,46.503
+2014,Prozent,,Weiblich,,,48.411
+2015,Prozent,,Weiblich,,,50.6
+2016,Prozent,,Weiblich,,,51.395
+2017,Prozent,,Weiblich,,,52.649
+2018,Prozent,,Weiblich,,,53.892
+2019,Prozent,,Weiblich,,,54.311
+2020,Prozent,,Weiblich,,,55.928
+2021,Prozent,,Weiblich,,,58.4
+2022,Prozent,,Weiblich,,,
+2000,Prozent,,Weiblich,,,31.701
+2001,Prozent,,Weiblich,,,31.3
+2002,Prozent,,Weiblich,,,30.56
+2003,Prozent,,Weiblich,,,32.182
+2004,Prozent,,Weiblich,,,34.695
+2005,Prozent,,Weiblich,,,34.973
+2006,Prozent,,Weiblich,,,36.466
+2007,Prozent,,Weiblich,,,38.063
+2008,Prozent,,Weiblich,,,39.711
+2009,Prozent,,Weiblich,,,42.232
+1999,Prozent,,Männlich,,,35.144
+2010,Prozent,,Männlich,,,39.995
+2011,Prozent,,Männlich,,,40.13
+2012,Prozent,,Männlich,,,40.935
+2013,Prozent,,Männlich,,,42.218
+2014,Prozent,,Männlich,,,43.015
+2015,Prozent,,Männlich,,,43.118
+2016,Prozent,,Männlich,,,44.674
+2017,Prozent,,Männlich,,,45.172
+2018,Prozent,,Männlich,,,45.985
+2019,Prozent,,Männlich,,,46.764
+2020,Prozent,,Männlich,,,48.861
+2021,Prozent,,Männlich,,,50.4
+2022,Prozent,,Männlich,,,
+2000,Prozent,,Männlich,,,35.083
+2001,Prozent,,Männlich,,,35.869
+2002,Prozent,,Männlich,,,34.09
+2003,Prozent,,Männlich,,,35.562
+2004,Prozent,,Männlich,,,37.671
+2005,Prozent,,Männlich,,,36.995
+2006,Prozent,,Männlich,,,36.473
+2007,Prozent,,Männlich,,,37.241
+2008,Prozent,,Männlich,,,37.933
+2009,Prozent,,Männlich,,,39.273
 2010,Prozent,,,Baden-Württemberg,code08,42.28
 2011,Prozent,,,Baden-Württemberg,code08,43.36
 2012,Prozent,,,Baden-Württemberg,code08,44.92
@@ -885,76 +888,79 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Thüringen,code16,32.6
 2008,Prozent,,Männlich,Thüringen,code16,30.4
 2009,Prozent,,Männlich,Thüringen,code16,29.1
-1999,Prozent,Tertiärer Abschluss,,,,24.8
-2010,Prozent,Tertiärer Abschluss,,,,29.77
-2011,Prozent,Tertiärer Abschluss,,,,30.68
-2012,Prozent,Tertiärer Abschluss,,,,31.9
-2013,Prozent,Tertiärer Abschluss,,,,33.08
-2014,Prozent,Tertiärer Abschluss,,,,31.36
-2015,Prozent,Tertiärer Abschluss,,,,32.25
-2016,Prozent,Tertiärer Abschluss,,,,33.1
+1999,Prozent,Tertiärer Abschluss,,,,24.5
+2010,Prozent,Tertiärer Abschluss,,,,29.7
+2011,Prozent,Tertiärer Abschluss,,,,30.6
+2012,Prozent,Tertiärer Abschluss,,,,31.8
+2013,Prozent,Tertiärer Abschluss,,,,32.9
+2014,Prozent,Tertiärer Abschluss,,,,31.4
+2015,Prozent,Tertiärer Abschluss,,,,32.3
+2016,Prozent,Tertiärer Abschluss,,,,33.2
 2017,Prozent,Tertiärer Abschluss,,,,34.0
-2018,Prozent,Tertiärer Abschluss,,,,34.93
+2018,Prozent,Tertiärer Abschluss,,,,34.9
 2019,Prozent,Tertiärer Abschluss,,,,35.5
 2020,Prozent,Tertiärer Abschluss,,,,36.6
-2021,Prozent,Tertiärer Abschluss,,,,37.8
-2000,Prozent,Tertiärer Abschluss,,,,25.33
-2001,Prozent,Tertiärer Abschluss,,,,25.05
-2002,Prozent,Tertiärer Abschluss,,,,25.07
-2003,Prozent,Tertiärer Abschluss,,,,25.05
-2004,Prozent,Tertiärer Abschluss,,,,26.76
-2005,Prozent,Tertiärer Abschluss,,,,26.06
-2006,Prozent,Tertiärer Abschluss,,,,25.85
+2021,Prozent,Tertiärer Abschluss,,,,38.9
+2022,Prozent,Tertiärer Abschluss,,,,39.3
+2000,Prozent,Tertiärer Abschluss,,,,25.7
+2001,Prozent,Tertiärer Abschluss,,,,25.5
+2002,Prozent,Tertiärer Abschluss,,,,24.2
+2003,Prozent,Tertiärer Abschluss,,,,25.1
+2004,Prozent,Tertiärer Abschluss,,,,26.8
+2005,Prozent,Tertiärer Abschluss,,,,26.1
+2006,Prozent,Tertiärer Abschluss,,,,25.8
 2007,Prozent,Tertiärer Abschluss,,,,26.5
-2008,Prozent,Tertiärer Abschluss,,,,27.6
-2009,Prozent,Tertiärer Abschluss,,,,29.37
+2008,Prozent,Tertiärer Abschluss,,,,27.7
+2009,Prozent,Tertiärer Abschluss,,,,29.4
 2030,Prozent,Tertiärer Abschluss,,,,
-1999,Prozent,Tertiärer Abschluss,Weiblich,,,21.358
-2010,Prozent,Tertiärer Abschluss,Weiblich,,,29.658
-2011,Prozent,Tertiärer Abschluss,Weiblich,,,31.528
-2012,Prozent,Tertiärer Abschluss,Weiblich,,,32.87
-2013,Prozent,Tertiärer Abschluss,Weiblich,,,34.0
-2014,Prozent,Tertiärer Abschluss,Weiblich,,,30.804
-2015,Prozent,Tertiärer Abschluss,Weiblich,,,32.321
-2016,Prozent,Tertiärer Abschluss,Weiblich,,,32.9
-2017,Prozent,Tertiärer Abschluss,Weiblich,,,34.191
-2018,Prozent,Tertiärer Abschluss,Weiblich,,,35.335
-2019,Prozent,Tertiärer Abschluss,Weiblich,,,36.0
-2020,Prozent,Tertiärer Abschluss,Weiblich,,,37.3
-2021,Prozent,Tertiärer Abschluss,Weiblich,,,38.6
-2000,Prozent,Tertiärer Abschluss,Weiblich,,,21.778
-2001,Prozent,Tertiärer Abschluss,Weiblich,,,21.688
-2002,Prozent,Tertiärer Abschluss,Weiblich,,,22.091
-2003,Prozent,Tertiärer Abschluss,Weiblich,,,22.511
-2004,Prozent,Tertiärer Abschluss,Weiblich,,,24.258
-2005,Prozent,Tertiärer Abschluss,Weiblich,,,24.128
-2006,Prozent,Tertiärer Abschluss,Weiblich,,,24.415
-2007,Prozent,Tertiärer Abschluss,Weiblich,,,25.663
-2008,Prozent,Tertiärer Abschluss,Weiblich,,,26.974
-2009,Prozent,Tertiärer Abschluss,Weiblich,,,29.178
-1999,Prozent,Tertiärer Abschluss,Männlich,,,28.072
-2010,Prozent,Tertiärer Abschluss,Männlich,,,29.879
-2011,Prozent,Tertiärer Abschluss,Männlich,,,29.843
-2012,Prozent,Tertiärer Abschluss,Männlich,,,30.946
-2013,Prozent,Tertiärer Abschluss,Männlich,,,32.178
-2014,Prozent,Tertiärer Abschluss,Männlich,,,31.922
-2015,Prozent,Tertiärer Abschluss,Männlich,,,32.19
-2016,Prozent,Tertiärer Abschluss,Männlich,,,33.3
-2017,Prozent,Tertiärer Abschluss,Männlich,,,33.816
-2018,Prozent,Tertiärer Abschluss,Männlich,,,34.535
+1999,Prozent,Tertiärer Abschluss,Weiblich,,,20.9
+2010,Prozent,Tertiärer Abschluss,Weiblich,,,29.4
+2011,Prozent,Tertiärer Abschluss,Weiblich,,,31.3
+2012,Prozent,Tertiärer Abschluss,Weiblich,,,32.6
+2013,Prozent,Tertiärer Abschluss,Weiblich,,,33.7
+2014,Prozent,Tertiärer Abschluss,Weiblich,,,30.8
+2015,Prozent,Tertiärer Abschluss,Weiblich,,,32.4
+2016,Prozent,Tertiärer Abschluss,Weiblich,,,33.0
+2017,Prozent,Tertiärer Abschluss,Weiblich,,,34.2
+2018,Prozent,Tertiärer Abschluss,Weiblich,,,35.4
+2019,Prozent,Tertiärer Abschluss,Weiblich,,,35.9
+2020,Prozent,Tertiärer Abschluss,Weiblich,,,36.6
+2021,Prozent,Tertiärer Abschluss,Weiblich,,,39.6
+2022,Prozent,Tertiärer Abschluss,Weiblich,,,40.6
+2000,Prozent,Tertiärer Abschluss,Weiblich,,,22.6
+2001,Prozent,Tertiärer Abschluss,Weiblich,,,21.9
+2002,Prozent,Tertiärer Abschluss,Weiblich,,,21.4
+2003,Prozent,Tertiärer Abschluss,Weiblich,,,22.5
+2004,Prozent,Tertiärer Abschluss,Weiblich,,,24.3
+2005,Prozent,Tertiärer Abschluss,Weiblich,,,24.1
+2006,Prozent,Tertiärer Abschluss,Weiblich,,,24.4
+2007,Prozent,Tertiärer Abschluss,Weiblich,,,25.7
+2008,Prozent,Tertiärer Abschluss,Weiblich,,,27.0
+2009,Prozent,Tertiärer Abschluss,Weiblich,,,29.2
+1999,Prozent,Tertiärer Abschluss,Männlich,,,28.0
+2010,Prozent,Tertiärer Abschluss,Männlich,,,29.9
+2011,Prozent,Tertiärer Abschluss,Männlich,,,29.9
+2012,Prozent,Tertiärer Abschluss,Männlich,,,31.0
+2013,Prozent,Tertiärer Abschluss,Männlich,,,32.2
+2014,Prozent,Tertiärer Abschluss,Männlich,,,32.0
+2015,Prozent,Tertiärer Abschluss,Männlich,,,32.2
+2016,Prozent,Tertiärer Abschluss,Männlich,,,33.4
+2017,Prozent,Tertiärer Abschluss,Männlich,,,33.8
+2018,Prozent,Tertiärer Abschluss,Männlich,,,34.5
 2019,Prozent,Tertiärer Abschluss,Männlich,,,35.1
-2020,Prozent,Tertiärer Abschluss,Männlich,,,36.0
-2021,Prozent,Tertiärer Abschluss,Männlich,,,37.0
-2000,Prozent,Tertiärer Abschluss,Männlich,,,28.762
-2001,Prozent,Tertiärer Abschluss,Männlich,,,28.33
-2002,Prozent,Tertiärer Abschluss,Männlich,,,27.933
-2003,Prozent,Tertiärer Abschluss,Männlich,,,27.431
-2004,Prozent,Tertiärer Abschluss,Männlich,,,29.151
-2005,Prozent,Tertiärer Abschluss,Männlich,,,27.957
-2006,Prozent,Tertiärer Abschluss,Männlich,,,27.247
-2007,Prozent,Tertiärer Abschluss,Männlich,,,27.31
-2008,Prozent,Tertiärer Abschluss,Männlich,,,28.226
-2009,Prozent,Tertiärer Abschluss,Männlich,,,29.56
+2020,Prozent,Tertiärer Abschluss,Männlich,,,36.6
+2021,Prozent,Tertiärer Abschluss,Männlich,,,38.3
+2022,Prozent,Tertiärer Abschluss,Männlich,,,38.1
+2000,Prozent,Tertiärer Abschluss,Männlich,,,28.8
+2001,Prozent,Tertiärer Abschluss,Männlich,,,29.0
+2002,Prozent,Tertiärer Abschluss,Männlich,,,26.8
+2003,Prozent,Tertiärer Abschluss,Männlich,,,27.5
+2004,Prozent,Tertiärer Abschluss,Männlich,,,29.1
+2005,Prozent,Tertiärer Abschluss,Männlich,,,28.0
+2006,Prozent,Tertiärer Abschluss,Männlich,,,27.2
+2007,Prozent,Tertiärer Abschluss,Männlich,,,27.3
+2008,Prozent,Tertiärer Abschluss,Männlich,,,28.3
+2009,Prozent,Tertiärer Abschluss,Männlich,,,29.6
 1999,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,8.55
 2010,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,11.545
 2011,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,11.548
@@ -968,6 +974,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,14.988
 2020,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,15.7
 2021,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,15.4
+2022,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,
 2000,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,7.666
 2001,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,8.12
 2002,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,8.206
@@ -992,6 +999,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,18.411
 2020,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,19.328
 2021,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,18.8
+2022,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,
 2000,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,9.101
 2001,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,9.4
 2002,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,9.16
@@ -1015,6 +1023,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,11.664
 2020,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,12.261
 2021,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,12.1
+2022,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,
 2000,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,6.283
 2001,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,6.869
 2002,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,7.29
