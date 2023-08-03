@@ -1292,7 +1292,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
-                "Einwohner/ -innen pro m² Siedlungs- und Verkehrsfläche",
+                "Einwohner/-innen pro m² Siedlungs- und Verkehrsfläche",
                 ""
               ]
             },
@@ -2328,7 +2328,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner/ -innen",
+                "Je 100 000 Einwohner/-innen",
                 ""
               ]
             },
@@ -3471,7 +3471,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner/ -innen",
+                "Je 100 000 Einwohner/-innen",
                 ""
               ]
             },
