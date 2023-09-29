@@ -82,18 +82,18 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2007,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2008,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2009,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
-2010,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.76
+2010,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.758
 2011,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2012,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2013,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
-2014,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.76
+2014,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.762
 2015,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2016,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
-2017,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.74
+2017,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.739
 2018,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2019,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2020,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
-2021,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.73
+2021,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,0.727
 2022,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,,,
 2007,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
 2008,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
@@ -109,7 +109,7 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2018,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
 2019,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
 2020,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
-2021,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
+2021,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,0.694
 2022,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,,,
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Baden-Württemberg,code08,0.29
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Baden-Württemberg,code08,0.29
