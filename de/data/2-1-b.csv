@@ -1,5 +1,6 @@
 Year,Units,Series,Bundesland,GeoCode,Value
 1999,Prozent,Daten des Statistischen Bundesamtes,,,2.852
+2000,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,,,3.573
 2002,Prozent,Daten des Statistischen Bundesamtes,,,
 2003,Prozent,Daten des Statistischen Bundesamtes,,,4.299
@@ -23,7 +24,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2021,Prozent,Daten des Statistischen Bundesamtes,,,9.65
 2022,Prozent,Daten des Statistischen Bundesamtes,,,9.77
 2023,Prozent,Daten des Statistischen Bundesamtes,,,11.17
-2000,Prozent,Daten des Statistischen Bundesamtes,,,
 2030,Prozent,Daten des Statistischen Bundesamtes,,,
 1999,Prozent,Daten des Statistischen Bundesamtes,Baden-Württemberg,code08,5.3
 2001,Prozent,Daten des Statistischen Bundesamtes,Baden-Württemberg,code08,6.7
@@ -170,7 +170,8 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2016,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,4.314
 2020,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,6.58
 2023,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,8.157
-1999,Prozent,Daten des BMEL,,,
+1999,Prozent,Daten des BMEL,,,2.6
+2000,Prozent,Daten des BMEL,,,3.2
 2001,Prozent,Daten des BMEL,,,3.7
 2002,Prozent,Daten des BMEL,,,4.1
 2003,Prozent,Daten des BMEL,,,4.3
@@ -194,5 +195,4 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2021,Prozent,Daten des BMEL,,,10.9
 2022,Prozent,Daten des BMEL,,,11.2
 2023,Prozent,Daten des BMEL,,,
-2000,Prozent,Daten des BMEL,,,
 2030,Prozent,Daten des BMEL,,,
