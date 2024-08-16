@@ -116,6 +116,16 @@ prose:
           element: text
           lable: "data state"
           scope: national
+      - name: "national_data_updated_date"
+        field:
+            element: hidden
+            label: "Data last updated"
+            scope: national
+      - name: "national_metadata_updated_date"
+        field:
+            element: hidden
+            label: "Metadata last updated"
+            scope: national
       - name: "national_data_update_url"
         field:
             element: hidden
