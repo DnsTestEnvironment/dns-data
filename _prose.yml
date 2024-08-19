@@ -121,6 +121,7 @@ prose:
             element: hidden
             label: "Data last updated"
             scope: national
+            translation_key: metadata_fields.data_last_update
       # - name: "national_metadata_updated_date"
       #   field:
       #       element: hidden
