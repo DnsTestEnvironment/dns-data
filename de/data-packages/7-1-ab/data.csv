@@ -83,7 +83,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,2008 = 100,Endenergieproduktivität,Bremen,code04,99.811
 2014,2008 = 100,Endenergieproduktivität,Bremen,code04,95.753
 2015,2008 = 100,Endenergieproduktivität,Bremen,code04,97.558
-2016,2008 = 100,Endenergieproduktivität,Bremen,code04,100.05
+2016,2008 = 100,Endenergieproduktivität,Bremen,code04,100.049
 2017,2008 = 100,Endenergieproduktivität,Bremen,code04,105.975
 2018,2008 = 100,Endenergieproduktivität,Bremen,code04,105.452
 2019,2008 = 100,Endenergieproduktivität,Bremen,code04,108.11
@@ -100,7 +100,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Hamburg,code02,112.132
 2018,2008 = 100,Endenergieproduktivität,Hamburg,code02,110.398
 2019,2008 = 100,Endenergieproduktivität,Hamburg,code02,114.879
-2020,2008 = 100,Endenergieproduktivität,Hamburg,code02,118.35
+2020,2008 = 100,Endenergieproduktivität,Hamburg,code02,118.349
 2021,2008 = 100,Endenergieproduktivität,Hamburg,code02,115.683
 2022,2008 = 100,Endenergieproduktivität,Hamburg,code02,129.484
 2008,2008 = 100,Endenergieproduktivität,Hessen,code06,100.0
@@ -158,7 +158,8 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,123.777
 2018,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,119.864
 2019,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,119.529
-2020,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,120.399
+2020,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,119.853
+2021,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,120.399
 2008,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,100.0
 2009,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,99.392
 2010,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,99.844

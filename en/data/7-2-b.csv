@@ -57,7 +57,7 @@ Year,Units,Federal state,GeoCode,Value
 2005,Percentage,Berlin,code11,0.745
 2006,Percentage,Berlin,code11,0.813
 2007,Percentage,Berlin,code11,0.832
-2010,Percentage,Berlin,code11,2.35
+2010,Percentage,Berlin,code11,2.349
 2011,Percentage,Berlin,code11,2.385
 2012,Percentage,Berlin,code11,1.704
 2013,Percentage,Berlin,code11,1.891
@@ -103,7 +103,7 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Bremen,code04,14.805
 2018,Percentage,Bremen,code04,14.716
 2019,Percentage,Bremen,code04,16.285
-2020,Percentage,Bremen,code04,17.972
+2020,Percentage,Bremen,code04,17.809
 2021,Percentage,Bremen,code04,18.051
 2005,Percentage,Hamburg,code02,1.317
 2006,Percentage,Hamburg,code02,2.741
@@ -225,13 +225,13 @@ Year,Units,Federal state,GeoCode,Value
 2019,Percentage,Saxony,code14,22.781
 2020,Percentage,Saxony,code14,24.672
 2021,Percentage,Saxony,code14,21.858
-2022,Percentage,Saxony,code14,22.913
+2022,Percentage,Saxony,code14,22.813
 2005,Percentage,Saxony-Anhalt,code15,18.799
 2006,Percentage,Saxony-Anhalt,code15,22.689
 2007,Percentage,Saxony-Anhalt,code15,33.829
 2008,Percentage,Saxony-Anhalt,code15,38.277
 2009,Percentage,Saxony-Anhalt,code15,41.648
-2010,Percentage,Saxony-Anhalt,code15,41.994
+2010,Percentage,Saxony-Anhalt,code15,41.694
 2011,Percentage,Saxony-Anhalt,code15,47.408
 2012,Percentage,Saxony-Anhalt,code15,53.137
 2013,Percentage,Saxony-Anhalt,code15,56.373

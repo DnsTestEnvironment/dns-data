@@ -57,7 +57,7 @@ Year,Units,Bundesland,GeoCode,Value
 2005,Prozent,Berlin,code11,0.745
 2006,Prozent,Berlin,code11,0.813
 2007,Prozent,Berlin,code11,0.832
-2010,Prozent,Berlin,code11,2.35
+2010,Prozent,Berlin,code11,2.349
 2011,Prozent,Berlin,code11,2.385
 2012,Prozent,Berlin,code11,1.704
 2013,Prozent,Berlin,code11,1.891
@@ -103,7 +103,7 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Bremen,code04,14.805
 2018,Prozent,Bremen,code04,14.716
 2019,Prozent,Bremen,code04,16.285
-2020,Prozent,Bremen,code04,17.972
+2020,Prozent,Bremen,code04,17.809
 2021,Prozent,Bremen,code04,18.051
 2005,Prozent,Hamburg,code02,1.317
 2006,Prozent,Hamburg,code02,2.741
@@ -225,13 +225,13 @@ Year,Units,Bundesland,GeoCode,Value
 2019,Prozent,Sachsen,code14,22.781
 2020,Prozent,Sachsen,code14,24.672
 2021,Prozent,Sachsen,code14,21.858
-2022,Prozent,Sachsen,code14,22.913
+2022,Prozent,Sachsen,code14,22.813
 2005,Prozent,Sachsen-Anhalt,code15,18.799
 2006,Prozent,Sachsen-Anhalt,code15,22.689
 2007,Prozent,Sachsen-Anhalt,code15,33.829
 2008,Prozent,Sachsen-Anhalt,code15,38.277
 2009,Prozent,Sachsen-Anhalt,code15,41.648
-2010,Prozent,Sachsen-Anhalt,code15,41.994
+2010,Prozent,Sachsen-Anhalt,code15,41.694
 2011,Prozent,Sachsen-Anhalt,code15,47.408
 2012,Prozent,Sachsen-Anhalt,code15,53.137
 2013,Prozent,Sachsen-Anhalt,code15,56.373

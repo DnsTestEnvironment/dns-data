@@ -161,7 +161,7 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.0
 2019,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,88.1
 2020,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.7
-2021,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.75
+2021,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.7
 2022,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,85.286
 1996,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,76.3
 1997,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,76.6
@@ -1647,7 +1647,7 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2019,Percentage,Germans,,Lower Saxony,code03,94.7
 2020,Percentage,Germans,,Lower Saxony,code03,93.4
 2021,Percentage,Germans,,Lower Saxony,code03,95.164
-2022,Percentage,Germans,,Lower Saxony,code03,94.964
+2022,Percentage,Germans,,Lower Saxony,code03,94.7
 1996,Percentage,Germans,,North Rhine-Westphalia,code05,95.3
 1997,Percentage,Germans,,North Rhine-Westphalia,code05,95.0
 1998,Percentage,Germans,,North Rhine-Westphalia,code05,95.1
@@ -1782,7 +1782,7 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2019,Percentage,Germans,,Saxony-Anhalt,code15,90.0
 2020,Percentage,Germans,,Saxony-Anhalt,code15,90.9
 2021,Percentage,Germans,,Saxony-Anhalt,code15,91.37
-2022,Percentage,Germans,,Saxony-Anhalt,code15,89.239
+2022,Percentage,Germans,,Saxony-Anhalt,code15,89.339
 1996,Percentage,Germans,,Schleswig-Holstein,code01,91.0
 1997,Percentage,Germans,,Schleswig-Holstein,code01,90.5
 1998,Percentage,Germans,,Schleswig-Holstein,code01,89.9
@@ -2147,7 +2147,7 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2005,Percentage points,Difference,,Hesse,code06,10.2
 2006,Percentage points,Difference,,Hesse,code06,9.6
 2007,Percentage points,Difference,,Hesse,code06,9.5
-2008,Percentage points,Difference,,Hesse,code06,7.5
+2008,Percentage points,Difference,,Hesse,code06,7.4
 2009,Percentage points,Difference,,Hesse,code06,8.9
 2010,Percentage points,Difference,,Hesse,code06,8.4
 2011,Percentage points,Difference,,Hesse,code06,7.6

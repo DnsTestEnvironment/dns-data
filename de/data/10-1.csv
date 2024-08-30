@@ -161,7 +161,7 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,87.0
 2019,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,88.1
 2020,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,87.7
-2021,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,87.75
+2021,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,87.7
 2022,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,85.286
 1996,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,76.3
 1997,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,76.6
@@ -1647,7 +1647,7 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Niedersachsen,code03,94.7
 2020,Prozent,Deutsche,,Niedersachsen,code03,93.4
 2021,Prozent,Deutsche,,Niedersachsen,code03,95.164
-2022,Prozent,Deutsche,,Niedersachsen,code03,94.964
+2022,Prozent,Deutsche,,Niedersachsen,code03,94.7
 1996,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.3
 1997,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.0
 1998,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.1
@@ -1782,7 +1782,7 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Sachsen-Anhalt,code15,90.0
 2020,Prozent,Deutsche,,Sachsen-Anhalt,code15,90.9
 2021,Prozent,Deutsche,,Sachsen-Anhalt,code15,91.37
-2022,Prozent,Deutsche,,Sachsen-Anhalt,code15,89.239
+2022,Prozent,Deutsche,,Sachsen-Anhalt,code15,89.339
 1996,Prozent,Deutsche,,Schleswig-Holstein,code01,91.0
 1997,Prozent,Deutsche,,Schleswig-Holstein,code01,90.5
 1998,Prozent,Deutsche,,Schleswig-Holstein,code01,89.9
@@ -2147,7 +2147,7 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2005,Prozentpunkte,Differenz,,Hessen,code06,10.2
 2006,Prozentpunkte,Differenz,,Hessen,code06,9.6
 2007,Prozentpunkte,Differenz,,Hessen,code06,9.5
-2008,Prozentpunkte,Differenz,,Hessen,code06,7.5
+2008,Prozentpunkte,Differenz,,Hessen,code06,7.4
 2009,Prozentpunkte,Differenz,,Hessen,code06,8.9
 2010,Prozentpunkte,Differenz,,Hessen,code06,8.4
 2011,Prozentpunkte,Differenz,,Hessen,code06,7.6

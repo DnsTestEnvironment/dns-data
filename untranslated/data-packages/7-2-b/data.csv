@@ -57,7 +57,7 @@ Year,Units,federal state,GeoCode,Value
 2005,percentage,berlin,code11,0.745
 2006,percentage,berlin,code11,0.813
 2007,percentage,berlin,code11,0.832
-2010,percentage,berlin,code11,2.35
+2010,percentage,berlin,code11,2.349
 2011,percentage,berlin,code11,2.385
 2012,percentage,berlin,code11,1.704
 2013,percentage,berlin,code11,1.891
@@ -103,7 +103,7 @@ Year,Units,federal state,GeoCode,Value
 2017,percentage,bremen,code04,14.805
 2018,percentage,bremen,code04,14.716
 2019,percentage,bremen,code04,16.285
-2020,percentage,bremen,code04,17.972
+2020,percentage,bremen,code04,17.809
 2021,percentage,bremen,code04,18.051
 2005,percentage,hamburg,code02,1.317
 2006,percentage,hamburg,code02,2.741
@@ -225,13 +225,13 @@ Year,Units,federal state,GeoCode,Value
 2019,percentage,saxony,code14,22.781
 2020,percentage,saxony,code14,24.672
 2021,percentage,saxony,code14,21.858
-2022,percentage,saxony,code14,22.913
+2022,percentage,saxony,code14,22.813
 2005,percentage,saxony-anhalt,code15,18.799
 2006,percentage,saxony-anhalt,code15,22.689
 2007,percentage,saxony-anhalt,code15,33.829
 2008,percentage,saxony-anhalt,code15,38.277
 2009,percentage,saxony-anhalt,code15,41.648
-2010,percentage,saxony-anhalt,code15,41.994
+2010,percentage,saxony-anhalt,code15,41.694
 2011,percentage,saxony-anhalt,code15,47.408
 2012,percentage,saxony-anhalt,code15,53.137
 2013,percentage,saxony-anhalt,code15,56.373
