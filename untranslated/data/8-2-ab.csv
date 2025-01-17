@@ -18,6 +18,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2021,percentage,government deficit,,,-3.167
 2022,percentage,government deficit,,,-2.147
 2023,percentage,government deficit,,,-2.569
+2024,percentage,government deficit,,,-2.625
 2005,percentage,structural deficit,,,-2.315
 2006,percentage,structural deficit,,,-1.958
 2007,percentage,structural deficit,,,-0.822
@@ -37,6 +38,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2021,percentage,structural deficit,,,-2.616
 2022,percentage,structural deficit,,,-1.686
 2023,percentage,structural deficit,,,-2.037
+2024,percentage,structural deficit,,,
 2005,percentage,gross domestic product (price-adjusted),,,0.9
 2006,percentage,gross domestic product (price-adjusted),,,3.9
 2007,percentage,gross domestic product (price-adjusted),,,2.9
@@ -56,6 +58,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2021,percentage,gross domestic product (price-adjusted),,,3.7
 2022,percentage,gross domestic product (price-adjusted),,,1.4
 2023,percentage,gross domestic product (price-adjusted),,,-0.3
+2024,percentage,gross domestic product (price-adjusted),,,-0.2
 2010,percentage,structural deficit,baden-wuerttemberg,code08,-0.396
 2011,percentage,structural deficit,baden-wuerttemberg,code08,0.25
 2012,percentage,structural deficit,baden-wuerttemberg,code08,0.386
