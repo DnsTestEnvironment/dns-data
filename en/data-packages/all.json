@@ -35,7 +35,7 @@
           }
         ]
       },
-      "title": "Marktanteil von Produkten mit staatlichen Umweltzeichen"
+      "title": "Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln"
     },
     {
       "path": "2-1-a/data.csv",
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Moving five-year average shown for each middle year",
+                "Moving five-year average shown for the last year",
                 "Calculated annual values",
                 ""
               ]
@@ -115,8 +115,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "On supervisory boards of listed and fully co-determined companies",
-                "In management positions in the federal civil service",
+                "b) On supervisory boards of listed and fully co-determined companies",
+                "c) In management positions in the federal civil service",
                 ""
               ]
             },
@@ -151,6 +151,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage",
                 "Million EUR",
                 ""
               ]
@@ -158,16 +159,28 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pandemic prevention and response",
+                "XXXAnteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
+                "XXXInfolinie - Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "xxxzuordnung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Germany’s contribution to global pandemic prevention and response",
                 "Separate amount devoted to curbing the COVID-19 pandemic",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "XXXZuordnung"
           },
           {
             "name": "Value",
@@ -176,7 +189,7 @@
           }
         ]
       },
-      "title": "Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion"
+      "title": "Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt"
     },
     {
       "path": "8-2-ab/data.csv",
@@ -209,44 +222,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government deficit",
-                "Structural deficit",
+                "a) Government deficit",
+                "b) Structural deficit",
                 "Gross domestic product (price-adjusted)",
                 ""
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -284,35 +266,17 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "xxxsektoren",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXStaat und private Institutionen ohne Erwerbszweck",
+                "XXXHochschulen",
+                "XXXWirtschaft",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "XXXSektoren"
           },
           {
             "name": "Value",
@@ -354,8 +318,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Employment rate, total (20 to 64-year-olds)",
-                "Employment rate, older people (60 to 64-year-olds)",
+                "a) 20 to 64-year-olds",
+                "b) 55 to 64-year-olds",
                 ""
               ]
             },
@@ -374,35 +338,63 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Erwerbstätigenquote"
+    },
+    {
+      "path": "3-1-a/data.csv",
+      "name": "3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-9",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "Per 100,000 inhabitants",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Units"
           },
           {
-            "name": "GeoCode",
+            "name": "sex",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "xxxart der prävention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality avoidable through prevention",
+                "Mortality avoidable through treatment",
+                ""
+              ]
+            },
+            "title": "XXXArt der Prävention"
           },
           {
             "name": "Value",
@@ -411,7 +403,7 @@
           }
         ]
       },
-      "title": "Erwerbstätigenquote"
+      "title": "Durch Prävention und Behandlung vermeidbare Sterblichkeit"
     },
     {
       "path": "8-2-c/data.csv",
@@ -438,37 +430,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -556,35 +517,16 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXKinder, deren Väter Elterngeld bezogen haben",
+                "XXXMännliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -620,27 +562,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Hesse",
-                "Rhineland Palatinate",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -684,7 +605,7 @@
           }
         ]
       },
-      "title": "Mitglieder des Textilbündnisses"
+      "title": "Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)"
     },
     {
       "path": "3-1-f/data.csv",
@@ -748,37 +669,6 @@
             "title": "Age group"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -814,35 +704,39 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch"
+    },
+    {
+      "path": "15-4/data.csv",
+      "name": "15-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "Hectre",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -851,7 +745,68 @@
           }
         ]
       },
-      "title": "Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch"
+      "title": "Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)"
+    },
+    {
+      "path": "16-4/data.csv",
+      "name": "16-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of ratings",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Effectiveness",
+                "XXXTechnical compliance",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Effectiveness = Substantial or high",
+                "Effectiveness = Low or moderate",
+                "Technical compliance = Largely compliant or compliant",
+                "Technical compliance = Non-compliant or partially compliant",
+                ""
+              ]
+            },
+            "title": "Rating"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Financial Action Task Force (FATF) rating effectiveness"
     },
     {
       "path": "16-3-ab/data.csv",
@@ -884,8 +839,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Corruption Perception Index in Germany",
-                "Number of partner countries for German development cooperation with improved CPI scores compared with 2012",
+                "XXXCorruption Perception Index in Germany",
+                "XXXNumber of partner countries for German development cooperation with improved CPI scores compared with 2012",
                 ""
               ]
             },
@@ -927,43 +882,13 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
+      "title": "Anteil erneuerbarer Energien am Bruttoendenergieverbrauch"
     },
     {
       "path": "4-1-b/data.csv",
@@ -996,12 +921,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "With tertiary qualification",
-                "With post-secondary non-tertiary qualification",
+                "XXXAkademisch Qualifizierte und beruflich Höherqualifizierte",
+                "XXXFachkräftepotenzial (insgesamt)",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXZweitausbildung, Ausbildung nach Abitur",
+                "XXXHöherqualifizierende Berufsausbildung",
+                "XXXHochschulabschlüsse",
+                "XXXErstausbildung",
+                ""
+              ]
+            },
+            "title": "Qualification"
           },
           {
             "name": "sex",
@@ -1014,37 +953,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1075,7 +983,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Miligrams per litre",
+                "Milligrams per litre",
                 ""
               ]
             },
@@ -1086,8 +994,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nitrogen input via the inflows into the Baltic Sea",
-                "Nitrogen input via the inflows into the North Sea",
+                "aa) Baltic Sea",
+                "ab) North Sea",
                 ""
               ]
             },
@@ -1100,11 +1008,11 @@
           }
         ]
       },
-      "title": "Stickstoffeintrag über die Zuflüsse in die Nord- und Ostsee"
+      "title": "Nährstoffeinträge in Küsten- und Meeresgewässer - Stickstoffeintrag über die Zuflüsse in die Ost- und Nordsee"
     },
     {
-      "path": "11-1-b/data.csv",
-      "name": "11-1-b",
+      "path": "11-3-a/data.csv",
+      "name": "11-3-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1122,54 +1030,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m² per year",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "degree of urbanisation",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-rural areas",
-                "Rural areas",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1178,7 +1055,54 @@
           }
         ]
       },
-      "title": "Freiraumverlust"
+      "title": "Anteil der Personen mit hohen Wohnkosten"
+    },
+    {
+      "path": "4-3-a/data.csv",
+      "name": "4-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Weiterbildungsbeteiligung"
     },
     {
       "path": "5-1-a/data.csv",
@@ -1207,35 +1131,16 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXUnbereinigter Gender Pay Gap",
+                "XXXBereinigter Gender Pay Gap",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1271,18 +1176,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "calculation method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Calculated as net expenditure",
-                "Calculated in grant equivalents",
-                ""
-              ]
-            },
-            "title": "Calculation method"
           },
           {
             "name": "Value",
@@ -1324,9 +1217,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of people gaining first-time or upgraded access to drinking water or sanitation",
-                "Number of people gaining first-time or upgraded access to drinking water",
-                "Number of people gaining first-time or improved access to sanitation",
+                "XXXPeople gaining first-time or upgraded access to drinking water or sanitation",
+                "XXXPeople gaining first-time or upgraded access to drinking water",
+                "XXXNumber of people gaining first-time or improved access to sanitation",
                 ""
               ]
             },
@@ -1340,86 +1233,6 @@
         ]
       },
       "title": "Entwicklungszusammenarbeit für Trinkwasser- und Sanitärversorgung"
-    },
-    {
-      "path": "12-2/data.csv",
-      "name": "12-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "1 000",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Locations of organisation registered with EMAS",
-                "Employees in EMAS organisations",
-                "EMAS organisations",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Umweltmanagement EMAS"
     },
     {
       "path": "16-2/data.csv",
@@ -1448,13 +1261,25 @@
             "title": "Units"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland"
+      "title": "Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit"
     },
     {
       "path": "14-1-b/data.csv",
@@ -1546,9 +1371,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct and indirect use of raw materials",
-                "Direct and indirect energy consumption",
-                "Direct and indirect CO₂ emissions",
+                "ba) Direct and indirect use of raw materials",
+                "bb) Direct and indirect energy consumption",
+                "bc) Direct and indirect CO₂ emissions",
                 ""
               ]
             },
@@ -1594,43 +1419,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All-day care provision for 0 to 2-year-old children",
-                "All-day care provision for 3 to 5-year-old children",
+                "a) 0 to 2-year-olds",
+                "b) 3 to 5-year-olds",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "federal state",
+            "name": "xxxart der betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXKindertageseinrichtungen",
+                "XXXTagespflege",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "XXXArt der Betreuung"
           },
           {
             "name": "Value",
@@ -1672,43 +1478,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Final energy productivity",
-                "Primary energy consumption",
+                "a) Final energy productivity",
+                "b) Primary energy consumption",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                "Saarland",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1768,53 +1543,6 @@
       "title": "Endenergieverbrauch im Personenverkehr"
     },
     {
-      "path": "11-4/data.csv",
-      "name": "11-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millions",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Objects with digitised media",
-                "Objects without digitised media",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zahl der Objekte in der Deutschen Digitalen Bibliothek"
-    },
-    {
       "path": "15-2/data.csv",
       "name": "15-2",
       "profile": "tabular-data-resource",
@@ -1850,6 +1578,76 @@
       "title": "Eutrophierung der Ökosysteme"
     },
     {
+      "path": "5-1-g/data.csv",
+      "name": "5-1-g",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit"
+    },
+    {
+      "path": "15-3/data.csv",
+      "name": "15-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bodenversiegelungsgrad"
+    },
+    {
       "path": "1-1-ab/data.csv",
       "name": "1-1-ab",
       "profile": "tabular-data-resource",
@@ -1880,8 +1678,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Material deprivation",
-                "Severe material deprivation",
+                "a) Material and social deprivation",
+                "b) Severe material and social deprivation",
                 ""
               ]
             },
@@ -1918,11 +1716,11 @@
           }
         ]
       },
-      "title": "Materielle Deprivation sowie erhebliche materielle Deprivation"
+      "title": "Materielle und soziale Deprivation sowie erhebliche materielle und soziale Deprivation"
     },
     {
-      "path": "11-3/data.csv",
-      "name": "11-3",
+      "path": "3-2-b/data.csv",
+      "name": "3-2-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1947,60 +1745,13 @@
             "title": "Units"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Überlastung durch Wohnkosten"
-    },
-    {
-      "path": "3-2-b/data.csv",
-      "name": "3-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millions",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Anteil der Bevölkerung mit erhöhter PM₁₀-Feinstaubexposition"
+      "title": "Anteil der Bevölkerung mit erhöhter PM₂,₅-Feinstaubexposition"
     },
     {
       "path": "10-1/data.csv",
@@ -2055,44 +1806,13 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Ausländische Schulabsolventinnen und Schulabsolventen"
+      "title": "Ausländische Schulabsolvierende"
     },
     {
       "path": "8-1/data.csv",
@@ -2114,7 +1834,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2000 = 100",
+                "2010 = 100",
                 ""
               ]
             },
@@ -2128,6 +1848,8 @@
                 "Raw material input productivity",
                 "Raw material input for consumption, investment and exports",
                 "Value of consumption, investment and exports (price-adjusted)",
+                "XXX<u>Infolinie:</u> Rohstoffeinsatz für Konsum und Investitionen (RMC)",
+                "XXX<u>Infolinie:</u> Rohstoffeinsatz für Exporte (RMC)",
                 ""
               ]
             },
@@ -2141,53 +1863,6 @@
         ]
       },
       "title": "Gesamtrohstoffproduktivität"
-    },
-    {
-      "path": "15-3-ab/data.csv",
-      "name": "15-3-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million EUR",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Preservation or restoration of forests in developing countries under the REDD+ rulebook",
-                "German gross bilateral development expenditure for the implementation of the UN Convention to Combat Desertification",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Erhalt bzw. Wiederaufbau von Wäldern unter REDD+ sowie internationaler Bodenschutz"
     },
     {
       "path": "8-3/data.csv",
@@ -2216,44 +1891,13 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Verhältnis der Bruttoanlageinvestitionen zum BIP"
+      "title": "Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)"
     },
     {
       "path": "17-2/data.csv",
@@ -2296,48 +1940,17 @@
             "title": "Time series"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr"
+      "title": "Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern"
     },
     {
-      "path": "12-3-ab/data.csv",
-      "name": "12-3-ab",
+      "path": "11-3-b/data.csv",
+      "name": "11-3-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2355,23 +1968,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015 = 100",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Paper bearing the Blue Angel label as a proportion of the total paper consumption of the direct federal administration",
-                "CO₂ emissions of commercially available vehicles in the public sector",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -2380,7 +1981,42 @@
           }
         ]
       },
-      "title": "Nachhaltige Beschaffung"
+      "title": "Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten"
+    },
+    {
+      "path": "12-2-b/data.csv",
+      "name": "12-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen"
     },
     {
       "path": "3-1-cd/data.csv",
@@ -2413,8 +2049,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adolescents",
-                "Adults",
+                "c) Adolescents",
+                "d) Adults",
                 ""
               ]
             },
@@ -2433,35 +2069,39 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Raucherquote von Jugendlichen und Erwachsenen"
+    },
+    {
+      "path": "12-4/data.csv",
+      "name": "12-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -2470,7 +2110,7 @@
           }
         ]
       },
-      "title": "Raucherquote von Jugendlichen und Erwachsenen"
+      "title": "Verbraucherverschuldung"
     },
     {
       "path": "4-1-a/data.csv",
@@ -2511,44 +2151,13 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Frühe Schulabgängerinnen und Schulabgänger"
+      "title": "Frühe Schul- und Ausbildungsabgängerinnen und -abgänger"
     },
     {
       "path": "11-2-c/data.csv",
@@ -2589,35 +2198,53 @@
             "title": "Time series"
           },
           {
-            "name": "federal state",
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln"
+    },
+    {
+      "path": "12-3-abc/data.csv",
+      "name": "12-3-abc",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "Percentage",
+                "2015 = 100",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Units"
           },
           {
-            "name": "GeoCode",
+            "name": "Series",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "XXXa) Anteil nachhaltiger Vergabeverfahren",
+                "b) CO₂ emissions of commercially available vehicles in the public sector",
+                "XXXc) Nachhaltige Textilbeschaffung",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2626,7 +2253,7 @@
           }
         ]
       },
-      "title": "Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln"
+      "title": "Nachhaltige Beschaffung"
     },
     {
       "path": "6-1-a/data.csv",
@@ -2662,6 +2289,141 @@
         ]
       },
       "title": "Phosphor in Fließgewässern"
+    },
+    {
+      "path": "8-5-c/data.csv",
+      "name": "8-5-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "xxxart der tarifverträge",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXBranchen-/Flächentarifvertrag",
+                "XXXFirmen-/Haustarifvertrag",
+                ""
+              ]
+            },
+            "title": "XXXArt der Tarifverträge"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tarifgebundene Beschäftigungsverhältnisse"
+    },
+    {
+      "path": "4-1-c/data.csv",
+      "name": "4-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)"
+    },
+    {
+      "path": "4-3-b/data.csv",
+      "name": "4-3-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage points",
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "xxxrisikolage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
+                "XXXKeine Risikolage",
+                "XXXMindestens eine Risikolage",
+                "Total",
+                ""
+              ]
+            },
+            "title": "XXXRisikolage"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung"
     },
     {
       "path": "2-2/data.csv",
@@ -2770,84 +2532,6 @@
       "title": "Adipositasquote von Kindern und Jugendlichen"
     },
     {
-      "path": "3-1-ab/data.csv",
-      "name": "3-1-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 100,000 inhabitants",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Premature death (women)",
-                "Premature death (men)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Vorzeitige Sterblichkeit"
-    },
-    {
       "path": "8-4/data.csv",
       "name": "8-4",
       "profile": "tabular-data-resource",
@@ -2872,449 +2556,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "county",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stuttgart, Stadt",
-                "Böblingen",
-                "Esslingen",
-                "Göppingen",
-                "Ludwigsburg",
-                "Rems-Murr-Kreis",
-                "Heilbronn, Stadt",
-                "Heilbronn",
-                "Hohenlohekreis",
-                "Schwäbisch Hall",
-                "Main-Tauber-Kreis",
-                "Heidenheim",
-                "Ostalbkreis",
-                "Baden-Baden, Stadt",
-                "Karlsruhe, Stadt",
-                "Karlsruhe",
-                "Rastatt",
-                "Heidelberg, Stadt",
-                "Mannheim, Stadt",
-                "Neckar-Odenwald-Kreis",
-                "Rhein-Neckar-Kreis",
-                "Pforzheim, Stadt",
-                "Calw",
-                "Enzkreis",
-                "Freudenstadt",
-                "Freiburg im Breisgau, Stadt",
-                "Breisgau-Hochschwarzwald",
-                "Emmendingen",
-                "Ortenaukreis",
-                "Rottweil",
-                "Schwarzwald-Baar-Kreis",
-                "Tuttlingen",
-                "Konstanz",
-                "Lörrach",
-                "Waldshut",
-                "Reutlingen",
-                "Tübingen",
-                "Zollernalbkreis",
-                "Ulm, Stadt",
-                "Alb-Donau-Kreis",
-                "Biberach",
-                "Bodenseekreis",
-                "Ravensburg",
-                "Sigmaringen",
-                "Ingolstadt, Stadt",
-                "München, Stadt",
-                "Rosenheim, Stadt",
-                "Altötting",
-                "Berchtesgadener Land",
-                "Bad Tölz-Wolfratshausen",
-                "Dachau",
-                "Ebersberg",
-                "Eichstätt",
-                "Erding",
-                "Freising",
-                "Fürstenfeldbruck",
-                "Garmisch-Partenkirchen",
-                "Landsberg am Lech",
-                "Miesbach",
-                "Mühldorf am Inn",
-                "München",
-                "Neuburg-Schrobenhausen",
-                "Pfaffenhofen an der Ilm",
-                "Rosenheim",
-                "Starnberg",
-                "Traunstein",
-                "Weilheim-Schongau",
-                "Landshut, Stadt",
-                "Passau, Stadt",
-                "Straubing, Stadt",
-                "Deggendorf",
-                "Freyung-Grafenau",
-                "Kelheim",
-                "Landshut",
-                "Passau",
-                "Regen",
-                "Rottal-Inn",
-                "Straubing-Bogen",
-                "Dingolfing-Landau",
-                "Amberg, Stadt",
-                "Regensburg, Stadt",
-                "Weiden in der Oberpfalz, Stadt",
-                "Amberg-Sulzbach",
-                "Cham",
-                "Neumarkt in der Oberpfalz",
-                "Neustadt an der Waldnaab",
-                "Regensburg",
-                "Schwandorf",
-                "Tirschenreuth",
-                "Bamberg, Stadt",
-                "Bayreuth, Stadt",
-                "Coburg, Stadt",
-                "Hof, Stadt",
-                "Bamberg",
-                "Bayreuth",
-                "Coburg",
-                "Forchheim",
-                "Hof",
-                "Kronach",
-                "Kulmbach",
-                "Lichtenfels",
-                "Wunsiedel im Fichtelgebirge",
-                "Ansbach, Stadt",
-                "Erlangen, Stadt",
-                "Fürth, Stadt",
-                "Nürnberg, Stadt",
-                "Schwabach, Stadt",
-                "Ansbach",
-                "Erlangen-Höchstadt",
-                "Fürth",
-                "Nürnberger Land",
-                "Neustadt an der Aisch-Bad Windsheim",
-                "Roth",
-                "Weißenburg-Gunzenhausen",
-                "Aschaffenburg, Stadt",
-                "Schweinfurt, Stadt",
-                "Würzburg, Stadt",
-                "Aschaffenburg",
-                "Bad Kissingen",
-                "Rhön-Grabfeld",
-                "Haßberge",
-                "Kitzingen",
-                "Miltenberg",
-                "Main-Spessart",
-                "Schweinfurt",
-                "Würzburg",
-                "Augsburg, Stadt",
-                "Kaufbeuren, Stadt",
-                "Kempten (Allgäu), Stadt",
-                "Memmingen, Stadt",
-                "Aichach-Friedberg",
-                "Augsburg",
-                "Dillingen an der Donau",
-                "Günzburg",
-                "Neu-Ulm",
-                "Lindau (Bodensee)",
-                "Ostallgäu",
-                "Unterallgäu",
-                "Donau-Ries",
-                "Oberallgäu",
-                "Berlin, Stadt",
-                "Brandenburg an der Havel, Stadt",
-                "Cottbus, Stadt",
-                "Frankfurt (Oder), Stadt",
-                "Potsdam, Stadt",
-                "Barnim",
-                "Dahme-Spreewald",
-                "Elbe-Elster",
-                "Havelland",
-                "Märkisch-Oderland",
-                "Oberhavel",
-                "Oberspreewald-Lausitz",
-                "Oder-Spree",
-                "Ostprignitz-Ruppin",
-                "Potsdam-Mittelmark",
-                "Prignitz",
-                "Spree-Neiße",
-                "Teltow-Fläming",
-                "Uckermark",
-                "Bremen, Stadt",
-                "Bremerhaven, Stadt",
-                "Hamburg",
-                "Darmstadt, Stadt",
-                "Frankfurt am Main, Stadt",
-                "Offenbach am Main, Stadt",
-                "Wiesbaden, Stadt",
-                "Bergstraße",
-                "Darmstadt-Dieburg",
-                "Groß-Gerau",
-                "Hochtaunuskreis",
-                "Main-Kinzig-Kreis",
-                "Main-Taunus-Kreis",
-                "Odenwaldkreis",
-                "Offenbach",
-                "Rheingau-Taunus-Kreis",
-                "Wetteraukreis",
-                "Gießen",
-                "Lahn-Dill-Kreis",
-                "Limburg-Weilburg",
-                "Marburg-Biedenkopf",
-                "Vogelsbergkreis",
-                "Kassel, Stadt",
-                "Fulda",
-                "Hersfeld-Rotenburg",
-                "Kassel",
-                "Schwalm-Eder-Kreis",
-                "Waldeck-Frankenberg",
-                "Werra-Meißner-Kreis",
-                "Rostock, Stadt",
-                "Schwerin, Stadt",
-                "Mecklenburgische Seenplatte",
-                "Rostock",
-                "Vorpommern-Rügen",
-                "Nordwestmecklenburg",
-                "Vorpommern-Greifswald",
-                "Ludwigslust-Parchim",
-                "Braunschweig, Stadt",
-                "Salzgitter, Stadt",
-                "Wolfsburg, Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Osterode am Harz",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Region Hannover",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Delmenhorst, Stadt",
-                "Emden, Stadt",
-                "Oldenburg (Oldenburg), Stadt",
-                "Osnabrück, Stadt",
-                "Wilhelmshaven, Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Düsseldorf, Stadt",
-                "Duisburg, Stadt",
-                "Essen, Stadt",
-                "Krefeld, Stadt",
-                "Mönchengladbach, Stadt",
-                "Mülheim an der Ruhr, Stadt",
-                "Oberhausen, Stadt",
-                "Remscheid, Stadt",
-                "Solingen, Stadt",
-                "Wuppertal, Stadt",
-                "Kleve",
-                "Mettmann",
-                "Rhein-Kreis Neuss",
-                "Viersen",
-                "Wesel",
-                "Bonn, Stadt",
-                "Köln, Stadt",
-                "Leverkusen, Stadt",
-                "Städteregion Aachen",
-                "Düren",
-                "Rhein-Erft-Kreis",
-                "Euskirchen",
-                "Heinsberg",
-                "Oberbergischer Kreis",
-                "Rheinisch-Bergischer Kreis",
-                "Rhein-Sieg-Kreis",
-                "Bottrop, Stadt",
-                "Gelsenkirchen, Stadt",
-                "Münster, Stadt",
-                "Borken",
-                "Coesfeld",
-                "Recklinghausen",
-                "Steinfurt",
-                "Warendorf",
-                "Bielefeld, Stadt",
-                "Gütersloh",
-                "Herford",
-                "Höxter",
-                "Lippe",
-                "Minden-Lübbecke",
-                "Paderborn",
-                "Bochum, Stadt",
-                "Dortmund, Stadt",
-                "Hagen, Stadt",
-                "Hamm, Stadt",
-                "Herne, Stadt",
-                "Ennepe-Ruhr-Kreis",
-                "Hochsauerlandkreis",
-                "Märkischer Kreis",
-                "Olpe",
-                "Siegen-Wittgenstein",
-                "Soest",
-                "Unna",
-                "Koblenz, Stadt",
-                "Ahrweiler",
-                "Altenkirchen (Westerwald)",
-                "Bad Kreuznach",
-                "Birkenfeld",
-                "Cochem-Zell",
-                "Mayen-Koblenz",
-                "Neuwied",
-                "Rhein-Hunsrück-Kreis",
-                "Rhein-Lahn-Kreis",
-                "Westerwaldkreis",
-                "Trier, Stadt",
-                "Bernkastel-Wittlich",
-                "Eifelkreis Bitburg-Prüm",
-                "Vulkaneifel",
-                "Trier-Saarburg",
-                "Frankenthal (Pfalz), Stadt",
-                "Kaiserslautern, Stadt",
-                "Landau in der Pfalz, Stadt",
-                "Ludwigshafen am Rhein, Stadt",
-                "Mainz, Stadt",
-                "Neustadt an der Weinstraße, Stadt",
-                "Pirmasens, Stadt",
-                "Speyer, Stadt",
-                "Worms, Stadt",
-                "Zweibrücken, Stadt",
-                "Alzey-Worms",
-                "Bad Dürkheim",
-                "Donnersbergkreis",
-                "Germersheim",
-                "Kaiserslautern",
-                "Kusel",
-                "Südliche Weinstraße",
-                "Rhein-Pfalz-Kreis",
-                "Mainz-Bingen",
-                "Südwestpfalz",
-                "Saarbrücken, Regionalverband",
-                "Merzig-Wadern",
-                "Neunkirchen",
-                "Saarlouis",
-                "Saarpfalz-Kreis",
-                "St. Wendel",
-                "Chemnitz, Stadt",
-                "Erzgebirgskreis",
-                "Mittelsachsen",
-                "Vogtlandkreis",
-                "Zwickau",
-                "Dresden, Stadt",
-                "Bautzen",
-                "Görlitz",
-                "Meißen",
-                "Sächsische Schweiz-Osterzgebirge",
-                "Leipzig, Stadt",
-                "Leipzig",
-                "Nordsachsen",
-                "Dessau-Roßlau, Stadt",
-                "Halle (Saale), Stadt",
-                "Magdeburg, Stadt",
-                "Altmarkkreis Salzwedel",
-                "Anhalt-Bitterfeld",
-                "Börde",
-                "Burgenlandkreis",
-                "Harz",
-                "Jerichower Land",
-                "Mansfeld-Südharz",
-                "Saalekreis",
-                "Salzlandkreis",
-                "Stendal",
-                "Wittenberg",
-                "Flensburg, Stadt",
-                "Kiel, Stadt",
-                "Lübeck, Stadt",
-                "Neumünster, Stadt",
-                "Dithmarschen",
-                "Herzogtum Lauenburg",
-                "Nordfriesland",
-                "Ostholstein",
-                "Pinneberg",
-                "Plön",
-                "Rendsburg-Eckernförde",
-                "Schleswig-Flensburg",
-                "Segeberg",
-                "Steinburg",
-                "Stormarn",
-                "Erfurt, Stadt",
-                "Gera, Stadt",
-                "Jena, Stadt",
-                "Suhl, Stadt",
-                "Weimar, Stadt",
-                "Eisenach, Stadt",
-                "Eichsfeld",
-                "Nordhausen",
-                "Wartburgkreis",
-                "Unstrut-Hainich-Kreis",
-                "Kyffhäuserkreis",
-                "Schmalkalden-Meiningen",
-                "Gotha",
-                "Sömmerda",
-                "Hildburghausen",
-                "Ilm-Kreis",
-                "Weimarer Land",
-                "Sonneberg",
-                "Saalfeld-Rudolstadt",
-                "Saale-Holzland-Kreis",
-                "Saale-Orla-Kreis",
-                "Greiz",
-                "Altenburger Land",
-                ""
-              ]
-            },
-            "title": "County"
           },
           {
             "name": "Value",
@@ -3371,43 +2612,12 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "EU",
+                "European Union",
                 "Eurozone",
                 ""
               ]
             },
             "title": "Area"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -3445,34 +2655,6 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Brandenburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3502,7 +2684,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
-                "Inhabitants per m² settlement and transport area",
+                "Inhabitants per km² settlement and transport area",
                 ""
               ]
             },
@@ -3519,37 +2701,6 @@
               ]
             },
             "title": "Degree of urbanisation"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -3596,88 +2747,8 @@
       "title": "Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel"
     },
     {
-      "path": "16-1/data.csv",
-      "name": "16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 100,000 inhabitants",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "criminal offences",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Dangerous and serious bodily injury",
-                "Fraud",
-                "Domestic burglary",
-                "Other offences",
-                ""
-              ]
-            },
-            "title": "Criminal offences"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Straftaten"
-    },
-    {
-      "path": "5-1-e/data.csv",
-      "name": "5-1-e",
+      "path": "5-1-f/data.csv",
+      "name": "5-1-f",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3709,6 +2780,54 @@
         ]
       },
       "title": "Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit"
+    },
+    {
+      "path": "5-1-e/data.csv",
+      "name": "5-1-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hours",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mothers",
+                "Fathers",
+                "Difference",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter"
     },
     {
       "path": "15-1/data.csv",
@@ -3759,6 +2878,55 @@
         ]
       },
       "title": "Artenvielfalt und Landschaftsqualität"
+    },
+    {
+      "path": "12-2-a/data.csv",
+      "name": "12-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "1 000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Locations of organisation registered with EMAS",
+                "Employees in EMAS organisations",
+                "EMAS organisations",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Umweltmanagementsystem (EMAS)"
     },
     {
       "path": "11-2-a/data.csv",
@@ -3895,44 +3063,13 @@
             "title": "Time series"
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Breitbandausbau"
+      "title": "Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung"
     },
     {
       "path": "2-1-b/data.csv",
@@ -3971,37 +3108,6 @@
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4062,37 +3168,6 @@
               ]
             },
             "title": "Type of area"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
