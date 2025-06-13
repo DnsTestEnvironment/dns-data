@@ -593,7 +593,7 @@
             "constraints": {
               "enum": [
                 "b) In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen",
-                "c) in the federal civil service",
+                "c) Im öffentlichen Dienst des Bundes",
                 ""
               ]
             },
@@ -819,8 +819,8 @@
                 "Gesamtrohstoffproduktivität",
                 "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
-                "Rohstoffeinsatz für Konsum und Investitionen (RMC)",
-                "Rohstoffeinsatz für Exporte (RMC)",
+                "Rohstoffeinsatz für Konsum und Investitionen",
+                "Rohstoffeinsatz für Exporte",
                 ""
               ]
             },
@@ -2633,8 +2633,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) corruption perceptions index in germany",
-                "b) corruption perceptions index in partner countries for german development cooperation",
+                "a) Corruption Perception Index in Deutschland",
+                "b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
                 ""
               ]
             },
@@ -2971,7 +2971,7 @@
             "constraints": {
               "enum": [
                 "a) Finanzierungssaldo",
-                "b) struktureller Finanzierungssaldo",
+                "b) Struktureller Finanzierungssaldo",
                 "Bruttoinlandsprodukt (preisbereinigt)",
                 ""
               ]
@@ -3070,8 +3070,8 @@
             "constraints": {
               "enum": [
                 "Mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung",
-                "a) with access to new or improved drinking water supply",
-                "b) with access to new or improved basic sanitation or wastewater treatment",
+                "a) Mit einer neuen oder verbesserten Trinkwasserversorgung",
+                "b) Mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung",
                 ""
               ]
             },
