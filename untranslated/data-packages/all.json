@@ -2617,9 +2617,9 @@
             "constraints": {
               "enum": [
                 "<u>time series of the indicator:</u> total",
-                "forest sub-index",
-                "settlements sub-index",
-                "farmland sub-index",
+                "forest sub-indicator",
+                "settlements sub-indicator",
+                "farmland sub-indicator",
                 "inland waters sub-index",
                 "<u>additional time series:</u> coasts and seas",
                 ""

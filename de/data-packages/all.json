@@ -2859,11 +2859,11 @@
             "constraints": {
               "enum": [
                 "<u>Zeitreihe des Indikators:</u> Gesamtindikator",
-                "Teilindex Wälder",
-                "Teilindex Siedlungen",
-                "Teilindex Agrarland",
+                "Teilindikator Wälder",
+                "Teilindikator Siedlungen",
+                "Teilindikator Agrarland",
                 "Teilindex Binnengewässer",
-                "<u>Zusätzliche Zeitreihe:</u> Teilindex Küsten/Meere",
+                "<u>Zusätzliche Zeitreihe:</u> Küsten/Meere",
                 ""
               ]
             },
