@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #14-1-b,"time series, sea",2
 #15-1,time series,1
 #15-4,sector,1
-#16-2,sex,1
+#16-2,"sex, display",2
 #16-4,level of compliance,1
 #17-2,time series,1
 #17-3,time series,1
