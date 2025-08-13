@@ -1230,9 +1230,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1257,7 +1254,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'",
+                "'difference between \"no risk situation\" and \"at least one risk situation\"'",
                 "Nach Anzahl der Risikolagen",
                 ""
               ]
