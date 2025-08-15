@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt)",
                 "<u>Zeitreihe des Indikators:</u> Effectiveness",
                 "<u>Zusätzliche Zeitreihe:</u> Technical Compliance",
                 ""

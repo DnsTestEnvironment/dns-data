@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "<u>Additional time series:</u> Skilled labour potential (total)",
                 "<u>Time series of the indicator:</u> Effectiveness",
                 "<u>Additional time series:</u> Technical compliance",
                 ""
@@ -44,10 +43,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness = Substantial or high",
-                "Effectiveness = Low or moderate",
-                "Technical compliance = Largely compliant or compliant",
-                "Technical compliance = Non-compliant or partially compliant",
+                "Substantial or high",
+                "Low or moderate",
+                "Largely compliant or compliant",
+                "Non-compliant or partially compliant",
                 ""
               ]
             },
