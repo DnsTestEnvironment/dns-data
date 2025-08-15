@@ -360,7 +360,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
+                "Millionen Euro",
                 ""
               ]
             },
@@ -1015,6 +1015,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt)",
                 "<u>Zeitreihe des Indikators:</u> Effectiveness",
                 "<u>Zusätzliche Zeitreihe:</u> Technical Compliance",
                 ""
@@ -2040,7 +2041,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000 EUR",
+                "1 000 Euro",
                 ""
               ]
             },
@@ -2335,7 +2336,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milliarden EUR",
+                "Milliarden Euro",
                 ""
               ]
             },

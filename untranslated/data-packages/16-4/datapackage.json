@@ -29,6 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "<u>additional time series:</u> skilled labour potential (total)",
                 "<u>time series of the indicator:</u> effectiveness",
                 "<u>additional time series:</u> technical compliance",
                 ""

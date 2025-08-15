@@ -170,7 +170,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "1 000",
+                "1,000",
                 ""
               ]
             },
@@ -360,7 +360,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million EUR",
+                "Million euros",
                 ""
               ]
             },
@@ -754,7 +754,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
+                "1,000",
                 ""
               ]
             },
@@ -1015,6 +1015,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "<u>Additional time series:</u> Skilled labour potential (total)",
                 "<u>Time series of the indicator:</u> Effectiveness",
                 "<u>Additional time series:</u> Technical compliance",
                 ""
@@ -1112,7 +1113,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million Hectre",
+                "Million hectares",
                 ""
               ]
             },
@@ -2040,7 +2041,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.000 EUR",
+                "1,000 euros",
                 ""
               ]
             },
@@ -2170,7 +2171,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hectre per day",
+                "Hectares per day",
                 ""
               ]
             },
@@ -2335,7 +2336,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Billion EUR",
+                "Billion euros",
                 ""
               ]
             },
@@ -2632,7 +2633,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilogram per hectare",
+                "Kilograms per hectare",
                 ""
               ]
             },
