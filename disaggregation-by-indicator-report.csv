@@ -14,6 +14,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1,time series,1
 #15-4,sector,1
 #16-2,"sex, display",2
+#16-3-ab,time series,1
 #16-4,level of compliance,1
 #17-2,time series,1
 #17-3,time series,1
@@ -26,15 +27,16 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3,time series,1
 #4-1-a,sex,1
 #4-1-b,"sex, time series, qualification",3
-#4-2-ab,type of care,1
+#4-2-ab,"time series, type of care",2
 #4-3-a,sex,1
 #4-3-b,risk situation,1
 #5-1-bc,time series,1
 #5-1-e,time series,1
 #6-2-ab,time series,1
+#7-1-ab,time series,1
 #8-1,time series,1
 #8-2-ab,time series,1
-#8-5-ab,sex,1
+#8-5-ab,"sex, time series",2
 #8-5-c,type of collective bargaining agreement,1
 #9-1-a,sector,1
 #9-1-b,time series,1
