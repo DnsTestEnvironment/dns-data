@@ -3086,10 +3086,9 @@
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Anzahl",
                 ""
               ]
             },
