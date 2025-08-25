@@ -555,7 +555,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -564,7 +564,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "sex",
@@ -1072,7 +1072,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1081,7 +1081,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1359,7 +1359,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1368,7 +1368,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "type of care",
@@ -3100,7 +3100,7 @@
             "constraints": {
               "enum": [
                 "a) Corruption Perceptions Index in Germany",
-                "b) Number of partner countries for German development cooperation with improved Index in",
+                "b) corruption perceptions index in partner countries for german development cooperation",
                 ""
               ]
             },
