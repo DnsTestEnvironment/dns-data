@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "a) Corruption Perceptions Index in Deutschland",
-                "b) Corruption Perceptions Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
+                "b) Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit mit verbessertem Corruption Perceptions Index",
                 ""
               ]
             },
