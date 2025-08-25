@@ -1,4 +1,4 @@
-Year,Units,Zeitreihe,Value
+Year,Units,Series,Value
 2012,,a) Corruption Perceptions Index in Deutschland,79.0
 2013,,a) Corruption Perceptions Index in Deutschland,78.0
 2014,,a) Corruption Perceptions Index in Deutschland,79.0
@@ -12,16 +12,16 @@ Year,Units,Zeitreihe,Value
 2022,,a) Corruption Perceptions Index in Deutschland,79.0
 2023,,a) Corruption Perceptions Index in Deutschland,78.0
 2024,,a) Corruption Perceptions Index in Deutschland,75.0
-2012,,b) corruption perceptions index in partner countries for german development cooperation,
-2013,,b) corruption perceptions index in partner countries for german development cooperation,16.0
-2014,,b) corruption perceptions index in partner countries for german development cooperation,30.0
-2015,,b) corruption perceptions index in partner countries for german development cooperation,30.0
-2016,,b) corruption perceptions index in partner countries for german development cooperation,31.0
-2017,,b) corruption perceptions index in partner countries for german development cooperation,32.0
-2018,,b) corruption perceptions index in partner countries for german development cooperation,31.0
-2019,,b) corruption perceptions index in partner countries for german development cooperation,34.0
-2020,,b) corruption perceptions index in partner countries for german development cooperation,36.0
-2021,,b) corruption perceptions index in partner countries for german development cooperation,36.0
-2022,,b) corruption perceptions index in partner countries for german development cooperation,30.0
-2023,,b) corruption perceptions index in partner countries for german development cooperation,34.0
-2024,,b) corruption perceptions index in partner countries for german development cooperation,32.0
+2012,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,
+2013,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,16.0
+2014,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,30.0
+2015,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,30.0
+2016,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,31.0
+2017,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,32.0
+2018,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,31.0
+2019,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,34.0
+2020,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,36.0
+2021,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,36.0
+2022,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,30.0
+2023,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,34.0
+2024,Anzahl,b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI,32.0

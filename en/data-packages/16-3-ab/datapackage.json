@@ -17,25 +17,26 @@
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Number",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "a) Corruption Perceptions Index in Germany",
-                "b) corruption perceptions index in partner countries for german development cooperation",
+                "b) Number of partner countries of German development cooperation whose CPI has improved",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
