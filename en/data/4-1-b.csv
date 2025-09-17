@@ -78,157 +78,165 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2007,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,,Male,,,37.256
 2008,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,,Male,,,37.854
 2009,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,,Male,,,39.223
-2010,Percentage,,,,Baden-Wuerttemberg,code08,42.275
+2010,Percentage,,,,Baden-Wuerttemberg,code08,42.299
 2011,Percentage,,,,Baden-Wuerttemberg,code08,43.361
-2012,Percentage,,,,Baden-Wuerttemberg,code08,44.923
-2013,Percentage,,,,Baden-Wuerttemberg,code08,47.288
-2014,Percentage,,,,Baden-Wuerttemberg,code08,47.346
-2015,Percentage,,,,Baden-Wuerttemberg,code08,48.374
-2016,Percentage,,,,Baden-Wuerttemberg,code08,50.185
-2017,Percentage,,,,Baden-Wuerttemberg,code08,50.534
-2018,Percentage,,,,Baden-Wuerttemberg,code08,51.293
-2019,Percentage,,,,Baden-Wuerttemberg,code08,53.689
+2012,Percentage,,,,Baden-Wuerttemberg,code08,44.959
+2013,Percentage,,,,Baden-Wuerttemberg,code08,47.307
+2014,Percentage,,,,Baden-Wuerttemberg,code08,47.361
+2015,Percentage,,,,Baden-Wuerttemberg,code08,48.419
+2016,Percentage,,,,Baden-Wuerttemberg,code08,50.273
+2017,Percentage,,,,Baden-Wuerttemberg,code08,50.692
+2018,Percentage,,,,Baden-Wuerttemberg,code08,51.4
+2019,Percentage,,,,Baden-Wuerttemberg,code08,53.9169
 2020,Percentage,,,,Baden-Wuerttemberg,code08,53.97
-2021,Percentage,,,,Baden-Wuerttemberg,code08,54.924
-2022,Percentage,,,,Baden-Wuerttemberg,code08,55.408
-2023,Percentage,,,,Baden-Wuerttemberg,code08,57.61
+2021,Percentage,,,,Baden-Wuerttemberg,code08,55.017
+2022,Percentage,,,,Baden-Wuerttemberg,code08,55.549
+2023,Percentage,,,,Baden-Wuerttemberg,code08,56.756
+2024,Percentage,,,,Baden-Wuerttemberg,code08,58.929
 2005,Percentage,,,,Baden-Wuerttemberg,code08,36.883
 2006,Percentage,,,,Baden-Wuerttemberg,code08,36.866
-2007,Percentage,,,,Baden-Wuerttemberg,code08,37.592
+2007,Percentage,,,,Baden-Wuerttemberg,code08,37.613
 2008,Percentage,,,,Baden-Wuerttemberg,code08,37.838
 2009,Percentage,,,,Baden-Wuerttemberg,code08,41.901
-2010,Percentage,,,Female,Baden-Wuerttemberg,code08,40.693
+2010,Percentage,,,Female,Baden-Wuerttemberg,code08,40.739
 2011,Percentage,,,Female,Baden-Wuerttemberg,code08,41.862
-2012,Percentage,,,Female,Baden-Wuerttemberg,code08,44.431
-2013,Percentage,,,Female,Baden-Wuerttemberg,code08,46.144
+2012,Percentage,,,Female,Baden-Wuerttemberg,code08,44.466
+2013,Percentage,,,Female,Baden-Wuerttemberg,code08,46.18
 2014,Percentage,,,Female,Baden-Wuerttemberg,code08,48.068
-2015,Percentage,,,Female,Baden-Wuerttemberg,code08,49.588
-2016,Percentage,,,Female,Baden-Wuerttemberg,code08,50.933
-2017,Percentage,,,Female,Baden-Wuerttemberg,code08,51.385
-2018,Percentage,,,Female,Baden-Wuerttemberg,code08,52.186
-2019,Percentage,,,Female,Baden-Wuerttemberg,code08,56.364
+2015,Percentage,,,Female,Baden-Wuerttemberg,code08,49.643
+2016,Percentage,,,Female,Baden-Wuerttemberg,code08,50.954
+2017,Percentage,,,Female,Baden-Wuerttemberg,code08,51.52
+2018,Percentage,,,Female,Baden-Wuerttemberg,code08,52.285
+2019,Percentage,,,Female,Baden-Wuerttemberg,code08,56.606
 2020,Percentage,,,Female,Baden-Wuerttemberg,code08,56.993
-2021,Percentage,,,Female,Baden-Wuerttemberg,code08,58.152
-2022,Percentage,,,Female,Baden-Wuerttemberg,code08,58.323
-2023,Percentage,,,Female,Baden-Wuerttemberg,code08,60.612
+2021,Percentage,,,Female,Baden-Wuerttemberg,code08,58.225
+2022,Percentage,,,Female,Baden-Wuerttemberg,code08,58.443
+2023,Percentage,,,Female,Baden-Wuerttemberg,code08,59.651
+2024,Percentage,,,Female,Baden-Wuerttemberg,code08,63.465
 2005,Percentage,,,Female,Baden-Wuerttemberg,code08,33.109
 2006,Percentage,,,Female,Baden-Wuerttemberg,code08,34.227
-2007,Percentage,,,Female,Baden-Wuerttemberg,code08,35.694
+2007,Percentage,,,Female,Baden-Wuerttemberg,code08,35.715
 2008,Percentage,,,Female,Baden-Wuerttemberg,code08,36.015
 2009,Percentage,,,Female,Baden-Wuerttemberg,code08,41.037
 2010,Percentage,,,Male,Baden-Wuerttemberg,code08,43.877
 2011,Percentage,,,Male,Baden-Wuerttemberg,code08,44.857
-2012,Percentage,,,Male,Baden-Wuerttemberg,code08,45.413
+2012,Percentage,,,Male,Baden-Wuerttemberg,code08,45.448
 2013,Percentage,,,Male,Baden-Wuerttemberg,code08,48.428
-2014,Percentage,,,Male,Baden-Wuerttemberg,code08,46.645
-2015,Percentage,,,Male,Baden-Wuerttemberg,code08,47.207
-2016,Percentage,,,Male,Baden-Wuerttemberg,code08,49.479
-2017,Percentage,,,Male,Baden-Wuerttemberg,code08,49.718
-2018,Percentage,,,Male,Baden-Wuerttemberg,code08,50.463
-2019,Percentage,,,Male,Baden-Wuerttemberg,code08,51.236
+2014,Percentage,,,Male,Baden-Wuerttemberg,code08,46.675
+2015,Percentage,,,Male,Baden-Wuerttemberg,code08,47.242
+2016,Percentage,,,Male,Baden-Wuerttemberg,code08,49.63
+2017,Percentage,,,Male,Baden-Wuerttemberg,code08,49.897
+2018,Percentage,,,Male,Baden-Wuerttemberg,code08,50.578
+2019,Percentage,,,Male,Baden-Wuerttemberg,code08,51.451
 2020,Percentage,,,Male,Baden-Wuerttemberg,code08,51.226
-2021,Percentage,,,Male,Baden-Wuerttemberg,code08,52.019
-2022,Percentage,,,Male,Baden-Wuerttemberg,code08,52.739
-2023,Percentage,,,Male,Baden-Wuerttemberg,code08,54.825
+2021,Percentage,,,Male,Baden-Wuerttemberg,code08,52.09
+2022,Percentage,,,Male,Baden-Wuerttemberg,code08,52.87
+2023,Percentage,,,Male,Baden-Wuerttemberg,code08,54.053
+2024,Percentage,,,Male,Baden-Wuerttemberg,code08,54.726
 2005,Percentage,,,Male,Baden-Wuerttemberg,code08,40.459
 2006,Percentage,,,Male,Baden-Wuerttemberg,code08,39.43
-2007,Percentage,,,Male,Baden-Wuerttemberg,code08,39.471
+2007,Percentage,,,Male,Baden-Wuerttemberg,code08,39.492
 2008,Percentage,,,Male,Baden-Wuerttemberg,code08,39.693
 2009,Percentage,,,Male,Baden-Wuerttemberg,code08,42.792
-2010,Percentage,,,,Bavaria,code09,40.387
-2011,Percentage,,,,Bavaria,code09,41.098
-2012,Percentage,,,,Bavaria,code09,43.579
-2013,Percentage,,,,Bavaria,code09,45.314
-2014,Percentage,,,,Bavaria,code09,45.821
-2015,Percentage,,,,Bavaria,code09,45.682
-2016,Percentage,,,,Bavaria,code09,48.009
-2017,Percentage,,,,Bavaria,code09,48.604
-2018,Percentage,,,,Bavaria,code09,49.827
-2019,Percentage,,,,Bavaria,code09,49.32
+2010,Percentage,,,,Bavaria,code09,40.447
+2011,Percentage,,,,Bavaria,code09,41.17
+2012,Percentage,,,,Bavaria,code09,43.675
+2013,Percentage,,,,Bavaria,code09,45.351
+2014,Percentage,,,,Bavaria,code09,45.92
+2015,Percentage,,,,Bavaria,code09,45.734
+2016,Percentage,,,,Bavaria,code09,48.157
+2017,Percentage,,,,Bavaria,code09,48.756
+2018,Percentage,,,,Bavaria,code09,50.026
+2019,Percentage,,,,Bavaria,code09,49.549
 2020,Percentage,,,,Bavaria,code09,51.069
-2021,Percentage,,,,Bavaria,code09,54.096
-2022,Percentage,,,,Bavaria,code09,52.735
-2023,Percentage,,,,Bavaria,code09,56.237
-2005,Percentage,,,,Bavaria,code09,35.151
-2006,Percentage,,,,Bavaria,code09,34.678
-2007,Percentage,,,,Bavaria,code09,35.837
-2008,Percentage,,,,Bavaria,code09,37.516
-2009,Percentage,,,,Bavaria,code09,39.422
-2010,Percentage,,,Female,Bavaria,code09,40.153
-2011,Percentage,,,Female,Bavaria,code09,41.562
-2012,Percentage,,,Female,Bavaria,code09,44.785
-2013,Percentage,,,Female,Bavaria,code09,45.332
-2014,Percentage,,,Female,Bavaria,code09,46.105
-2015,Percentage,,,Female,Bavaria,code09,47.412
-2016,Percentage,,,Female,Bavaria,code09,49.515
-2017,Percentage,,,Female,Bavaria,code09,50.679
-2018,Percentage,,,Female,Bavaria,code09,52.125
-2019,Percentage,,,Female,Bavaria,code09,50.639
+2021,Percentage,,,,Bavaria,code09,54.196
+2022,Percentage,,,,Bavaria,code09,52.816
+2023,Percentage,,,,Bavaria,code09,55.954
+2024,Percentage,,,,Bavaria,code09,56.567
+2005,Percentage,,,,Bavaria,code09,35.156
+2006,Percentage,,,,Bavaria,code09,34.685
+2007,Percentage,,,,Bavaria,code09,35.842
+2008,Percentage,,,,Bavaria,code09,37.649
+2009,Percentage,,,,Bavaria,code09,39.629
+2010,Percentage,,,Female,Bavaria,code09,40.241
+2011,Percentage,,,Female,Bavaria,code09,41.647
+2012,Percentage,,,Female,Bavaria,code09,44.915
+2013,Percentage,,,Female,Bavaria,code09,45.38
+2014,Percentage,,,Female,Bavaria,code09,46.216
+2015,Percentage,,,Female,Bavaria,code09,47.467
+2016,Percentage,,,Female,Bavaria,code09,49.654
+2017,Percentage,,,Female,Bavaria,code09,50.77
+2018,Percentage,,,Female,Bavaria,code09,52.176
+2019,Percentage,,,Female,Bavaria,code09,50.821
 2020,Percentage,,,Female,Bavaria,code09,52.607
-2021,Percentage,,,Female,Bavaria,code09,56.22
-2022,Percentage,,,Female,Bavaria,code09,55.121
-2023,Percentage,,,Female,Bavaria,code09,58.126
+2021,Percentage,,,Female,Bavaria,code09,56.158
+2022,Percentage,,,Female,Bavaria,code09,55.125
+2023,Percentage,,,Female,Bavaria,code09,57.496
+2024,Percentage,,,Female,Bavaria,code09,59.218
 2005,Percentage,,,Female,Bavaria,code09,32.879
 2006,Percentage,,,Female,Bavaria,code09,33.134
 2007,Percentage,,,Female,Bavaria,code09,34.766
-2008,Percentage,,,Female,Bavaria,code09,36.77
-2009,Percentage,,,Female,Bavaria,code09,38.524
-2010,Percentage,,,Male,Bavaria,code09,40.614
-2011,Percentage,,,Male,Bavaria,code09,40.654
-2012,Percentage,,,Male,Bavaria,code09,42.36
-2013,Percentage,,,Male,Bavaria,code09,45.291
-2014,Percentage,,,Male,Bavaria,code09,45.527
-2015,Percentage,,,Male,Bavaria,code09,43.947
-2016,Percentage,,,Male,Bavaria,code09,46.553
-2017,Percentage,,,Male,Bavaria,code09,46.68
-2018,Percentage,,,Male,Bavaria,code09,47.731
-2019,Percentage,,,Male,Bavaria,code09,48.066
+2008,Percentage,,,Female,Bavaria,code09,36.965
+2009,Percentage,,,Female,Bavaria,code09,38.73
+2010,Percentage,,,Male,Bavaria,code09,40.647
+2011,Percentage,,,Male,Bavaria,code09,40.713
+2012,Percentage,,,Male,Bavaria,code09,42.423
+2013,Percentage,,,Male,Bavaria,code09,45.316
+2014,Percentage,,,Male,Bavaria,code09,45.613
+2015,Percentage,,,Male,Bavaria,code09,43.997
+2016,Percentage,,,Male,Bavaria,code09,46.71
+2017,Percentage,,,Male,Bavaria,code09,46.883
+2018,Percentage,,,Male,Bavaria,code09,48.055
+2019,Percentage,,,Male,Bavaria,code09,48.337
 2020,Percentage,,,Male,Bavaria,code09,49.638
-2021,Percentage,,,Male,Bavaria,code09,52.173
-2022,Percentage,,,Male,Bavaria,code09,50.487
-2023,Percentage,,,Male,Bavaria,code09,54.471
-2005,Percentage,,,Male,Bavaria,code09,37.367
-2006,Percentage,,,Male,Bavaria,code09,36.229
-2007,Percentage,,,Male,Bavaria,code09,36.854
-2008,Percentage,,,Male,Bavaria,code09,38.268
-2009,Percentage,,,Male,Bavaria,code09,40.279
+2021,Percentage,,,Male,Bavaria,code09,52.397
+2022,Percentage,,,Male,Bavaria,code09,50.62
+2023,Percentage,,,Male,Bavaria,code09,53.804
+2024,Percentage,,,Male,Bavaria,code09,54.059
+2005,Percentage,,,Male,Bavaria,code09,37.378
+2006,Percentage,,,Male,Bavaria,code09,36.245
+2007,Percentage,,,Male,Bavaria,code09,36.866
+2008,Percentage,,,Male,Bavaria,code09,38.335
+2009,Percentage,,,Male,Bavaria,code09,40.486
 2010,Percentage,,,,Berlin,code11,50.741
-2011,Percentage,,,,Berlin,code11,51.842
+2011,Percentage,,,,Berlin,code11,51.867
 2012,Percentage,,,,Berlin,code11,53.682
 2013,Percentage,,,,Berlin,code11,53.226
 2014,Percentage,,,,Berlin,code11,53.955
 2015,Percentage,,,,Berlin,code11,56.682
-2016,Percentage,,,,Berlin,code11,59.716
-2017,Percentage,,,,Berlin,code11,60.877
-2018,Percentage,,,,Berlin,code11,62.555
-2019,Percentage,,,,Berlin,code11,64.708
+2016,Percentage,,,,Berlin,code11,59.736
+2017,Percentage,,,,Berlin,code11,60.9
+2018,Percentage,,,,Berlin,code11,62.662
+2019,Percentage,,,,Berlin,code11,64.799
 2020,Percentage,,,,Berlin,code11,65.78
-2021,Percentage,,,,Berlin,code11,68.733
-2022,Percentage,,,,Berlin,code11,70.316
-2023,Percentage,,,,Berlin,code11,70.194
+2021,Percentage,,,,Berlin,code11,68.678
+2022,Percentage,,,,Berlin,code11,70.217
+2023,Percentage,,,,Berlin,code11,68.961
+2024,Percentage,,,,Berlin,code11,70.358
 2005,Percentage,,,,Berlin,code11,46.171
 2006,Percentage,,,,Berlin,code11,46.613
 2007,Percentage,,,,Berlin,code11,49.178
-2008,Percentage,,,,Berlin,code11,47.103
+2008,Percentage,,,,Berlin,code11,47.189
 2009,Percentage,,,,Berlin,code11,50.363
 2010,Percentage,,,Female,Berlin,code11,55.98
-2011,Percentage,,,Female,Berlin,code11,59.257
+2011,Percentage,,,Female,Berlin,code11,59.315
 2012,Percentage,,,Female,Berlin,code11,60.203
 2013,Percentage,,,Female,Berlin,code11,59.132
 2014,Percentage,,,Female,Berlin,code11,59.84
 2015,Percentage,,,Female,Berlin,code11,63.74
-2016,Percentage,,,Female,Berlin,code11,63.622
+2016,Percentage,,,Female,Berlin,code11,63.663
 2017,Percentage,,,Female,Berlin,code11,66.054
-2018,Percentage,,,Female,Berlin,code11,66.938
-2019,Percentage,,,Female,Berlin,code11,69.033
+2018,Percentage,,,Female,Berlin,code11,66.992
+2019,Percentage,,,Female,Berlin,code11,69.184
 2020,Percentage,,,Female,Berlin,code11,70.086
-2021,Percentage,,,Female,Berlin,code11,71.8
-2022,Percentage,,,Female,Berlin,code11,73.897
-2023,Percentage,,,Female,Berlin,code11,73.012
+2021,Percentage,,,Female,Berlin,code11,71.79
+2022,Percentage,,,Female,Berlin,code11,73.738
+2023,Percentage,,,Female,Berlin,code11,72.425
+2024,Percentage,,,Female,Berlin,code11,72.506
 2005,Percentage,,,Female,Berlin,code11,47.091
 2006,Percentage,,,Female,Berlin,code11,50.091
 2007,Percentage,,,Female,Berlin,code11,53.045
-2008,Percentage,,,Female,Berlin,code11,49.895
+2008,Percentage,,,Female,Berlin,code11,49.991
 2009,Percentage,,,Female,Berlin,code11,56.248
 2010,Percentage,,,Male,Berlin,code11,45.795
 2011,Percentage,,,Male,Berlin,code11,44.749
@@ -237,492 +245,518 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2014,Percentage,,,Male,Berlin,code11,48.408
 2015,Percentage,,,Male,Berlin,code11,49.661
 2016,Percentage,,,Male,Berlin,code11,55.666
-2017,Percentage,,,Male,Berlin,code11,55.64
-2018,Percentage,,,Male,Berlin,code11,58.121
-2019,Percentage,,,Male,Berlin,code11,60.28
+2017,Percentage,,,Male,Berlin,code11,55.683
+2018,Percentage,,,Male,Berlin,code11,58.273
+2019,Percentage,,,Male,Berlin,code11,60.317
 2020,Percentage,,,Male,Berlin,code11,61.697
-2021,Percentage,,,Male,Berlin,code11,65.67
-2022,Percentage,,,Male,Berlin,code11,66.914
-2023,Percentage,,,Male,Berlin,code11,67.442
+2021,Percentage,,,Male,Berlin,code11,65.508
+2022,Percentage,,,Male,Berlin,code11,66.813
+2023,Percentage,,,Male,Berlin,code11,65.565
+2024,Percentage,,,Male,Berlin,code11,68.328
 2005,Percentage,,,Male,Berlin,code11,45.299
 2006,Percentage,,,Male,Berlin,code11,43.233
 2007,Percentage,,,Male,Berlin,code11,45.499
-2008,Percentage,,,Male,Berlin,code11,44.525
+2008,Percentage,,,Male,Berlin,code11,44.604
 2009,Percentage,,,Male,Berlin,code11,44.408
-2010,Percentage,,,,Brandenburg,code12,41.399
-2011,Percentage,,,,Brandenburg,code12,44.471
+2010,Percentage,,,,Brandenburg,code12,41.438
+2011,Percentage,,,,Brandenburg,code12,44.497
 2012,Percentage,,,,Brandenburg,code12,42.083
 2013,Percentage,,,,Brandenburg,code12,42.574
 2014,Percentage,,,,Brandenburg,code12,44.166
-2015,Percentage,,,,Brandenburg,code12,43.263
+2015,Percentage,,,,Brandenburg,code12,43.305
 2016,Percentage,,,,Brandenburg,code12,45.406
-2017,Percentage,,,,Brandenburg,code12,42.317
-2018,Percentage,,,,Brandenburg,code12,45.003
-2019,Percentage,,,,Brandenburg,code12,44.383
+2017,Percentage,,,,Brandenburg,code12,42.417
+2018,Percentage,,,,Brandenburg,code12,45.28
+2019,Percentage,,,,Brandenburg,code12,44.441
 2020,Percentage,,,,Brandenburg,code12,49.207
-2021,Percentage,,,,Brandenburg,code12,54.778
-2022,Percentage,,,,Brandenburg,code12,53.32
-2023,Percentage,,,,Brandenburg,code12,54.765
+2021,Percentage,,,,Brandenburg,code12,54.541
+2022,Percentage,,,,Brandenburg,code12,53.28
+2023,Percentage,,,,Brandenburg,code12,53.611
+2024,Percentage,,,,Brandenburg,code12,57.274
 2005,Percentage,,,,Brandenburg,code12,32.105
 2006,Percentage,,,,Brandenburg,code12,33.245
 2007,Percentage,,,,Brandenburg,code12,34.748
 2008,Percentage,,,,Brandenburg,code12,38.584
-2009,Percentage,,,,Brandenburg,code12,41.101
+2009,Percentage,,,,Brandenburg,code12,41.176
 2010,Percentage,,,Female,Brandenburg,code12,50.174
-2011,Percentage,,,Female,Brandenburg,code12,53.551
+2011,Percentage,,,Female,Brandenburg,code12,53.618
 2012,Percentage,,,Female,Brandenburg,code12,51.561
 2013,Percentage,,,Female,Brandenburg,code12,48.956
 2014,Percentage,,,Female,Brandenburg,code12,50.463
-2015,Percentage,,,Female,Brandenburg,code12,53.238
+2015,Percentage,,,Female,Brandenburg,code12,53.347
 2016,Percentage,,,Female,Brandenburg,code12,54.237
 2017,Percentage,,,Female,Brandenburg,code12,48.388
-2018,Percentage,,,Female,Brandenburg,code12,53.229
+2018,Percentage,,,Female,Brandenburg,code12,53.536
 2019,Percentage,,,Female,Brandenburg,code12,52.09
 2020,Percentage,,,Female,Brandenburg,code12,54.649
-2021,Percentage,,,Female,Brandenburg,code12,60.362
-2022,Percentage,,,Female,Brandenburg,code12,61.187
-2023,Percentage,,,Female,Brandenburg,code12,62.104
+2021,Percentage,,,Female,Brandenburg,code12,60.2
+2022,Percentage,,,Female,Brandenburg,code12,61.119
+2023,Percentage,,,Female,Brandenburg,code12,60.649
+2024,Percentage,,,Female,Brandenburg,code12,59.686
 2005,Percentage,,,Female,Brandenburg,code12,36.872
 2006,Percentage,,,Female,Brandenburg,code12,39.533
 2007,Percentage,,,Female,Brandenburg,code12,42.239
 2008,Percentage,,,Female,Brandenburg,code12,47.104
-2009,Percentage,,,Female,Brandenburg,code12,47.811
-2010,Percentage,,,Male,Brandenburg,code12,33.438
+2009,Percentage,,,Female,Brandenburg,code12,47.875
+2010,Percentage,,,Male,Brandenburg,code12,33.499
 2011,Percentage,,,Male,Brandenburg,code12,35.83
 2012,Percentage,,,Male,Brandenburg,code12,33.854
 2013,Percentage,,,Male,Brandenburg,code12,36.482
 2014,Percentage,,,Male,Brandenburg,code12,37.614
 2015,Percentage,,,Male,Brandenburg,code12,34.099
 2016,Percentage,,,Male,Brandenburg,code12,36.92
-2017,Percentage,,,Male,Brandenburg,code12,36.607
-2018,Percentage,,,Male,Brandenburg,code12,36.604
-2019,Percentage,,,Male,Brandenburg,code12,36.622
+2017,Percentage,,,Male,Brandenburg,code12,36.774
+2018,Percentage,,,Male,Brandenburg,code12,36.845
+2019,Percentage,,,Male,Brandenburg,code12,36.719
 2020,Percentage,,,Male,Brandenburg,code12,43.576
-2021,Percentage,,,Male,Brandenburg,code12,49.12
-2022,Percentage,,,Male,Brandenburg,code12,45.646
-2023,Percentage,,,Male,Brandenburg,code12,47.682
+2021,Percentage,,,Male,Brandenburg,code12,48.798
+2022,Percentage,,,Male,Brandenburg,code12,45.629
+2023,Percentage,,,Male,Brandenburg,code12,46.913
+2024,Percentage,,,Male,Brandenburg,code12,54.882
 2005,Percentage,,,Male,Brandenburg,code12,27.534
 2006,Percentage,,,Male,Brandenburg,code12,27.45
 2007,Percentage,,,Male,Brandenburg,code12,27.288
 2008,Percentage,,,Male,Brandenburg,code12,30.42
-2009,Percentage,,,Male,Brandenburg,code12,35.19
-2010,Percentage,,,,Bremen,code04,41.46
+2009,Percentage,,,Male,Brandenburg,code12,35.274
+2010,Percentage,,,,Bremen,code04,42.091
 2011,Percentage,,,,Bremen,code04,43.164
-2012,Percentage,,,,Bremen,code04,41.831
-2013,Percentage,,,,Bremen,code04,44.323
-2014,Percentage,,,,Bremen,code04,53.395
-2015,Percentage,,,,Bremen,code04,50.505
-2016,Percentage,,,,Bremen,code04,46.57
-2017,Percentage,,,,Bremen,code04,51.915
-2018,Percentage,,,,Bremen,code04,52.19
+2012,Percentage,,,,Bremen,code04,42.426
+2013,Percentage,,,,Bremen,code04,44.794
+2014,Percentage,,,,Bremen,code04,53.636
+2015,Percentage,,,,Bremen,code04,51.149
+2016,Percentage,,,,Bremen,code04,47.308
+2017,Percentage,,,,Bremen,code04,52.051
+2018,Percentage,,,,Bremen,code04,52.305
 2019,Percentage,,,,Bremen,code04,49.131
 2020,Percentage,,,,Bremen,code04,50.924
-2021,Percentage,,,,Bremen,code04,55.719
-2022,Percentage,,,,Bremen,code04,51.219
-2023,Percentage,,,,Bremen,code04,50.308
+2021,Percentage,,,,Bremen,code04,55.517
+2022,Percentage,,,,Bremen,code04,50.925
+2023,Percentage,,,,Bremen,code04,47.703
+2024,Percentage,,,,Bremen,code04,50.471
 2005,Percentage,,,,Bremen,code04,33.792
 2006,Percentage,,,,Bremen,code04,36.816
 2007,Percentage,,,,Bremen,code04,38.2
-2008,Percentage,,,,Bremen,code04,39.415
+2008,Percentage,,,,Bremen,code04,39.539
 2009,Percentage,,,,Bremen,code04,32.736
-2010,Percentage,,,Female,Bremen,code04,36.931
+2010,Percentage,,,Female,Bremen,code04,37.891
 2011,Percentage,,,Female,Bremen,code04,47.784
-2012,Percentage,,,Female,Bremen,code04,45.999
-2013,Percentage,,,Female,Bremen,code04,48.15
+2012,Percentage,,,Female,Bremen,code04,46.71
+2013,Percentage,,,Female,Bremen,code04,48.958
 2014,Percentage,,,Female,Bremen,code04,57.459
-2015,Percentage,,,Female,Bremen,code04,54.611
-2016,Percentage,,,Female,Bremen,code04,50.1
+2015,Percentage,,,Female,Bremen,code04,55.515
+2016,Percentage,,,Female,Bremen,code04,50.78
 2017,Percentage,,,Female,Bremen,code04,56.96
-2018,Percentage,,,Female,Bremen,code04,56.557
+2018,Percentage,,,Female,Bremen,code04,56.809
 2019,Percentage,,,Female,Bremen,code04,56.672
 2020,Percentage,,,Female,Bremen,code04,58.881
-2021,Percentage,,,Female,Bremen,code04,62.746
-2022,Percentage,,,Female,Bremen,code04,55.065
-2023,Percentage,,,Female,Bremen,code04,51.611
+2021,Percentage,,,Female,Bremen,code04,62.569
+2022,Percentage,,,Female,Bremen,code04,54.762
+2023,Percentage,,,Female,Bremen,code04,49.396
+2024,Percentage,,,Female,Bremen,code04,51.469
 2005,Percentage,,,Female,Bremen,code04,35.318
 2006,Percentage,,,Female,Bremen,code04,40.104
 2007,Percentage,,,Female,Bremen,code04,40.341
 2008,Percentage,,,Female,Bremen,code04,40.847
 2009,Percentage,,,Female,Bremen,code04,36.118
-2010,Percentage,,,Male,Bremen,code04,46.491
+2010,Percentage,,,Male,Bremen,code04,46.66
 2011,Percentage,,,Male,Bremen,code04,37.811
-2012,Percentage,,,Male,Bremen,code04,38.121
-2013,Percentage,,,Male,Bremen,code04,41.296
-2014,Percentage,,,Male,Bremen,code04,49.645
-2015,Percentage,,,Male,Bremen,code04,46.769
-2016,Percentage,,,Male,Bremen,code04,42.708
-2017,Percentage,,,Male,Bremen,code04,47.095
+2012,Percentage,,,Male,Bremen,code04,38.639
+2013,Percentage,,,Male,Bremen,code04,41.539
+2014,Percentage,,,Male,Bremen,code04,50.08
+2015,Percentage,,,Male,Bremen,code04,47.205
+2016,Percentage,,,Male,Bremen,code04,43.493
+2017,Percentage,,,Male,Bremen,code04,47.337
 2018,Percentage,,,Male,Bremen,code04,47.898
 2019,Percentage,,,Male,Bremen,code04,42.249
 2020,Percentage,,,Male,Bremen,code04,43.555
-2021,Percentage,,,Male,Bremen,code04,49.671
-2022,Percentage,,,Male,Bremen,code04,47.678
-2023,Percentage,,,Male,Bremen,code04,48.952
+2021,Percentage,,,Male,Bremen,code04,49.432
+2022,Percentage,,,Male,Bremen,code04,47.42
+2023,Percentage,,,Male,Bremen,code04,45.963
+2024,Percentage,,,Male,Bremen,code04,49.445
 2005,Percentage,,,Male,Bremen,code04,32.333
 2006,Percentage,,,Male,Bremen,code04,33.914
 2007,Percentage,,,Male,Bremen,code04,36.337
-2008,Percentage,,,Male,Bremen,code04,37.962
+2008,Percentage,,,Male,Bremen,code04,38.208
 2009,Percentage,,,Male,Bremen,code04,28.794
-2010,Percentage,,,,Hamburg,code02,52.498
-2011,Percentage,,,,Hamburg,code02,55.365
-2012,Percentage,,,,Hamburg,code02,54.419
-2013,Percentage,,,,Hamburg,code02,55.401
-2014,Percentage,,,,Hamburg,code02,58.515
-2015,Percentage,,,,Hamburg,code02,60.569
-2016,Percentage,,,,Hamburg,code02,59.974
-2017,Percentage,,,,Hamburg,code02,57.945
-2018,Percentage,,,,Hamburg,code02,61.864
-2019,Percentage,,,,Hamburg,code02,59.512
+2010,Percentage,,,,Hamburg,code02,52.734
+2011,Percentage,,,,Hamburg,code02,55.412
+2012,Percentage,,,,Hamburg,code02,54.853
+2013,Percentage,,,,Hamburg,code02,55.762
+2014,Percentage,,,,Hamburg,code02,58.677
+2015,Percentage,,,,Hamburg,code02,60.619
+2016,Percentage,,,,Hamburg,code02,60.562
+2017,Percentage,,,,Hamburg,code02,58.394
+2018,Percentage,,,,Hamburg,code02,62.482
+2019,Percentage,,,,Hamburg,code02,60.122
 2020,Percentage,,,,Hamburg,code02,60.132
-2021,Percentage,,,,Hamburg,code02,65.502
-2022,Percentage,,,,Hamburg,code02,59.075
-2023,Percentage,,,,Hamburg,code02,62.993
-2005,Percentage,,,,Hamburg,code02,45.718
-2006,Percentage,,,,Hamburg,code02,48.641
+2021,Percentage,,,,Hamburg,code02,66.131
+2022,Percentage,,,,Hamburg,code02,59.453
+2023,Percentage,,,,Hamburg,code02,62.225
+2024,Percentage,,,,Hamburg,code02,64.537
+2005,Percentage,,,,Hamburg,code02,45.79
+2006,Percentage,,,,Hamburg,code02,48.73
 2007,Percentage,,,,Hamburg,code02,49.433
-2008,Percentage,,,,Hamburg,code02,50.068
-2009,Percentage,,,,Hamburg,code02,53.062
-2010,Percentage,,,Female,Hamburg,code02,53.76
-2011,Percentage,,,Female,Hamburg,code02,57.145
-2012,Percentage,,,Female,Hamburg,code02,57.634
-2013,Percentage,,,Female,Hamburg,code02,60.093
-2014,Percentage,,,Female,Hamburg,code02,61.448
-2015,Percentage,,,Female,Hamburg,code02,62.499
-2016,Percentage,,,Female,Hamburg,code02,62.062
-2017,Percentage,,,Female,Hamburg,code02,62.558
-2018,Percentage,,,Female,Hamburg,code02,64.238
-2019,Percentage,,,Female,Hamburg,code02,60.42
+2008,Percentage,,,,Hamburg,code02,50.213
+2009,Percentage,,,,Hamburg,code02,53.446
+2010,Percentage,,,Female,Hamburg,code02,54.07
+2011,Percentage,,,Female,Hamburg,code02,57.241
+2012,Percentage,,,Female,Hamburg,code02,57.883
+2013,Percentage,,,Female,Hamburg,code02,60.428
+2014,Percentage,,,Female,Hamburg,code02,61.667
+2015,Percentage,,,Female,Hamburg,code02,62.6
+2016,Percentage,,,Female,Hamburg,code02,62.807
+2017,Percentage,,,Female,Hamburg,code02,63.006
+2018,Percentage,,,Female,Hamburg,code02,64.878
+2019,Percentage,,,Female,Hamburg,code02,61.176
 2020,Percentage,,,Female,Hamburg,code02,63.751
-2021,Percentage,,,Female,Hamburg,code02,69.875
-2022,Percentage,,,Female,Hamburg,code02,63.018
-2023,Percentage,,,Female,Hamburg,code02,67.857
+2021,Percentage,,,Female,Hamburg,code02,70.736
+2022,Percentage,,,Female,Hamburg,code02,63.447
+2023,Percentage,,,Female,Hamburg,code02,67.35
+2024,Percentage,,,Female,Hamburg,code02,68.011
 2005,Percentage,,,Female,Hamburg,code02,47.503
 2006,Percentage,,,Female,Hamburg,code02,48.986
 2007,Percentage,,,Female,Hamburg,code02,53.833
-2008,Percentage,,,Female,Hamburg,code02,53.04
-2009,Percentage,,,Female,Hamburg,code02,54.022
-2010,Percentage,,,Male,Hamburg,code02,51.299
+2008,Percentage,,,Female,Hamburg,code02,53.129
+2009,Percentage,,,Female,Hamburg,code02,54.502
+2010,Percentage,,,Male,Hamburg,code02,51.466
 2011,Percentage,,,Male,Hamburg,code02,53.572
-2012,Percentage,,,Male,Hamburg,code02,51.051
-2013,Percentage,,,Male,Hamburg,code02,50.681
-2014,Percentage,,,Male,Hamburg,code02,55.353
+2012,Percentage,,,Male,Hamburg,code02,51.135
+2013,Percentage,,,Male,Hamburg,code02,51.061
+2014,Percentage,,,Male,Hamburg,code02,55.467
 2015,Percentage,,,Male,Hamburg,code02,58.535
-2016,Percentage,,,Male,Hamburg,code02,57.967
-2017,Percentage,,,Male,Hamburg,code02,53.277
-2018,Percentage,,,Male,Hamburg,code02,59.441
-2019,Percentage,,,Male,Hamburg,code02,58.631
+2016,Percentage,,,Male,Hamburg,code02,58.411
+2017,Percentage,,,Male,Hamburg,code02,53.722
+2018,Percentage,,,Male,Hamburg,code02,60.036
+2019,Percentage,,,Male,Hamburg,code02,59.103
 2020,Percentage,,,Male,Hamburg,code02,56.579
-2021,Percentage,,,Male,Hamburg,code02,61.17
-2022,Percentage,,,Male,Hamburg,code02,55.308
-2023,Percentage,,,Male,Hamburg,code02,58.392
-2005,Percentage,,,Male,Hamburg,code02,44.1
-2006,Percentage,,,Male,Hamburg,code02,48.299
+2021,Percentage,,,Male,Hamburg,code02,61.492
+2022,Percentage,,,Male,Hamburg,code02,55.578
+2023,Percentage,,,Male,Hamburg,code02,57.303
+2024,Percentage,,,Male,Hamburg,code02,61.319
+2005,Percentage,,,Male,Hamburg,code02,44.232
+2006,Percentage,,,Male,Hamburg,code02,48.471
 2007,Percentage,,,Male,Hamburg,code02,45.16
-2008,Percentage,,,Male,Hamburg,code02,47.117
-2009,Percentage,,,Male,Hamburg,code02,52.168
-2010,Percentage,,,,Hesse,code06,45.446
-2011,Percentage,,,,Hesse,code06,46.114
+2008,Percentage,,,Male,Hamburg,code02,47.317
+2009,Percentage,,,Male,Hamburg,code02,52.467
+2010,Percentage,,,,Hesse,code06,45.525
+2011,Percentage,,,,Hesse,code06,46.133
 2012,Percentage,,,,Hesse,code06,47.165
-2013,Percentage,,,,Hesse,code06,47.566
+2013,Percentage,,,,Hesse,code06,47.583
 2014,Percentage,,,,Hesse,code06,46.33
-2015,Percentage,,,,Hesse,code06,49.362
-2016,Percentage,,,,Hesse,code06,50.411
-2017,Percentage,,,,Hesse,code06,53.931
-2018,Percentage,,,,Hesse,code06,52.38
-2019,Percentage,,,,Hesse,code06,52.684
+2015,Percentage,,,,Hesse,code06,49.382
+2016,Percentage,,,,Hesse,code06,50.495
+2017,Percentage,,,,Hesse,code06,54.079
+2018,Percentage,,,,Hesse,code06,52.443
+2019,Percentage,,,,Hesse,code06,52.727
 2020,Percentage,,,,Hesse,code06,52.672
-2021,Percentage,,,,Hesse,code06,51.93
-2022,Percentage,,,,Hesse,code06,51.691
-2023,Percentage,,,,Hesse,code06,55.541
+2021,Percentage,,,,Hesse,code06,52.3
+2022,Percentage,,,,Hesse,code06,52.176
+2023,Percentage,,,,Hesse,code06,55.086
+2024,Percentage,,,,Hesse,code06,57.864
 2005,Percentage,,,,Hesse,code06,40.651
 2006,Percentage,,,,Hesse,code06,40.198
-2007,Percentage,,,,Hesse,code06,40.853
-2008,Percentage,,,,Hesse,code06,40.292
-2009,Percentage,,,,Hesse,code06,43.095
-2010,Percentage,,,Female,Hesse,code06,46.294
+2007,Percentage,,,,Hesse,code06,40.867
+2008,Percentage,,,,Hesse,code06,40.319
+2009,Percentage,,,,Hesse,code06,43.154
+2010,Percentage,,,Female,Hesse,code06,46.354
 2011,Percentage,,,Female,Hesse,code06,46.657
 2012,Percentage,,,Female,Hesse,code06,47.982
-2013,Percentage,,,Female,Hesse,code06,48.939
+2013,Percentage,,,Female,Hesse,code06,48.974
 2014,Percentage,,,Female,Hesse,code06,47.9
-2015,Percentage,,,Female,Hesse,code06,52.106
-2016,Percentage,,,Female,Hesse,code06,52.978
-2017,Percentage,,,Female,Hesse,code06,58.31
-2018,Percentage,,,Female,Hesse,code06,56.935
-2019,Percentage,,,Female,Hesse,code06,57.322
+2015,Percentage,,,Female,Hesse,code06,52.149
+2016,Percentage,,,Female,Hesse,code06,53.07
+2017,Percentage,,,Female,Hesse,code06,58.514
+2018,Percentage,,,Female,Hesse,code06,56.996
+2019,Percentage,,,Female,Hesse,code06,57.354
 2020,Percentage,,,Female,Hesse,code06,54.372
-2021,Percentage,,,Female,Hesse,code06,54.978
-2022,Percentage,,,Female,Hesse,code06,54.449
-2023,Percentage,,,Female,Hesse,code06,59.29
+2021,Percentage,,,Female,Hesse,code06,55.358
+2022,Percentage,,,Female,Hesse,code06,55.014
+2023,Percentage,,,Female,Hesse,code06,59.349
+2024,Percentage,,,Female,Hesse,code06,62.887
 2005,Percentage,,,Female,Hesse,code06,38.717
 2006,Percentage,,,Female,Hesse,code06,38.815
-2007,Percentage,,,Female,Hesse,code06,39.772
-2008,Percentage,,,Female,Hesse,code06,40.646
-2009,Percentage,,,Female,Hesse,code06,44.105
-2010,Percentage,,,Male,Hesse,code06,44.56
-2011,Percentage,,,Male,Hesse,code06,45.539
+2007,Percentage,,,Female,Hesse,code06,39.798
+2008,Percentage,,,Female,Hesse,code06,40.673
+2009,Percentage,,,Female,Hesse,code06,44.189
+2010,Percentage,,,Male,Hesse,code06,44.658
+2011,Percentage,,,Male,Hesse,code06,45.578
 2012,Percentage,,,Male,Hesse,code06,46.331
 2013,Percentage,,,Male,Hesse,code06,46.136
 2014,Percentage,,,Male,Hesse,code06,44.808
 2015,Percentage,,,Male,Hesse,code06,46.628
-2016,Percentage,,,Male,Hesse,code06,47.759
-2017,Percentage,,,Male,Hesse,code06,49.527
-2018,Percentage,,,Male,Hesse,code06,47.943
-2019,Percentage,,,Male,Hesse,code06,48.29
+2016,Percentage,,,Male,Hesse,code06,47.837
+2017,Percentage,,,Male,Hesse,code06,49.627
+2018,Percentage,,,Male,Hesse,code06,48.008
+2019,Percentage,,,Male,Hesse,code06,48.341
 2020,Percentage,,,Male,Hesse,code06,51.008
-2021,Percentage,,,Male,Hesse,code06,49.043
-2022,Percentage,,,Male,Hesse,code06,49.045
-2023,Percentage,,,Male,Hesse,code06,51.997
+2021,Percentage,,,Male,Hesse,code06,49.387
+2022,Percentage,,,Male,Hesse,code06,49.441
+2023,Percentage,,,Male,Hesse,code06,51.027
+2024,Percentage,,,Male,Hesse,code06,53.028
 2005,Percentage,,,Male,Hesse,code06,42.617
 2006,Percentage,,,Male,Hesse,code06,41.635
 2007,Percentage,,,Male,Hesse,code06,41.942
-2008,Percentage,,,Male,Hesse,code06,39.918
-2009,Percentage,,,Male,Hesse,code06,42.047
-2010,Percentage,,,,Mecklenburg Western Pomerania,code13,33.166
+2008,Percentage,,,Male,Hesse,code06,39.945
+2009,Percentage,,,Male,Hesse,code06,42.08
+2010,Percentage,,,,Mecklenburg Western Pomerania,code13,33.193
 2011,Percentage,,,,Mecklenburg Western Pomerania,code13,32.109
 2012,Percentage,,,,Mecklenburg Western Pomerania,code13,30.765
 2013,Percentage,,,,Mecklenburg Western Pomerania,code13,33.239
-2014,Percentage,,,,Mecklenburg Western Pomerania,code13,35.446
-2015,Percentage,,,,Mecklenburg Western Pomerania,code13,34.818
-2016,Percentage,,,,Mecklenburg Western Pomerania,code13,32.651
-2017,Percentage,,,,Mecklenburg Western Pomerania,code13,32.671
-2018,Percentage,,,,Mecklenburg Western Pomerania,code13,37.897
-2019,Percentage,,,,Mecklenburg Western Pomerania,code13,38.553
+2014,Percentage,,,,Mecklenburg Western Pomerania,code13,35.472
+2015,Percentage,,,,Mecklenburg Western Pomerania,code13,34.907
+2016,Percentage,,,,Mecklenburg Western Pomerania,code13,32.791
+2017,Percentage,,,,Mecklenburg Western Pomerania,code13,32.713
+2018,Percentage,,,,Mecklenburg Western Pomerania,code13,37.94
+2019,Percentage,,,,Mecklenburg Western Pomerania,code13,38.662
 2020,Percentage,,,,Mecklenburg Western Pomerania,code13,38.949
-2021,Percentage,,,,Mecklenburg Western Pomerania,code13,43.201
-2022,Percentage,,,,Mecklenburg Western Pomerania,code13,42.386
-2023,Percentage,,,,Mecklenburg Western Pomerania,code13,44.57
+2021,Percentage,,,,Mecklenburg Western Pomerania,code13,43.363
+2022,Percentage,,,,Mecklenburg Western Pomerania,code13,42.446
+2023,Percentage,,,,Mecklenburg Western Pomerania,code13,44.221
+2024,Percentage,,,,Mecklenburg Western Pomerania,code13,45.285
 2005,Percentage,,,,Mecklenburg Western Pomerania,code13,26.349
 2006,Percentage,,,,Mecklenburg Western Pomerania,code13,31.139
 2007,Percentage,,,,Mecklenburg Western Pomerania,code13,30.477
 2008,Percentage,,,,Mecklenburg Western Pomerania,code13,32.339
-2009,Percentage,,,,Mecklenburg Western Pomerania,code13,32.28
+2009,Percentage,,,,Mecklenburg Western Pomerania,code13,32.347
 2010,Percentage,,,Female,Mecklenburg Western Pomerania,code13,36.472
 2011,Percentage,,,Female,Mecklenburg Western Pomerania,code13,35.261
 2012,Percentage,,,Female,Mecklenburg Western Pomerania,code13,38.453
 2013,Percentage,,,Female,Mecklenburg Western Pomerania,code13,42.102
-2014,Percentage,,,Female,Mecklenburg Western Pomerania,code13,43.336
+2014,Percentage,,,Female,Mecklenburg Western Pomerania,code13,43.402
 2015,Percentage,,,Female,Mecklenburg Western Pomerania,code13,44.062
-2016,Percentage,,,Female,Mecklenburg Western Pomerania,code13,39.157
+2016,Percentage,,,Female,Mecklenburg Western Pomerania,code13,39.519
 2017,Percentage,,,Female,Mecklenburg Western Pomerania,code13,39.66
-2018,Percentage,,,Female,Mecklenburg Western Pomerania,code13,44.25
-2019,Percentage,,,Female,Mecklenburg Western Pomerania,code13,41.128
+2018,Percentage,,,Female,Mecklenburg Western Pomerania,code13,44.357
+2019,Percentage,,,Female,Mecklenburg Western Pomerania,code13,41.239
 2020,Percentage,,,Female,Mecklenburg Western Pomerania,code13,45.227
-2021,Percentage,,,Female,Mecklenburg Western Pomerania,code13,48.031
-2022,Percentage,,,Female,Mecklenburg Western Pomerania,code13,50.016
-2023,Percentage,,,Female,Mecklenburg Western Pomerania,code13,54.887
+2021,Percentage,,,Female,Mecklenburg Western Pomerania,code13,48.504
+2022,Percentage,,,Female,Mecklenburg Western Pomerania,code13,49.661
+2023,Percentage,,,Female,Mecklenburg Western Pomerania,code13,54.129
+2024,Percentage,,,Female,Mecklenburg Western Pomerania,code13,53.47
 2005,Percentage,,,Female,Mecklenburg Western Pomerania,code13,27.026
 2006,Percentage,,,Female,Mecklenburg Western Pomerania,code13,37.251
 2007,Percentage,,,Female,Mecklenburg Western Pomerania,code13,37.159
 2008,Percentage,,,Female,Mecklenburg Western Pomerania,code13,39.407
-2009,Percentage,,,Female,Mecklenburg Western Pomerania,code13,37.392
-2010,Percentage,,,Male,Mecklenburg Western Pomerania,code13,30.4
+2009,Percentage,,,Female,Mecklenburg Western Pomerania,code13,37.558
+2010,Percentage,,,Male,Mecklenburg Western Pomerania,code13,30.445
 2011,Percentage,,,Male,Mecklenburg Western Pomerania,code13,29.308
 2012,Percentage,,,Male,Mecklenburg Western Pomerania,code13,23.899
 2013,Percentage,,,Male,Mecklenburg Western Pomerania,code13,25.37
 2014,Percentage,,,Male,Mecklenburg Western Pomerania,code13,28.336
-2015,Percentage,,,Male,Mecklenburg Western Pomerania,code13,26.877
+2015,Percentage,,,Male,Mecklenburg Western Pomerania,code13,27.005
 2016,Percentage,,,Male,Mecklenburg Western Pomerania,code13,27.014
-2017,Percentage,,,Male,Mecklenburg Western Pomerania,code13,26.062
+2017,Percentage,,,Male,Mecklenburg Western Pomerania,code13,26.127
 2018,Percentage,,,Male,Mecklenburg Western Pomerania,code13,32.373
-2019,Percentage,,,Male,Mecklenburg Western Pomerania,code13,36.334
+2019,Percentage,,,Male,Mecklenburg Western Pomerania,code13,36.44
 2020,Percentage,,,Male,Mecklenburg Western Pomerania,code13,33.038
-2021,Percentage,,,Male,Mecklenburg Western Pomerania,code13,38.584
-2022,Percentage,,,Male,Mecklenburg Western Pomerania,code13,34.802
-2023,Percentage,,,Male,Mecklenburg Western Pomerania,code13,34.965
+2021,Percentage,,,Male,Mecklenburg Western Pomerania,code13,38.354
+2022,Percentage,,,Male,Mecklenburg Western Pomerania,code13,34.814
+2023,Percentage,,,Male,Mecklenburg Western Pomerania,code13,34.808
+2024,Percentage,,,Male,Mecklenburg Western Pomerania,code13,36.78
 2005,Percentage,,,Male,Mecklenburg Western Pomerania,code13,25.759
 2006,Percentage,,,Male,Mecklenburg Western Pomerania,code13,26.081
 2007,Percentage,,,Male,Mecklenburg Western Pomerania,code13,25.045
 2008,Percentage,,,Male,Mecklenburg Western Pomerania,code13,26.693
 2009,Percentage,,,Male,Mecklenburg Western Pomerania,code13,27.74
 2010,Percentage,,,,Lower Saxony,code03,36.194
-2011,Percentage,,,,Lower Saxony,code03,37.461
-2012,Percentage,,,,Lower Saxony,code03,38.135
-2013,Percentage,,,,Lower Saxony,code03,37.886
-2014,Percentage,,,,Lower Saxony,code03,40.067
-2015,Percentage,,,,Lower Saxony,code03,43.155
-2016,Percentage,,,,Lower Saxony,code03,41.378
-2017,Percentage,,,,Lower Saxony,code03,42.479
-2018,Percentage,,,,Lower Saxony,code03,43.91
-2019,Percentage,,,,Lower Saxony,code03,44.617
+2011,Percentage,,,,Lower Saxony,code03,37.469
+2012,Percentage,,,,Lower Saxony,code03,38.152
+2013,Percentage,,,,Lower Saxony,code03,37.92
+2014,Percentage,,,,Lower Saxony,code03,40.33
+2015,Percentage,,,,Lower Saxony,code03,43.228
+2016,Percentage,,,,Lower Saxony,code03,41.48
+2017,Percentage,,,,Lower Saxony,code03,42.601
+2018,Percentage,,,,Lower Saxony,code03,44.019
+2019,Percentage,,,,Lower Saxony,code03,44.673
 2020,Percentage,,,,Lower Saxony,code03,47.773
-2021,Percentage,,,,Lower Saxony,code03,47.852
-2022,Percentage,,,,Lower Saxony,code03,49.115
-2023,Percentage,,,,Lower Saxony,code03,53.616
-2005,Percentage,,,,Lower Saxony,code03,32.058
+2021,Percentage,,,,Lower Saxony,code03,48.188
+2022,Percentage,,,,Lower Saxony,code03,49.446
+2023,Percentage,,,,Lower Saxony,code03,52.463
+2024,Percentage,,,,Lower Saxony,code03,54.605
+2005,Percentage,,,,Lower Saxony,code03,32.081
 2006,Percentage,,,,Lower Saxony,code03,31.721
 2007,Percentage,,,,Lower Saxony,code03,32.983
-2008,Percentage,,,,Lower Saxony,code03,34.019
-2009,Percentage,,,,Lower Saxony,code03,35.555
+2008,Percentage,,,,Lower Saxony,code03,34.037
+2009,Percentage,,,,Lower Saxony,code03,35.592
 2010,Percentage,,,Female,Lower Saxony,code03,37.49
 2011,Percentage,,,Female,Lower Saxony,code03,39.557
-2012,Percentage,,,Female,Lower Saxony,code03,40.541
-2013,Percentage,,,Female,Lower Saxony,code03,38.771
-2014,Percentage,,,Female,Lower Saxony,code03,42.278
-2015,Percentage,,,Female,Lower Saxony,code03,46.252
-2016,Percentage,,,Female,Lower Saxony,code03,44.533
-2017,Percentage,,,Female,Lower Saxony,code03,45.786
-2018,Percentage,,,Female,Lower Saxony,code03,48.456
-2019,Percentage,,,Female,Lower Saxony,code03,48.978
+2012,Percentage,,,Female,Lower Saxony,code03,40.56
+2013,Percentage,,,Female,Lower Saxony,code03,38.823
+2014,Percentage,,,Female,Lower Saxony,code03,42.47
+2015,Percentage,,,Female,Lower Saxony,code03,46.361
+2016,Percentage,,,Female,Lower Saxony,code03,44.641
+2017,Percentage,,,Female,Lower Saxony,code03,45.946
+2018,Percentage,,,Female,Lower Saxony,code03,48.507
+2019,Percentage,,,Female,Lower Saxony,code03,49.045
 2020,Percentage,,,Female,Lower Saxony,code03,52.709
-2021,Percentage,,,Female,Lower Saxony,code03,51.993
-2022,Percentage,,,Female,Lower Saxony,code03,52.357
-2023,Percentage,,,Female,Lower Saxony,code03,57.502
+2021,Percentage,,,Female,Lower Saxony,code03,52.379
+2022,Percentage,,,Female,Lower Saxony,code03,52.835
+2023,Percentage,,,Female,Lower Saxony,code03,56.81
+2024,Percentage,,,Female,Lower Saxony,code03,59.095
 2005,Percentage,,,Female,Lower Saxony,code03,29.536
 2006,Percentage,,,Female,Lower Saxony,code03,29.946
 2007,Percentage,,,Female,Lower Saxony,code03,30.943
-2008,Percentage,,,Female,Lower Saxony,code03,33.098
-2009,Percentage,,,Female,Lower Saxony,code03,36.193
+2008,Percentage,,,Female,Lower Saxony,code03,33.133
+2009,Percentage,,,Female,Lower Saxony,code03,36.255
 2010,Percentage,,,Male,Lower Saxony,code03,34.885
-2011,Percentage,,,Male,Lower Saxony,code03,35.387
-2012,Percentage,,,Male,Lower Saxony,code03,35.7
-2013,Percentage,,,Male,Lower Saxony,code03,37.024
-2014,Percentage,,,Male,Lower Saxony,code03,37.941
-2015,Percentage,,,Male,Lower Saxony,code03,40.11
-2016,Percentage,,,Male,Lower Saxony,code03,38.445
-2017,Percentage,,,Male,Lower Saxony,code03,39.425
-2018,Percentage,,,Male,Lower Saxony,code03,39.666
-2019,Percentage,,,Male,Lower Saxony,code03,40.618
+2011,Percentage,,,Male,Lower Saxony,code03,35.403
+2012,Percentage,,,Male,Lower Saxony,code03,35.715
+2013,Percentage,,,Male,Lower Saxony,code03,37.042
+2014,Percentage,,,Male,Lower Saxony,code03,38.263
+2015,Percentage,,,Male,Lower Saxony,code03,40.152
+2016,Percentage,,,Male,Lower Saxony,code03,38.542
+2017,Percentage,,,Male,Lower Saxony,code03,39.515
+2018,Percentage,,,Male,Lower Saxony,code03,39.817
+2019,Percentage,,,Male,Lower Saxony,code03,40.665
 2020,Percentage,,,Male,Lower Saxony,code03,43.017
-2021,Percentage,,,Male,Lower Saxony,code03,43.971
-2022,Percentage,,,Male,Lower Saxony,code03,46.025
-2023,Percentage,,,Male,Lower Saxony,code03,49.855
-2005,Percentage,,,Male,Lower Saxony,code03,34.551
+2021,Percentage,,,Male,Lower Saxony,code03,44.226
+2022,Percentage,,,Male,Lower Saxony,code03,46.241
+2023,Percentage,,,Male,Lower Saxony,code03,48.267
+2024,Percentage,,,Male,Lower Saxony,code03,50.374
+2005,Percentage,,,Male,Lower Saxony,code03,34.599
 2006,Percentage,,,Male,Lower Saxony,code03,33.505
 2007,Percentage,,,Male,Lower Saxony,code03,35.072
 2008,Percentage,,,Male,Lower Saxony,code03,34.922
-2009,Percentage,,,Male,Lower Saxony,code03,34.938
-2010,Percentage,,,,North Rhine-Westphalia,code05,41.293
-2011,Percentage,,,,North Rhine-Westphalia,code05,42.014
-2012,Percentage,,,,North Rhine-Westphalia,code05,44.352
-2013,Percentage,,,,North Rhine-Westphalia,code05,45.022
-2014,Percentage,,,,North Rhine-Westphalia,code05,47.837
-2015,Percentage,,,,North Rhine-Westphalia,code05,48.708
-2016,Percentage,,,,North Rhine-Westphalia,code05,50.251
-2017,Percentage,,,,North Rhine-Westphalia,code05,50.965
-2018,Percentage,,,,North Rhine-Westphalia,code05,50.432
-2019,Percentage,,,,North Rhine-Westphalia,code05,50.876
+2009,Percentage,,,Male,Lower Saxony,code03,34.951
+2010,Percentage,,,,North Rhine-Westphalia,code05,41.389
+2011,Percentage,,,,North Rhine-Westphalia,code05,42.073
+2012,Percentage,,,,North Rhine-Westphalia,code05,44.357
+2013,Percentage,,,,North Rhine-Westphalia,code05,45.045
+2014,Percentage,,,,North Rhine-Westphalia,code05,47.883
+2015,Percentage,,,,North Rhine-Westphalia,code05,48.828
+2016,Percentage,,,,North Rhine-Westphalia,code05,50.378
+2017,Percentage,,,,North Rhine-Westphalia,code05,51.044
+2018,Percentage,,,,North Rhine-Westphalia,code05,50.565
+2019,Percentage,,,,North Rhine-Westphalia,code05,50.934
 2020,Percentage,,,,North Rhine-Westphalia,code05,54.558
-2021,Percentage,,,,North Rhine-Westphalia,code05,54.199
-2022,Percentage,,,,North Rhine-Westphalia,code05,53.555
-2023,Percentage,,,,North Rhine-Westphalia,code05,57.182
+2021,Percentage,,,,North Rhine-Westphalia,code05,54.381
+2022,Percentage,,,,North Rhine-Westphalia,code05,53.815
+2023,Percentage,,,,North Rhine-Westphalia,code05,56.022
+2024,Percentage,,,,North Rhine-Westphalia,code05,57.316
 2005,Percentage,,,,North Rhine-Westphalia,code05,36.964
 2006,Percentage,,,,North Rhine-Westphalia,code05,37.839
 2007,Percentage,,,,North Rhine-Westphalia,code05,38.718
-2008,Percentage,,,,North Rhine-Westphalia,code05,40.871
-2009,Percentage,,,,North Rhine-Westphalia,code05,41.718
-2010,Percentage,,,Female,North Rhine-Westphalia,code05,42.117
-2011,Percentage,,,Female,North Rhine-Westphalia,code05,43.755
-2012,Percentage,,,Female,North Rhine-Westphalia,code05,46.777
-2013,Percentage,,,Female,North Rhine-Westphalia,code05,47.394
-2014,Percentage,,,Female,North Rhine-Westphalia,code05,50.762
-2015,Percentage,,,Female,North Rhine-Westphalia,code05,52.563
-2016,Percentage,,,Female,North Rhine-Westphalia,code05,54.162
-2017,Percentage,,,Female,North Rhine-Westphalia,code05,54.479
-2018,Percentage,,,Female,North Rhine-Westphalia,code05,55.026
-2019,Percentage,,,Female,North Rhine-Westphalia,code05,55.289
+2008,Percentage,,,,North Rhine-Westphalia,code05,41.096
+2009,Percentage,,,,North Rhine-Westphalia,code05,41.827
+2010,Percentage,,,Female,North Rhine-Westphalia,code05,42.215
+2011,Percentage,,,Female,North Rhine-Westphalia,code05,43.816
+2012,Percentage,,,Female,North Rhine-Westphalia,code05,46.787
+2013,Percentage,,,Female,North Rhine-Westphalia,code05,47.416
+2014,Percentage,,,Female,North Rhine-Westphalia,code05,50.809
+2015,Percentage,,,Female,North Rhine-Westphalia,code05,52.654
+2016,Percentage,,,Female,North Rhine-Westphalia,code05,54.355
+2017,Percentage,,,Female,North Rhine-Westphalia,code05,54.587
+2018,Percentage,,,Female,North Rhine-Westphalia,code05,55.135
+2019,Percentage,,,Female,North Rhine-Westphalia,code05,55.337
 2020,Percentage,,,Female,North Rhine-Westphalia,code05,60.36
-2021,Percentage,,,Female,North Rhine-Westphalia,code05,57.824
-2022,Percentage,,,Female,North Rhine-Westphalia,code05,58.021
-2023,Percentage,,,Female,North Rhine-Westphalia,code05,61.781
+2021,Percentage,,,Female,North Rhine-Westphalia,code05,58.132
+2022,Percentage,,,Female,North Rhine-Westphalia,code05,58.408
+2023,Percentage,,,Female,North Rhine-Westphalia,code05,60.771
+2024,Percentage,,,Female,North Rhine-Westphalia,code05,62.441
 2005,Percentage,,,Female,North Rhine-Westphalia,code05,36.443
 2006,Percentage,,,Female,North Rhine-Westphalia,code05,38.012
 2007,Percentage,,,Female,North Rhine-Westphalia,code05,38.428
-2008,Percentage,,,Female,North Rhine-Westphalia,code05,41.468
-2009,Percentage,,,Female,North Rhine-Westphalia,code05,42.575
-2010,Percentage,,,Male,North Rhine-Westphalia,code05,40.478
-2011,Percentage,,,Male,North Rhine-Westphalia,code05,40.299
+2008,Percentage,,,Female,North Rhine-Westphalia,code05,41.687
+2009,Percentage,,,Female,North Rhine-Westphalia,code05,42.652
+2010,Percentage,,,Male,North Rhine-Westphalia,code05,40.573
+2011,Percentage,,,Male,North Rhine-Westphalia,code05,40.355
 2012,Percentage,,,Male,North Rhine-Westphalia,code05,41.997
-2013,Percentage,,,Male,North Rhine-Westphalia,code05,42.638
-2014,Percentage,,,Male,North Rhine-Westphalia,code05,44.795
-2015,Percentage,,,Male,North Rhine-Westphalia,code05,44.757
-2016,Percentage,,,Male,North Rhine-Westphalia,code05,46.302
-2017,Percentage,,,Male,North Rhine-Westphalia,code05,47.513
-2018,Percentage,,,Male,North Rhine-Westphalia,code05,45.945
-2019,Percentage,,,Male,North Rhine-Westphalia,code05,46.65
+2013,Percentage,,,Male,North Rhine-Westphalia,code05,42.662
+2014,Percentage,,,Male,North Rhine-Westphalia,code05,44.84
+2015,Percentage,,,Male,North Rhine-Westphalia,code05,44.902
+2016,Percentage,,,Male,North Rhine-Westphalia,code05,46.371
+2017,Percentage,,,Male,North Rhine-Westphalia,code05,47.565
+2018,Percentage,,,Male,North Rhine-Westphalia,code05,46.096
+2019,Percentage,,,Male,North Rhine-Westphalia,code05,46.715
 2020,Percentage,,,Male,North Rhine-Westphalia,code05,48.942
-2021,Percentage,,,Male,North Rhine-Westphalia,code05,50.732
-2022,Percentage,,,Male,North Rhine-Westphalia,code05,49.274
-2023,Percentage,,,Male,North Rhine-Westphalia,code05,52.801
+2021,Percentage,,,Male,North Rhine-Westphalia,code05,50.793
+2022,Percentage,,,Male,North Rhine-Westphalia,code05,49.424
+2023,Percentage,,,Male,North Rhine-Westphalia,code05,51.508
+2024,Percentage,,,Male,North Rhine-Westphalia,code05,52.468
 2005,Percentage,,,Male,North Rhine-Westphalia,code05,37.481
 2006,Percentage,,,Male,North Rhine-Westphalia,code05,37.668
 2007,Percentage,,,Male,North Rhine-Westphalia,code05,39.003
-2008,Percentage,,,Male,North Rhine-Westphalia,code05,40.274
-2009,Percentage,,,Male,North Rhine-Westphalia,code05,40.845
-2010,Percentage,,,,Rhineland Palatinate,code07,38.488
-2011,Percentage,,,,Rhineland Palatinate,code07,39.962
+2008,Percentage,,,Male,North Rhine-Westphalia,code05,40.506
+2009,Percentage,,,Male,North Rhine-Westphalia,code05,40.985
+2010,Percentage,,,,Rhineland Palatinate,code07,38.507
+2011,Percentage,,,,Rhineland Palatinate,code07,39.981
 2012,Percentage,,,,Rhineland Palatinate,code07,42.26
-2013,Percentage,,,,Rhineland Palatinate,code07,41.899
+2013,Percentage,,,,Rhineland Palatinate,code07,41.933
 2014,Percentage,,,,Rhineland Palatinate,code07,43.672
-2015,Percentage,,,,Rhineland Palatinate,code07,42.583
-2016,Percentage,,,,Rhineland Palatinate,code07,44.232
-2017,Percentage,,,,Rhineland Palatinate,code07,44.041
-2018,Percentage,,,,Rhineland Palatinate,code07,44.52
-2019,Percentage,,,,Rhineland Palatinate,code07,48.132
+2015,Percentage,,,,Rhineland Palatinate,code07,42.606
+2016,Percentage,,,,Rhineland Palatinate,code07,44.25
+2017,Percentage,,,,Rhineland Palatinate,code07,44.135
+2018,Percentage,,,,Rhineland Palatinate,code07,44.584
+2019,Percentage,,,,Rhineland Palatinate,code07,48.176
 2020,Percentage,,,,Rhineland Palatinate,code07,49.737
-2021,Percentage,,,,Rhineland Palatinate,code07,48.91
-2022,Percentage,,,,Rhineland Palatinate,code07,49.839
-2023,Percentage,,,,Rhineland Palatinate,code07,53.04
+2021,Percentage,,,,Rhineland Palatinate,code07,49.019
+2022,Percentage,,,,Rhineland Palatinate,code07,49.997
+2023,Percentage,,,,Rhineland Palatinate,code07,51.25
+2024,Percentage,,,,Rhineland Palatinate,code07,54.829
 2005,Percentage,,,,Rhineland Palatinate,code07,30.417
 2006,Percentage,,,,Rhineland Palatinate,code07,31.903
 2007,Percentage,,,,Rhineland Palatinate,code07,32.928
-2008,Percentage,,,,Rhineland Palatinate,code07,35.283
-2009,Percentage,,,,Rhineland Palatinate,code07,36.669
+2008,Percentage,,,,Rhineland Palatinate,code07,35.304
+2009,Percentage,,,,Rhineland Palatinate,code07,36.684
 2010,Percentage,,,Female,Rhineland Palatinate,code07,37.007
 2011,Percentage,,,Female,Rhineland Palatinate,code07,40.919
 2012,Percentage,,,Female,Rhineland Palatinate,code07,42.304
 2013,Percentage,,,Female,Rhineland Palatinate,code07,42.15
 2014,Percentage,,,Female,Rhineland Palatinate,code07,45.628
 2015,Percentage,,,Female,Rhineland Palatinate,code07,44.601
-2016,Percentage,,,Female,Rhineland Palatinate,code07,46.604
-2017,Percentage,,,Female,Rhineland Palatinate,code07,47.892
-2018,Percentage,,,Female,Rhineland Palatinate,code07,46.58
-2019,Percentage,,,Female,Rhineland Palatinate,code07,51.172
+2016,Percentage,,,Female,Rhineland Palatinate,code07,46.644
+2017,Percentage,,,Female,Rhineland Palatinate,code07,47.934
+2018,Percentage,,,Female,Rhineland Palatinate,code07,46.716
+2019,Percentage,,,Female,Rhineland Palatinate,code07,51.269
 2020,Percentage,,,Female,Rhineland Palatinate,code07,53.188
-2021,Percentage,,,Female,Rhineland Palatinate,code07,51.96
-2022,Percentage,,,Female,Rhineland Palatinate,code07,53.002
-2023,Percentage,,,Female,Rhineland Palatinate,code07,55.37
+2021,Percentage,,,Female,Rhineland Palatinate,code07,52.098
+2022,Percentage,,,Female,Rhineland Palatinate,code07,53.228
+2023,Percentage,,,Female,Rhineland Palatinate,code07,53.821
+2024,Percentage,,,Female,Rhineland Palatinate,code07,58.936
 2005,Percentage,,,Female,Rhineland Palatinate,code07,26.574
 2006,Percentage,,,Female,Rhineland Palatinate,code07,29.304
 2007,Percentage,,,Female,Rhineland Palatinate,code07,31.826
 2008,Percentage,,,Female,Rhineland Palatinate,code07,35.112
 2009,Percentage,,,Female,Rhineland Palatinate,code07,36.994
-2010,Percentage,,,Male,Rhineland Palatinate,code07,40.121
-2011,Percentage,,,Male,Rhineland Palatinate,code07,38.951
+2010,Percentage,,,Male,Rhineland Palatinate,code07,40.163
+2011,Percentage,,,Male,Rhineland Palatinate,code07,38.99
 2012,Percentage,,,Male,Rhineland Palatinate,code07,42.203
-2013,Percentage,,,Male,Rhineland Palatinate,code07,41.659
+2013,Percentage,,,Male,Rhineland Palatinate,code07,41.727
 2014,Percentage,,,Male,Rhineland Palatinate,code07,41.632
-2015,Percentage,,,Male,Rhineland Palatinate,code07,40.644
+2015,Percentage,,,Male,Rhineland Palatinate,code07,40.687
 2016,Percentage,,,Male,Rhineland Palatinate,code07,41.923
-2017,Percentage,,,Male,Rhineland Palatinate,code07,40.268
+2017,Percentage,,,Male,Rhineland Palatinate,code07,40.404
 2018,Percentage,,,Male,Rhineland Palatinate,code07,42.472
 2019,Percentage,,,Male,Rhineland Palatinate,code07,45.228
 2020,Percentage,,,Male,Rhineland Palatinate,code07,46.338
-2021,Percentage,,,Male,Rhineland Palatinate,code07,46.084
-2022,Percentage,,,Male,Rhineland Palatinate,code07,46.776
-2023,Percentage,,,Male,Rhineland Palatinate,code07,50.815
+2021,Percentage,,,Male,Rhineland Palatinate,code07,46.139
+2022,Percentage,,,Male,Rhineland Palatinate,code07,46.849
+2023,Percentage,,,Male,Rhineland Palatinate,code07,48.777
+2024,Percentage,,,Male,Rhineland Palatinate,code07,51.114
 2005,Percentage,,,Male,Rhineland Palatinate,code07,34.607
 2006,Percentage,,,Male,Rhineland Palatinate,code07,34.728
 2007,Percentage,,,Male,Rhineland Palatinate,code07,34.014
-2008,Percentage,,,Male,Rhineland Palatinate,code07,35.456
-2009,Percentage,,,Male,Rhineland Palatinate,code07,36.32
+2008,Percentage,,,Male,Rhineland Palatinate,code07,35.499
+2009,Percentage,,,Male,Rhineland Palatinate,code07,36.351
 2010,Percentage,,,,Saarland,code10,32.859
 2011,Percentage,,,,Saarland,code10,34.783
 2012,Percentage,,,,Saarland,code10,38.257
 2013,Percentage,,,,Saarland,code10,35.694
 2014,Percentage,,,,Saarland,code10,35.753
 2015,Percentage,,,,Saarland,code10,40.201
-2016,Percentage,,,,Saarland,code10,41.396
-2017,Percentage,,,,Saarland,code10,39.696
-2018,Percentage,,,,Saarland,code10,44.468
+2016,Percentage,,,,Saarland,code10,41.599
+2017,Percentage,,,,Saarland,code10,39.827
+2018,Percentage,,,,Saarland,code10,44.596
 2019,Percentage,,,,Saarland,code10,47.733
 2020,Percentage,,,,Saarland,code10,55.251
-2021,Percentage,,,,Saarland,code10,51.872
-2022,Percentage,,,,Saarland,code10,50.554
-2023,Percentage,,,,Saarland,code10,50.417
+2021,Percentage,,,,Saarland,code10,51.954
+2022,Percentage,,,,Saarland,code10,50.937
+2023,Percentage,,,,Saarland,code10,48.61
+2024,Percentage,,,,Saarland,code10,51.852
 2005,Percentage,,,,Saarland,code10,32.673
 2006,Percentage,,,,Saarland,code10,35.007
-2007,Percentage,,,,Saarland,code10,32.395
-2008,Percentage,,,,Saarland,code10,36.201
+2007,Percentage,,,,Saarland,code10,32.44
+2008,Percentage,,,,Saarland,code10,36.371
 2009,Percentage,,,,Saarland,code10,37.232
 2010,Percentage,,,Female,Saarland,code10,36.76
 2011,Percentage,,,Female,Saarland,code10,38.665
@@ -731,17 +765,18 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2014,Percentage,,,Female,Saarland,code10,35.754
 2015,Percentage,,,Female,Saarland,code10,41.255
 2016,Percentage,,,Female,Saarland,code10,37.913
-2017,Percentage,,,Female,Saarland,code10,40.066
+2017,Percentage,,,Female,Saarland,code10,40.354
 2018,Percentage,,,Female,Saarland,code10,49.159
 2019,Percentage,,,Female,Saarland,code10,54.215
 2020,Percentage,,,Female,Saarland,code10,66.671
-2021,Percentage,,,Female,Saarland,code10,55.619
-2022,Percentage,,,Female,Saarland,code10,55.517
-2023,Percentage,,,Female,Saarland,code10,55.242
+2021,Percentage,,,Female,Saarland,code10,55.756
+2022,Percentage,,,Female,Saarland,code10,55.745
+2023,Percentage,,,Female,Saarland,code10,53.824
+2024,Percentage,,,Female,Saarland,code10,58.611
 2005,Percentage,,,Female,Saarland,code10,32.814
 2006,Percentage,,,Female,Saarland,code10,34.97
-2007,Percentage,,,Female,Saarland,code10,33.02
-2008,Percentage,,,Female,Saarland,code10,37.247
+2007,Percentage,,,Female,Saarland,code10,33.107
+2008,Percentage,,,Female,Saarland,code10,37.423
 2009,Percentage,,,Female,Saarland,code10,40.175
 2010,Percentage,,,Male,Saarland,code10,28.772
 2011,Percentage,,,Male,Saarland,code10,30.839
@@ -749,18 +784,19 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2013,Percentage,,,Male,Saarland,code10,32.34
 2014,Percentage,,,Male,Saarland,code10,35.774
 2015,Percentage,,,Male,Saarland,code10,39.245
-2016,Percentage,,,Male,Saarland,code10,44.365
+2016,Percentage,,,Male,Saarland,code10,44.77
 2017,Percentage,,,Male,Saarland,code10,39.374
-2018,Percentage,,,Male,Saarland,code10,40.597
+2018,Percentage,,,Male,Saarland,code10,40.81
 2019,Percentage,,,Male,Saarland,code10,41.476
 2020,Percentage,,,Male,Saarland,code10,43.5
-2021,Percentage,,,Male,Saarland,code10,48.514
-2022,Percentage,,,Male,Saarland,code10,45.484
-2023,Percentage,,,Male,Saarland,code10,45.91
+2021,Percentage,,,Male,Saarland,code10,48.515
+2022,Percentage,,,Male,Saarland,code10,45.95
+2023,Percentage,,,Male,Saarland,code10,43.814
+2024,Percentage,,,Male,Saarland,code10,45.396
 2005,Percentage,,,Male,Saarland,code10,32.494
 2006,Percentage,,,Male,Saarland,code10,35.005
 2007,Percentage,,,Male,Saarland,code10,31.656
-2008,Percentage,,,Male,Saarland,code10,35.063
+2008,Percentage,,,Male,Saarland,code10,35.242
 2009,Percentage,,,Male,Saarland,code10,34.162
 2010,Percentage,,,,Saxony,code14,46.36
 2011,Percentage,,,,Saxony,code14,44.031
@@ -768,18 +804,19 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2013,Percentage,,,,Saxony,code14,45.802
 2014,Percentage,,,,Saxony,code14,46.177
 2015,Percentage,,,,Saxony,code14,48.273
-2016,Percentage,,,,Saxony,code14,46.221
-2017,Percentage,,,,Saxony,code14,47.941
-2018,Percentage,,,,Saxony,code14,49.148
-2019,Percentage,,,,Saxony,code14,50.696
+2016,Percentage,,,,Saxony,code14,46.303
+2017,Percentage,,,,Saxony,code14,48.008
+2018,Percentage,,,,Saxony,code14,49.176
+2019,Percentage,,,,Saxony,code14,50.717
 2020,Percentage,,,,Saxony,code14,50.961
-2021,Percentage,,,,Saxony,code14,52.873
-2022,Percentage,,,,Saxony,code14,54.831
-2023,Percentage,,,,Saxony,code14,55.116
+2021,Percentage,,,,Saxony,code14,52.867
+2022,Percentage,,,,Saxony,code14,54.835
+2023,Percentage,,,,Saxony,code14,54.873
+2024,Percentage,,,,Saxony,code14,57.543
 2005,Percentage,,,,Saxony,code14,37.891
 2006,Percentage,,,,Saxony,code14,40.594
 2007,Percentage,,,,Saxony,code14,44.325
-2008,Percentage,,,,Saxony,code14,44.41
+2008,Percentage,,,,Saxony,code14,44.452
 2009,Percentage,,,,Saxony,code14,46.019
 2010,Percentage,,,Female,Saxony,code14,54.98
 2011,Percentage,,,Female,Saxony,code14,53.073
@@ -788,17 +825,18 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2014,Percentage,,,Female,Saxony,code14,54.31
 2015,Percentage,,,Female,Saxony,code14,56.29
 2016,Percentage,,,Female,Saxony,code14,54.852
-2017,Percentage,,,Female,Saxony,code14,56.794
-2018,Percentage,,,Female,Saxony,code14,57.312
-2019,Percentage,,,Female,Saxony,code14,59.714
+2017,Percentage,,,Female,Saxony,code14,56.864
+2018,Percentage,,,Female,Saxony,code14,57.379
+2019,Percentage,,,Female,Saxony,code14,59.763
 2020,Percentage,,,Female,Saxony,code14,58.286
-2021,Percentage,,,Female,Saxony,code14,59.487
-2022,Percentage,,,Female,Saxony,code14,62.528
-2023,Percentage,,,Female,Saxony,code14,62.817
+2021,Percentage,,,Female,Saxony,code14,59.463
+2022,Percentage,,,Female,Saxony,code14,62.481
+2023,Percentage,,,Female,Saxony,code14,62.819
+2024,Percentage,,,Female,Saxony,code14,63.979
 2005,Percentage,,,Female,Saxony,code14,42.11
 2006,Percentage,,,Female,Saxony,code14,48.179
 2007,Percentage,,,Female,Saxony,code14,52.442
-2008,Percentage,,,Female,Saxony,code14,52.404
+2008,Percentage,,,Female,Saxony,code14,52.456
 2009,Percentage,,,Female,Saxony,code14,55.446
 2010,Percentage,,,Male,Saxony,code14,38.611
 2011,Percentage,,,Male,Saxony,code14,36.216
@@ -806,185 +844,195 @@ Year,Units,Time series,Qualification,Sex,Federal state,GeoCode,Value
 2013,Percentage,,,Male,Saxony,code14,37.767
 2014,Percentage,,,Male,Saxony,code14,39.06
 2015,Percentage,,,Male,Saxony,code14,41.035
-2016,Percentage,,,Male,Saxony,code14,38.415
-2017,Percentage,,,Male,Saxony,code14,39.792
+2016,Percentage,,,Male,Saxony,code14,38.545
+2017,Percentage,,,Male,Saxony,code14,39.854
 2018,Percentage,,,Male,Saxony,code14,41.556
 2019,Percentage,,,Male,Saxony,code14,41.69
 2020,Percentage,,,Male,Saxony,code14,43.812
-2021,Percentage,,,Male,Saxony,code14,46.659
-2022,Percentage,,,Male,Saxony,code14,47.728
-2023,Percentage,,,Male,Saxony,code14,47.761
+2021,Percentage,,,Male,Saxony,code14,46.621
+2022,Percentage,,,Male,Saxony,code14,47.73
+2023,Percentage,,,Male,Saxony,code14,47.315
+2024,Percentage,,,Male,Saxony,code14,51.489
 2005,Percentage,,,Male,Saxony,code14,34.289
 2006,Percentage,,,Male,Saxony,code14,34.049
 2007,Percentage,,,Male,Saxony,code14,37.29
-2008,Percentage,,,Male,Saxony,code14,37.805
+2008,Percentage,,,Male,Saxony,code14,37.836
 2009,Percentage,,,Male,Saxony,code14,37.79
-2010,Percentage,,,,Saxony-Anhalt,code15,32.162
-2011,Percentage,,,,Saxony-Anhalt,code15,31.441
+2010,Percentage,,,,Saxony-Anhalt,code15,32.196
+2011,Percentage,,,,Saxony-Anhalt,code15,31.538
 2012,Percentage,,,,Saxony-Anhalt,code15,30.9
-2013,Percentage,,,,Saxony-Anhalt,code15,30.624
-2014,Percentage,,,,Saxony-Anhalt,code15,32.348
-2015,Percentage,,,,Saxony-Anhalt,code15,34.211
-2016,Percentage,,,,Saxony-Anhalt,code15,33.406
-2017,Percentage,,,,Saxony-Anhalt,code15,35.575
-2018,Percentage,,,,Saxony-Anhalt,code15,38.136
-2019,Percentage,,,,Saxony-Anhalt,code15,36.378
+2013,Percentage,,,,Saxony-Anhalt,code15,30.722
+2014,Percentage,,,,Saxony-Anhalt,code15,32.442
+2015,Percentage,,,,Saxony-Anhalt,code15,34.417
+2016,Percentage,,,,Saxony-Anhalt,code15,33.629
+2017,Percentage,,,,Saxony-Anhalt,code15,35.818
+2018,Percentage,,,,Saxony-Anhalt,code15,38.576
+2019,Percentage,,,,Saxony-Anhalt,code15,36.568
 2020,Percentage,,,,Saxony-Anhalt,code15,39.675
-2021,Percentage,,,,Saxony-Anhalt,code15,41.607
-2022,Percentage,,,,Saxony-Anhalt,code15,43.367
-2023,Percentage,,,,Saxony-Anhalt,code15,43.501
+2021,Percentage,,,,Saxony-Anhalt,code15,41.624
+2022,Percentage,,,,Saxony-Anhalt,code15,43.48
+2023,Percentage,,,,Saxony-Anhalt,code15,42.581
+2024,Percentage,,,,Saxony-Anhalt,code15,43.035
 2005,Percentage,,,,Saxony-Anhalt,code15,27.938
-2006,Percentage,,,,Saxony-Anhalt,code15,28.391
+2006,Percentage,,,,Saxony-Anhalt,code15,28.41
 2007,Percentage,,,,Saxony-Anhalt,code15,27.008
-2008,Percentage,,,,Saxony-Anhalt,code15,30.33
-2009,Percentage,,,,Saxony-Anhalt,code15,32.299
-2010,Percentage,,,Female,Saxony-Anhalt,code15,37.129
-2011,Percentage,,,Female,Saxony-Anhalt,code15,37.218
+2008,Percentage,,,,Saxony-Anhalt,code15,30.452
+2009,Percentage,,,,Saxony-Anhalt,code15,32.577
+2010,Percentage,,,Female,Saxony-Anhalt,code15,37.211
+2011,Percentage,,,Female,Saxony-Anhalt,code15,37.381
 2012,Percentage,,,Female,Saxony-Anhalt,code15,36.312
 2013,Percentage,,,Female,Saxony-Anhalt,code15,36.466
-2014,Percentage,,,Female,Saxony-Anhalt,code15,38.901
-2015,Percentage,,,Female,Saxony-Anhalt,code15,39.839
-2016,Percentage,,,Female,Saxony-Anhalt,code15,41.477
-2017,Percentage,,,Female,Saxony-Anhalt,code15,41.127
-2018,Percentage,,,Female,Saxony-Anhalt,code15,43.569
-2019,Percentage,,,Female,Saxony-Anhalt,code15,41.099
+2014,Percentage,,,Female,Saxony-Anhalt,code15,39.033
+2015,Percentage,,,Female,Saxony-Anhalt,code15,39.992
+2016,Percentage,,,Female,Saxony-Anhalt,code15,41.68
+2017,Percentage,,,Female,Saxony-Anhalt,code15,41.218
+2018,Percentage,,,Female,Saxony-Anhalt,code15,44.332
+2019,Percentage,,,Female,Saxony-Anhalt,code15,41.272
 2020,Percentage,,,Female,Saxony-Anhalt,code15,49.659
-2021,Percentage,,,Female,Saxony-Anhalt,code15,50.665
-2022,Percentage,,,Female,Saxony-Anhalt,code15,51.305
-2023,Percentage,,,Female,Saxony-Anhalt,code15,50.75
+2021,Percentage,,,Female,Saxony-Anhalt,code15,50.597
+2022,Percentage,,,Female,Saxony-Anhalt,code15,51.455
+2023,Percentage,,,Female,Saxony-Anhalt,code15,49.394
+2024,Percentage,,,Female,Saxony-Anhalt,code15,46.87
 2005,Percentage,,,Female,Saxony-Anhalt,code15,31.213
-2006,Percentage,,,Female,Saxony-Anhalt,code15,32.102
+2006,Percentage,,,Female,Saxony-Anhalt,code15,32.145
 2007,Percentage,,,Female,Saxony-Anhalt,code15,34.167
-2008,Percentage,,,Female,Saxony-Anhalt,code15,36.559
-2009,Percentage,,,Female,Saxony-Anhalt,code15,36.875
+2008,Percentage,,,Female,Saxony-Anhalt,code15,36.796
+2009,Percentage,,,Female,Saxony-Anhalt,code15,37.137
 2010,Percentage,,,Male,Saxony-Anhalt,code15,27.529
-2011,Percentage,,,Male,Saxony-Anhalt,code15,26.228
+2011,Percentage,,,Male,Saxony-Anhalt,code15,26.277
 2012,Percentage,,,Male,Saxony-Anhalt,code15,25.92
-2013,Percentage,,,Male,Saxony-Anhalt,code15,25.562
-2014,Percentage,,,Male,Saxony-Anhalt,code15,26.457
-2015,Percentage,,,Male,Saxony-Anhalt,code15,29.624
-2016,Percentage,,,Male,Saxony-Anhalt,code15,26.434
-2017,Percentage,,,Male,Saxony-Anhalt,code15,30.478
-2018,Percentage,,,Male,Saxony-Anhalt,code15,32.629
-2019,Percentage,,,Male,Saxony-Anhalt,code15,32.142
+2013,Percentage,,,Male,Saxony-Anhalt,code15,25.716
+2014,Percentage,,,Male,Saxony-Anhalt,code15,26.517
+2015,Percentage,,,Male,Saxony-Anhalt,code15,29.854
+2016,Percentage,,,Male,Saxony-Anhalt,code15,26.652
+2017,Percentage,,,Male,Saxony-Anhalt,code15,30.816
+2018,Percentage,,,Male,Saxony-Anhalt,code15,32.811
+2019,Percentage,,,Male,Saxony-Anhalt,code15,32.338
 2020,Percentage,,,Male,Saxony-Anhalt,code15,30.554
-2021,Percentage,,,Male,Saxony-Anhalt,code15,33.261
-2022,Percentage,,,Male,Saxony-Anhalt,code15,36.279
-2023,Percentage,,,Male,Saxony-Anhalt,code15,36.785
+2021,Percentage,,,Male,Saxony-Anhalt,code15,33.216
+2022,Percentage,,,Male,Saxony-Anhalt,code15,36.29
+2023,Percentage,,,Male,Saxony-Anhalt,code15,36.157
+2024,Percentage,,,Male,Saxony-Anhalt,code15,39.44
 2005,Percentage,,,Male,Saxony-Anhalt,code15,25.223
 2006,Percentage,,,Male,Saxony-Anhalt,code15,24.949
 2007,Percentage,,,Male,Saxony-Anhalt,code15,20.758
-2008,Percentage,,,Male,Saxony-Anhalt,code15,24.701
-2009,Percentage,,,Male,Saxony-Anhalt,code15,27.922
-2010,Percentage,,,,Schleswig-Holstein,code01,35.779
-2011,Percentage,,,,Schleswig-Holstein,code01,40.395
+2008,Percentage,,,Male,Saxony-Anhalt,code15,24.749
+2009,Percentage,,,Male,Saxony-Anhalt,code15,28.203
+2010,Percentage,,,,Schleswig-Holstein,code01,35.818
+2011,Percentage,,,,Schleswig-Holstein,code01,40.479
 2012,Percentage,,,,Schleswig-Holstein,code01,37.279
 2013,Percentage,,,,Schleswig-Holstein,code01,38.185
-2014,Percentage,,,,Schleswig-Holstein,code01,38.887
-2015,Percentage,,,,Schleswig-Holstein,code01,39.661
-2016,Percentage,,,,Schleswig-Holstein,code01,40.057
-2017,Percentage,,,,Schleswig-Holstein,code01,42.03
-2018,Percentage,,,,Schleswig-Holstein,code01,42.889
-2019,Percentage,,,,Schleswig-Holstein,code01,43.159
+2014,Percentage,,,,Schleswig-Holstein,code01,38.917
+2015,Percentage,,,,Schleswig-Holstein,code01,39.774
+2016,Percentage,,,,Schleswig-Holstein,code01,40.312
+2017,Percentage,,,,Schleswig-Holstein,code01,42.434
+2018,Percentage,,,,Schleswig-Holstein,code01,43.394
+2019,Percentage,,,,Schleswig-Holstein,code01,43.426
 2020,Percentage,,,,Schleswig-Holstein,code01,43.492
-2021,Percentage,,,,Schleswig-Holstein,code01,45.893
-2022,Percentage,,,,Schleswig-Holstein,code01,45.508
-2023,Percentage,,,,Schleswig-Holstein,code01,51.585
+2021,Percentage,,,,Schleswig-Holstein,code01,46.169
+2022,Percentage,,,,Schleswig-Holstein,code01,45.797
+2023,Percentage,,,,Schleswig-Holstein,code01,50.537
+2024,Percentage,,,,Schleswig-Holstein,code01,54.044
 2005,Percentage,,,,Schleswig-Holstein,code01,32.522
 2006,Percentage,,,,Schleswig-Holstein,code01,30.614
 2007,Percentage,,,,Schleswig-Holstein,code01,31.821
-2008,Percentage,,,,Schleswig-Holstein,code01,32.074
-2009,Percentage,,,,Schleswig-Holstein,code01,34.571
-2010,Percentage,,,Female,Schleswig-Holstein,code01,36.664
+2008,Percentage,,,,Schleswig-Holstein,code01,32.351
+2009,Percentage,,,,Schleswig-Holstein,code01,34.6
+2010,Percentage,,,Female,Schleswig-Holstein,code01,36.743
 2011,Percentage,,,Female,Schleswig-Holstein,code01,41.709
 2012,Percentage,,,Female,Schleswig-Holstein,code01,39.199
 2013,Percentage,,,Female,Schleswig-Holstein,code01,40.66
 2014,Percentage,,,Female,Schleswig-Holstein,code01,40.683
-2015,Percentage,,,Female,Schleswig-Holstein,code01,43.863
-2016,Percentage,,,Female,Schleswig-Holstein,code01,42.871
-2017,Percentage,,,Female,Schleswig-Holstein,code01,46.648
-2018,Percentage,,,Female,Schleswig-Holstein,code01,48.486
-2019,Percentage,,,Female,Schleswig-Holstein,code01,45.606
+2015,Percentage,,,Female,Schleswig-Holstein,code01,44.039
+2016,Percentage,,,Female,Schleswig-Holstein,code01,43.084
+2017,Percentage,,,Female,Schleswig-Holstein,code01,47.043
+2018,Percentage,,,Female,Schleswig-Holstein,code01,49.134
+2019,Percentage,,,Female,Schleswig-Holstein,code01,45.802
 2020,Percentage,,,Female,Schleswig-Holstein,code01,47.986
-2021,Percentage,,,Female,Schleswig-Holstein,code01,50.451
-2022,Percentage,,,Female,Schleswig-Holstein,code01,51.465
-2023,Percentage,,,Female,Schleswig-Holstein,code01,57.185
+2021,Percentage,,,Female,Schleswig-Holstein,code01,50.888
+2022,Percentage,,,Female,Schleswig-Holstein,code01,51.768
+2023,Percentage,,,Female,Schleswig-Holstein,code01,55.594
+2024,Percentage,,,Female,Schleswig-Holstein,code01,59.408
 2005,Percentage,,,Female,Schleswig-Holstein,code01,32.061
 2006,Percentage,,,Female,Schleswig-Holstein,code01,30.892
 2007,Percentage,,,Female,Schleswig-Holstein,code01,31.164
-2008,Percentage,,,Female,Schleswig-Holstein,code01,32.735
+2008,Percentage,,,Female,Schleswig-Holstein,code01,32.799
 2009,Percentage,,,Female,Schleswig-Holstein,code01,35.757
 2010,Percentage,,,Male,Schleswig-Holstein,code01,34.881
-2011,Percentage,,,Male,Schleswig-Holstein,code01,39.019
+2011,Percentage,,,Male,Schleswig-Holstein,code01,39.187
 2012,Percentage,,,Male,Schleswig-Holstein,code01,35.318
 2013,Percentage,,,Male,Schleswig-Holstein,code01,35.435
-2014,Percentage,,,Male,Schleswig-Holstein,code01,36.952
-2015,Percentage,,,Male,Schleswig-Holstein,code01,35.491
-2016,Percentage,,,Male,Schleswig-Holstein,code01,37.372
-2017,Percentage,,,Male,Schleswig-Holstein,code01,37.522
-2018,Percentage,,,Male,Schleswig-Holstein,code01,37.395
-2019,Percentage,,,Male,Schleswig-Holstein,code01,40.827
+2014,Percentage,,,Male,Schleswig-Holstein,code01,37.012
+2015,Percentage,,,Male,Schleswig-Holstein,code01,35.551
+2016,Percentage,,,Male,Schleswig-Holstein,code01,37.658
+2017,Percentage,,,Male,Schleswig-Holstein,code01,37.924
+2018,Percentage,,,Male,Schleswig-Holstein,code01,37.777
+2019,Percentage,,,Male,Schleswig-Holstein,code01,41.153
 2020,Percentage,,,Male,Schleswig-Holstein,code01,39.053
-2021,Percentage,,,Male,Schleswig-Holstein,code01,41.606
-2022,Percentage,,,Male,Schleswig-Holstein,code01,39.994
-2023,Percentage,,,Male,Schleswig-Holstein,code01,46.303
+2021,Percentage,,,Male,Schleswig-Holstein,code01,41.684
+2022,Percentage,,,Male,Schleswig-Holstein,code01,40.218
+2023,Percentage,,,Male,Schleswig-Holstein,code01,45.741
+2024,Percentage,,,Male,Schleswig-Holstein,code01,49.063
 2005,Percentage,,,Male,Schleswig-Holstein,code01,32.983
 2006,Percentage,,,Male,Schleswig-Holstein,code01,30.334
 2007,Percentage,,,Male,Schleswig-Holstein,code01,32.499
-2008,Percentage,,,Male,Schleswig-Holstein,code01,31.347
-2009,Percentage,,,Male,Schleswig-Holstein,code01,33.408
+2008,Percentage,,,Male,Schleswig-Holstein,code01,31.852
+2009,Percentage,,,Male,Schleswig-Holstein,code01,33.465
 2010,Percentage,,,,Thuringia,code16,36.366
-2011,Percentage,,,,Thuringia,code16,37.239
+2011,Percentage,,,,Thuringia,code16,37.319
 2012,Percentage,,,,Thuringia,code16,39.128
 2013,Percentage,,,,Thuringia,code16,39.753
 2014,Percentage,,,,Thuringia,code16,37.562
 2015,Percentage,,,,Thuringia,code16,36.89
-2016,Percentage,,,,Thuringia,code16,40.279
+2016,Percentage,,,,Thuringia,code16,40.326
 2017,Percentage,,,,Thuringia,code16,40.681
-2018,Percentage,,,,Thuringia,code16,44.536
+2018,Percentage,,,,Thuringia,code16,44.574
 2019,Percentage,,,,Thuringia,code16,44.773
 2020,Percentage,,,,Thuringia,code16,46.068
-2021,Percentage,,,,Thuringia,code16,46.869
-2022,Percentage,,,,Thuringia,code16,48.946
-2023,Percentage,,,,Thuringia,code16,48.853
+2021,Percentage,,,,Thuringia,code16,46.976
+2022,Percentage,,,,Thuringia,code16,49.171
+2023,Percentage,,,,Thuringia,code16,47.595
+2024,Percentage,,,,Thuringia,code16,52.235
 2005,Percentage,,,,Thuringia,code16,31.24
 2006,Percentage,,,,Thuringia,code16,32.24
 2007,Percentage,,,,Thuringia,code16,36.495
 2008,Percentage,,,,Thuringia,code16,35.718
 2009,Percentage,,,,Thuringia,code16,35.356
 2010,Percentage,,,Female,Thuringia,code16,42.954
-2011,Percentage,,,Female,Thuringia,code16,45.156
+2011,Percentage,,,Female,Thuringia,code16,45.287
 2012,Percentage,,,Female,Thuringia,code16,46.336
 2013,Percentage,,,Female,Thuringia,code16,47.056
 2014,Percentage,,,Female,Thuringia,code16,44.548
 2015,Percentage,,,Female,Thuringia,code16,45.386
 2016,Percentage,,,Female,Thuringia,code16,47.965
 2017,Percentage,,,Female,Thuringia,code16,49.471
-2018,Percentage,,,Female,Thuringia,code16,51.644
+2018,Percentage,,,Female,Thuringia,code16,51.737
 2019,Percentage,,,Female,Thuringia,code16,51.22
 2020,Percentage,,,Female,Thuringia,code16,48.544
-2021,Percentage,,,Female,Thuringia,code16,53.832
-2022,Percentage,,,Female,Thuringia,code16,53.893
-2023,Percentage,,,Female,Thuringia,code16,52.883
+2021,Percentage,,,Female,Thuringia,code16,53.907
+2022,Percentage,,,Female,Thuringia,code16,54.133
+2023,Percentage,,,Female,Thuringia,code16,52.034
+2024,Percentage,,,Female,Thuringia,code16,56.097
 2005,Percentage,,,Female,Thuringia,code16,33.837
 2006,Percentage,,,Female,Thuringia,code16,35.134
 2007,Percentage,,,Female,Thuringia,code16,40.816
 2008,Percentage,,,Female,Thuringia,code16,41.872
 2009,Percentage,,,Female,Thuringia,code16,42.476
 2010,Percentage,,,Male,Thuringia,code16,30.543
-2011,Percentage,,,Male,Thuringia,code16,29.904
+2011,Percentage,,,Male,Thuringia,code16,29.946
 2012,Percentage,,,Male,Thuringia,code16,32.762
 2013,Percentage,,,Male,Thuringia,code16,32.984
 2014,Percentage,,,Male,Thuringia,code16,31.294
 2015,Percentage,,,Male,Thuringia,code16,29.867
-2016,Percentage,,,Male,Thuringia,code16,33.397
+2016,Percentage,,,Male,Thuringia,code16,33.471
 2017,Percentage,,,Male,Thuringia,code16,32.923
 2018,Percentage,,,Male,Thuringia,code16,38.098
 2019,Percentage,,,Male,Thuringia,code16,38.895
 2020,Percentage,,,Male,Thuringia,code16,43.843
-2021,Percentage,,,Male,Thuringia,code16,40.774
-2022,Percentage,,,Male,Thuringia,code16,44.671
-2023,Percentage,,,Male,Thuringia,code16,45.236
+2021,Percentage,,,Male,Thuringia,code16,40.844
+2022,Percentage,,,Male,Thuringia,code16,44.852
+2023,Percentage,,,Male,Thuringia,code16,43.566
+2024,Percentage,,,Male,Thuringia,code16,48.909
 2005,Percentage,,,Male,Thuringia,code16,29.065
 2006,Percentage,,,Male,Thuringia,code16,29.747
 2007,Percentage,,,Male,Thuringia,code16,32.62

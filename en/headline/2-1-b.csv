@@ -24,6 +24,7 @@ Year,Value,Units,Series,GeoCode
 2021,9.65,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
 2022,9.774,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
 2023,11.17,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2024,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
 2030,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
 1999,2.6,Percentage,<u>Additional time series:</u> Data from the BMLEH,
 2000,3.2,Percentage,<u>Additional time series:</u> Data from the BMLEH,
@@ -50,4 +51,5 @@ Year,Value,Units,Series,GeoCode
 2021,10.9,Percentage,<u>Additional time series:</u> Data from the BMLEH,
 2022,11.2,Percentage,<u>Additional time series:</u> Data from the BMLEH,
 2023,11.4,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2024,11.5,Percentage,<u>Additional time series:</u> Data from the BMLEH,
 2030,,Percentage,<u>Additional time series:</u> Data from the BMLEH,

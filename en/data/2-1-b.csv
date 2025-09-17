@@ -24,6 +24,7 @@ Year,Units,Series,Federal state,GeoCode,Value
 2021,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,,,9.65
 2022,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,,,9.774
 2023,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,,,11.17
+2024,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,,,
 2030,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,,,
 1999,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,Baden-Wuerttemberg,code08,5.3
 2001,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,Baden-Wuerttemberg,code08,6.7
@@ -195,4 +196,5 @@ Year,Units,Series,Federal state,GeoCode,Value
 2021,Percentage,<u>Additional time series:</u> Data from the BMLEH,,,10.9
 2022,Percentage,<u>Additional time series:</u> Data from the BMLEH,,,11.2
 2023,Percentage,<u>Additional time series:</u> Data from the BMLEH,,,11.4
+2024,Percentage,<u>Additional time series:</u> Data from the BMLEH,,,11.5
 2030,Percentage,<u>Additional time series:</u> Data from the BMLEH,,,
