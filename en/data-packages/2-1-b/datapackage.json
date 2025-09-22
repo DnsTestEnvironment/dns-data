@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -37,19 +37,6 @@
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "…",
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",

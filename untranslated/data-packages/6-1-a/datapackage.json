@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1254",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,17 +20,6 @@
             "constraints": {
               "enum": [
                 "percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "…",
                 ""
               ]
             }

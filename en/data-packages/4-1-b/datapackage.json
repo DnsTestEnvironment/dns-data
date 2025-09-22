@@ -39,16 +39,18 @@
             "title": "Time series"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "qualification",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "p",
+                "Secondary education, education after Abitur",
+                "Higher qualifying vocational training",
+                "University degree",
+                "Initial training",
                 ""
               ]
             },
-            "title": "COMMENT_OBS_0"
+            "title": "Qualification"
           },
           {
             "name": "sex",
@@ -92,20 +94,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "qualification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secondary education, education after Abitur",
-                "Higher qualifying vocational training",
-                "University degree",
-                "Initial training",
-                ""
-              ]
-            },
-            "title": "Qualification"
           },
           {
             "name": "Value",
