@@ -29,6 +29,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -76,6 +87,17 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -91,7 +113,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -109,6 +131,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -135,6 +168,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Corruption Perceptions Index in Deutschland",
+                "b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -146,16 +191,15 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Corruption Perceptions Index in Deutschland",
-                "b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI",
+                "r",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -191,6 +235,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "sex",
@@ -262,6 +317,17 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -358,6 +424,17 @@
             "title": "Series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -416,7 +493,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -434,6 +511,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -547,6 +635,20 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -623,6 +725,19 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -738,6 +853,19 @@
             "title": "Series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -815,6 +943,17 @@
               ]
             },
             "title": "Verstädterungsgrad"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -916,6 +1055,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -1074,39 +1224,15 @@
             "title": "Units"
           },
           {
-            "name": "sex",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                ".",
                 ""
               ]
             },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 bis unter 20 Jahre",
-                "20 bis unter 25 Jahre",
-                "25 bis unter 30 Jahre",
-                "30 bis unter 35 Jahre",
-                "35 bis unter 40 Jahre",
-                "40 bis unter 45 Jahre",
-                "45 bis unter 50 Jahre",
-                "50 bis unter 55 Jahre",
-                "55 bis unter 60 Jahre",
-                "60 bis unter 65 Jahre",
-                "65 bis unter 70 Jahre",
-                "70 bis unter 75 Jahre",
-                "75 Jahre und älter",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -1140,6 +1266,41 @@
             "title": "GeoCode"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 bis unter 20 Jahre",
+                "20 bis unter 25 Jahre",
+                "25 bis unter 30 Jahre",
+                "30 bis unter 35 Jahre",
+                "35 bis unter 40 Jahre",
+                "40 bis unter 45 Jahre",
+                "45 bis unter 50 Jahre",
+                "50 bis unter 55 Jahre",
+                "55 bis unter 60 Jahre",
+                "60 bis unter 65 Jahre",
+                "65 bis unter 70 Jahre",
+                "70 bis unter 75 Jahre",
+                "75 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1155,7 +1316,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1173,6 +1334,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1225,7 +1398,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1243,6 +1416,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1291,6 +1475,17 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "risk situation",
@@ -1352,6 +1547,30 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "federal state",
@@ -1545,6 +1764,19 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1606,6 +1838,17 @@
             "title": "Grad der Umsetzung"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1656,6 +1899,19 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1691,16 +1947,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Übergewicht ohne Adipositas",
-                "Adipositas",
+                "3 bis unter 11 Jahre",
+                "11 bis unter 18 Jahre",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
@@ -1715,16 +1971,16 @@
             "title": "Geschlecht"
           },
           {
-            "name": "age group",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "3 bis unter 11 Jahre",
-                "11 bis unter 18 Jahre",
+                "Übergewicht ohne Adipositas",
+                "Adipositas",
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -1760,6 +2016,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "time series",
@@ -1820,6 +2088,19 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -2053,6 +2334,18 @@
             "title": "Luftschadstoff"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2101,6 +2394,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2134,6 +2439,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "time series",
@@ -2175,7 +2492,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2193,6 +2510,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2242,6 +2570,20 @@
             "title": "Series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ".",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -2288,7 +2630,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2306,6 +2648,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2353,6 +2706,19 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "sex",
@@ -2495,6 +2861,18 @@
             "title": "Series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -2561,6 +2939,18 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2608,18 +2998,17 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "qualification",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zweitausbildung, Ausbildung nach Abitur",
-                "Höherqualifizierende Berufsausbildung",
-                "Hochschulabschluss",
-                "Erstausbildung",
+                "r",
+                "p",
+                "…",
                 ""
               ]
             },
-            "title": "Qualifizierung"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "sex",
@@ -2663,6 +3052,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zweitausbildung, Ausbildung nach Abitur",
+                "Höherqualifizierende Berufsausbildung",
+                "Hochschulabschluss",
+                "Erstausbildung",
+                ""
+              ]
+            },
+            "title": "Qualifizierung"
           },
           {
             "name": "Value",
@@ -2712,6 +3115,17 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2745,6 +3159,30 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "federal state",
@@ -2825,6 +3263,18 @@
             "title": "Anzeigen"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -2886,6 +3336,17 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2970,6 +3431,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -3029,6 +3501,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                "-",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3064,20 +3548,6 @@
             "title": "Units"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Studierende aus LDCs",
-                "Studierende aus den übrigen Entwicklungs- und Schwellenländern",
-                "Forschende aus LDCs",
-                "Forschende aus den übrigen Entwicklungs- und Schwellenländern",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3107,6 +3577,31 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Studierende aus LDCs",
+                "Studierende aus den übrigen Entwicklungs- und Schwellenländern",
+                "Forschende aus LDCs",
+                "Forschende aus den übrigen Entwicklungs- und Schwellenländern",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -3144,6 +3639,18 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -3172,7 +3679,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3190,6 +3697,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3240,6 +3759,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3273,6 +3804,19 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -3422,6 +3966,20 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ".",
+                "-",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "type of area",
             "type": "string",
             "constraints": {
@@ -3501,6 +4059,19 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3531,6 +4102,17 @@
             "title": "GeoCode"
           },
           {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3546,7 +4128,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3564,6 +4146,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3613,6 +4206,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3648,6 +4253,19 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3677,6 +4295,17 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "Value",
@@ -3712,6 +4341,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
@@ -3801,6 +4441,18 @@
             "title": "Gebiet"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -3862,6 +4514,18 @@
             "title": "Series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3895,6 +4559,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "sex",
@@ -3957,6 +4633,17 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4002,6 +4689,17 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "federal state",
