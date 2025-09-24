@@ -403,7 +403,6 @@
               "enum": [
                 "Prozent",
                 "Prozentpunkte",
-                "Gini-Koeffizient",
                 ""
               ]
             },
@@ -417,7 +416,6 @@
                 "Ausländer",
                 "Deutsche",
                 "Differenz",
-                "<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
                 ""
               ]
             },
@@ -598,6 +596,37 @@
               ]
             },
             "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1363,7 +1392,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1381,6 +1410,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3330,8 +3371,8 @@
                 "Teilindikator Wälder",
                 "Teilindikator Siedlungen",
                 "Teilindikator Agrarland",
-                "Teilindex Binnengewässer",
-                "<u>Zusätzliche Zeitreihe:</u> Küsten/Meere",
+                "inland waters sub-indicator",
+                "<u>additional time series:</u> coasts/seas",
                 ""
               ]
             },

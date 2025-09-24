@@ -1,7 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-ab,"COMMENT_OBS_0, time series, sex, area",4
 #10-1,"COMMENT_OBS_0, sex, federal state",3
-#10-2,"COMMENT_OBS_0, time series, area",3
+#10-2,"COMMENT_OBS_0, time series, federal state, area",4
 #11-1-a,"COMMENT_OBS_0, time series, federal state, type of area",4
 #11-1-c,"COMMENT_OBS_0, federal state, degree of urbanisation",3
 #11-2-a,"COMMENT_OBS_0, time series",2
@@ -38,6 +38,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3,"COMMENT_OBS_0, time series",2
 #4-1-a,"COMMENT_OBS_0, sex, federal state",3
 #4-1-b,"COMMENT_OBS_0, time series, sex, federal state, qualification",5
+#4-1-c,COMMENT_OBS_0,1
 #4-2-ab,"COMMENT_OBS_0, federal state, type of care",3
 #4-3-a,"COMMENT_OBS_0, sex",2
 #4-3-b,"COMMENT_OBS_0, risk situation",2

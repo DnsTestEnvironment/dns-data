@@ -370,7 +370,6 @@
               "enum": [
                 "percentage",
                 "percentage points",
-                "gini coefficient",
                 ""
               ]
             }
@@ -383,7 +382,6 @@
                 "foreigns",
                 "germans",
                 "difference",
-                "<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers",
                 ""
               ]
             }
@@ -551,6 +549,35 @@
             }
           },
           {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -565,7 +592,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1255,7 +1282,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1268,6 +1295,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -3063,8 +3101,8 @@
                 "forest sub-indicator",
                 "settlements sub-indicator",
                 "farmland sub-indicator",
-                "inland waters sub-index",
-                "<u>additional time series:</u> coasts and seas",
+                "inland waters sub-indicator",
+                "<u>additional time series:</u> coasts/seas",
                 ""
               ]
             }

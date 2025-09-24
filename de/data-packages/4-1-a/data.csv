@@ -93,7 +93,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Baden-Württemberg,code08,9.1
 2021,Prozent,,,Baden-Württemberg,code08,11.1
 2022,Prozent,,,Baden-Württemberg,code08,11.4
-2023,Prozent,…,,Baden-Württemberg,code08,12.2
+2023,Prozent,,,Baden-Württemberg,code08,12.2
 2005,Prozent,,Weiblich,Baden-Württemberg,code08,14.3
 2006,Prozent,,Weiblich,Baden-Württemberg,code08,13.4
 2007,Prozent,,Weiblich,Baden-Württemberg,code08,11.9
@@ -112,7 +112,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Weiblich,Baden-Württemberg,code08,8.5
 2021,Prozent,,Weiblich,Baden-Württemberg,code08,9.4
 2022,Prozent,,Weiblich,Baden-Württemberg,code08,9.5
-2023,Prozent,…,Weiblich,Baden-Württemberg,code08,9.7
+2023,Prozent,,Weiblich,Baden-Württemberg,code08,9.7
 2005,Prozent,,Männlich,Baden-Württemberg,code08,10.7
 2006,Prozent,,Männlich,Baden-Württemberg,code08,11.3
 2007,Prozent,,Männlich,Baden-Württemberg,code08,12.3
@@ -131,7 +131,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Männlich,Baden-Württemberg,code08,9.6
 2021,Prozent,,Männlich,Baden-Württemberg,code08,12.7
 2022,Prozent,,Männlich,Baden-Württemberg,code08,13.2
-2023,Prozent,…,Männlich,Baden-Württemberg,code08,14.5
+2023,Prozent,,Männlich,Baden-Württemberg,code08,14.5
 2005,Prozent,,,Bayern,code09,11.2
 2006,Prozent,,,Bayern,code09,12.6
 2007,Prozent,,,Bayern,code09,11.2
@@ -150,7 +150,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Bayern,code09,8.3
 2021,Prozent,,,Bayern,code09,9.8
 2022,Prozent,,,Bayern,code09,9.8
-2023,Prozent,…,,Bayern,code09,10.7
+2023,Prozent,,,Bayern,code09,10.7
 2005,Prozent,,Weiblich,Bayern,code09,11.5
 2006,Prozent,,Weiblich,Bayern,code09,12.5
 2007,Prozent,,Weiblich,Bayern,code09,9.9
@@ -169,7 +169,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Weiblich,Bayern,code09,7.2
 2021,Prozent,,Weiblich,Bayern,code09,7.9
 2022,Prozent,,Weiblich,Bayern,code09,8.7
-2023,Prozent,…,Weiblich,Bayern,code09,8.6
+2023,Prozent,,Weiblich,Bayern,code09,8.6
 2005,Prozent,,Männlich,Bayern,code09,10.8
 2006,Prozent,,Männlich,Bayern,code09,12.6
 2007,Prozent,,Männlich,Bayern,code09,12.6
@@ -188,7 +188,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Männlich,Bayern,code09,9.3
 2021,Prozent,,Männlich,Bayern,code09,11.4
 2022,Prozent,,Männlich,Bayern,code09,10.9
-2023,Prozent,…,Männlich,Bayern,code09,12.6
+2023,Prozent,,Männlich,Bayern,code09,12.6
 2005,Prozent,,,Berlin,code11,18.7
 2006,Prozent,,,Berlin,code11,18.2
 2007,Prozent,,,Berlin,code11,13.0
@@ -207,7 +207,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Berlin,code11,9.8
 2021,Prozent,,,Berlin,code11,9.5
 2022,Prozent,,,Berlin,code11,13.2
-2023,Prozent,…,,Berlin,code11,14.7
+2023,Prozent,,,Berlin,code11,14.7
 2005,Prozent,,Weiblich,Berlin,code11,17.0
 2006,Prozent,,Weiblich,Berlin,code11,16.7
 2007,Prozent,,Weiblich,Berlin,code11,11.5
@@ -239,7 +239,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,Männlich,Berlin,code11,15.5
 2018,Prozent,,Männlich,Berlin,code11,16.9
 2019,Prozent,,Männlich,Berlin,code11,15.0
-2023,Prozent,…,Männlich,Berlin,code11,13.1
+2023,Prozent,,Männlich,Berlin,code11,13.1
 2005,Prozent,,,Brandenburg,code12,10.2
 2006,Prozent,,,Brandenburg,code12,11.1
 2007,Prozent,,,Brandenburg,code12,9.0
@@ -255,7 +255,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,,Brandenburg,code12,12.3
 2018,Prozent,,,Brandenburg,code12,11.5
 2019,Prozent,,,Brandenburg,code12,10.8
-2023,Prozent,…,,Brandenburg,code12,12.0
+2023,Prozent,,,Brandenburg,code12,12.0
 2005,Prozent,,Weiblich,Brandenburg,code12,10.1
 2006,Prozent,,Weiblich,Brandenburg,code12,9.7
 2007,Prozent,,Weiblich,Brandenburg,code12,6.2
@@ -298,7 +298,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,,Bremen,code04,14.6
 2019,Prozent,,,Bremen,code04,16.0
 2022,Prozent,,,Bremen,code04,20.6
-2023,Prozent,…,,Bremen,code04,21.5
+2023,Prozent,,,Bremen,code04,21.5
 2005,Prozent,,Weiblich,Bremen,code04,19.8
 2006,Prozent,,Weiblich,Bremen,code04,20.0
 2005,Prozent,,Männlich,Bremen,code04,18.2
@@ -322,7 +322,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,,Hamburg,code02,11.6
 2019,Prozent,,,Hamburg,code02,14.0
 2022,Prozent,,,Hamburg,code02,14.0
-2023,Prozent,…,,Hamburg,code02,13.4
+2023,Prozent,,,Hamburg,code02,13.4
 2005,Prozent,,Weiblich,Hamburg,code02,21.9
 2006,Prozent,,Weiblich,Hamburg,code02,15.9
 2007,Prozent,,Weiblich,Hamburg,code02,14.1
@@ -371,7 +371,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Hessen,code06,12.3
 2021,Prozent,,,Hessen,code06,13.6
 2022,Prozent,,,Hessen,code06,14.6
-2023,Prozent,…,,Hessen,code06,14.9
+2023,Prozent,,,Hessen,code06,14.9
 2005,Prozent,,Weiblich,Hessen,code06,12.7
 2006,Prozent,,Weiblich,Hessen,code06,13.8
 2007,Prozent,,Weiblich,Hessen,code06,13.7
@@ -390,7 +390,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,.,Weiblich,Hessen,code06,9.4
 2021,Prozent,,Weiblich,Hessen,code06,10.6
 2022,Prozent,,Weiblich,Hessen,code06,11.9
-2023,Prozent,…,Weiblich,Hessen,code06,12.7
+2023,Prozent,,Weiblich,Hessen,code06,12.7
 2005,Prozent,,Männlich,Hessen,code06,13.9
 2006,Prozent,,Männlich,Hessen,code06,15.6
 2007,Prozent,,Männlich,Hessen,code06,10.5
@@ -409,7 +409,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Männlich,Hessen,code06,14.8
 2021,Prozent,,Männlich,Hessen,code06,16.3
 2022,Prozent,,Männlich,Hessen,code06,17.2
-2023,Prozent,…,Männlich,Hessen,code06,17.0
+2023,Prozent,,Männlich,Hessen,code06,17.0
 2005,Prozent,,,Mecklenburg-Vorpommern,code13,14.0
 2006,Prozent,,,Mecklenburg-Vorpommern,code13,12.9
 2007,Prozent,,,Mecklenburg-Vorpommern,code13,13.1
@@ -426,7 +426,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,,Mecklenburg-Vorpommern,code13,11.1
 2019,Prozent,,,Mecklenburg-Vorpommern,code13,11.4
 2022,Prozent,,,Mecklenburg-Vorpommern,code13,14.4
-2023,Prozent,…,,Mecklenburg-Vorpommern,code13,14.2
+2023,Prozent,,,Mecklenburg-Vorpommern,code13,14.2
 2005,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,12.7
 2006,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,12.7
 2007,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,12.1
@@ -463,7 +463,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Niedersachsen,code03,10.4
 2021,Prozent,,,Niedersachsen,code03,12.2
 2022,Prozent,,,Niedersachsen,code03,13.8
-2023,Prozent,…,,Niedersachsen,code03,15.0
+2023,Prozent,,,Niedersachsen,code03,15.0
 2005,Prozent,,Weiblich,Niedersachsen,code03,18.5
 2006,Prozent,,Weiblich,Niedersachsen,code03,14.3
 2007,Prozent,,Weiblich,Niedersachsen,code03,13.6
@@ -482,7 +482,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,.,Weiblich,Niedersachsen,code03,8.7
 2021,Prozent,,Weiblich,Niedersachsen,code03,10.8
 2022,Prozent,,Weiblich,Niedersachsen,code03,12.3
-2023,Prozent,…,Weiblich,Niedersachsen,code03,11.8
+2023,Prozent,,Weiblich,Niedersachsen,code03,11.8
 2005,Prozent,,Männlich,Niedersachsen,code03,13.7
 2006,Prozent,,Männlich,Niedersachsen,code03,14.9
 2007,Prozent,,Männlich,Niedersachsen,code03,14.3
@@ -501,7 +501,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Männlich,Niedersachsen,code03,11.9
 2021,Prozent,,Männlich,Niedersachsen,code03,13.5
 2022,Prozent,,Männlich,Niedersachsen,code03,15.2
-2023,Prozent,…,Männlich,Niedersachsen,code03,18.2
+2023,Prozent,,Männlich,Niedersachsen,code03,18.2
 2005,Prozent,,,Nordrhein-Westfalen,code05,15.8
 2006,Prozent,,,Nordrhein-Westfalen,code05,16.7
 2007,Prozent,,,Nordrhein-Westfalen,code05,15.0
@@ -520,7 +520,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Nordrhein-Westfalen,code05,10.8
 2021,Prozent,,,Nordrhein-Westfalen,code05,11.8
 2022,Prozent,,,Nordrhein-Westfalen,code05,12.8
-2023,Prozent,…,,Nordrhein-Westfalen,code05,12.8
+2023,Prozent,,,Nordrhein-Westfalen,code05,12.8
 2005,Prozent,,Weiblich,Nordrhein-Westfalen,code05,15.6
 2006,Prozent,,Weiblich,Nordrhein-Westfalen,code05,16.0
 2007,Prozent,,Weiblich,Nordrhein-Westfalen,code05,13.9
@@ -539,7 +539,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Weiblich,Nordrhein-Westfalen,code05,9.0
 2021,Prozent,,Weiblich,Nordrhein-Westfalen,code05,9.8
 2022,Prozent,,Weiblich,Nordrhein-Westfalen,code05,11.1
-2023,Prozent,…,Weiblich,Nordrhein-Westfalen,code05,10.6
+2023,Prozent,,Weiblich,Nordrhein-Westfalen,code05,10.6
 2005,Prozent,,Männlich,Nordrhein-Westfalen,code05,16.0
 2006,Prozent,,Männlich,Nordrhein-Westfalen,code05,17.4
 2007,Prozent,,Männlich,Nordrhein-Westfalen,code05,16.1
@@ -558,7 +558,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Männlich,Nordrhein-Westfalen,code05,12.4
 2021,Prozent,,Männlich,Nordrhein-Westfalen,code05,13.6
 2022,Prozent,,Männlich,Nordrhein-Westfalen,code05,14.5
-2023,Prozent,…,Männlich,Nordrhein-Westfalen,code05,14.9
+2023,Prozent,,Männlich,Nordrhein-Westfalen,code05,14.9
 2005,Prozent,,,Rheinland-Pfalz,code07,16.4
 2006,Prozent,,,Rheinland-Pfalz,code07,15.3
 2007,Prozent,,,Rheinland-Pfalz,code07,15.5
@@ -577,7 +577,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Rheinland-Pfalz,code07,10.1
 2021,Prozent,,,Rheinland-Pfalz,code07,13.0
 2022,Prozent,,,Rheinland-Pfalz,code07,13.8
-2023,Prozent,…,,Rheinland-Pfalz,code07,14.0
+2023,Prozent,,,Rheinland-Pfalz,code07,14.0
 2005,Prozent,,Weiblich,Rheinland-Pfalz,code07,17.6
 2006,Prozent,,Weiblich,Rheinland-Pfalz,code07,16.5
 2007,Prozent,,Weiblich,Rheinland-Pfalz,code07,13.0
@@ -595,7 +595,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,,Weiblich,Rheinland-Pfalz,code07,10.57
 2021,Prozent,,Weiblich,Rheinland-Pfalz,code07,10.8
 2022,Prozent,,Weiblich,Rheinland-Pfalz,code07,12.2
-2023,Prozent,…,Weiblich,Rheinland-Pfalz,code07,11.6
+2023,Prozent,,Weiblich,Rheinland-Pfalz,code07,11.6
 2005,Prozent,,Männlich,Rheinland-Pfalz,code07,15.1
 2006,Prozent,,Männlich,Rheinland-Pfalz,code07,14.2
 2007,Prozent,,Männlich,Rheinland-Pfalz,code07,17.7
@@ -614,7 +614,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,.,Männlich,Rheinland-Pfalz,code07,12.1
 2021,Prozent,,Männlich,Rheinland-Pfalz,code07,14.9
 2022,Prozent,,Männlich,Rheinland-Pfalz,code07,15.3
-2023,Prozent,…,Männlich,Rheinland-Pfalz,code07,16.3
+2023,Prozent,,Männlich,Rheinland-Pfalz,code07,16.3
 2005,Prozent,,,Saarland,code10,20.6
 2006,Prozent,,,Saarland,code10,20.8
 2007,Prozent,,,Saarland,code10,16.3
@@ -644,7 +644,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2010,Prozent,,Männlich,Saarland,code10,14.8
 2011,Prozent,,Männlich,Saarland,code10,18.4
 2012,Prozent,,Männlich,Saarland,code10,14.7
-2013,Prozent,.,Männlich,Saarland,code10,14.0
+2013,Prozent,,Männlich,Saarland,code10,14.0
 2017,Prozent,,Männlich,Saarland,code10,13.0
 2005,Prozent,,,Sachsen,code14,9.8
 2006,Prozent,,,Sachsen,code14,8.9
@@ -664,7 +664,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,.,,Sachsen,code14,8.0
 2021,Prozent,,,Sachsen,code14,9.3
 2022,Prozent,,,Sachsen,code14,8.9
-2023,Prozent,…,,Sachsen,code14,11.3
+2023,Prozent,,,Sachsen,code14,11.3
 2005,Prozent,,Weiblich,Sachsen,code14,10.5
 2006,Prozent,,Weiblich,Sachsen,code14,7.8
 2007,Prozent,,Weiblich,Sachsen,code14,8.6
@@ -696,7 +696,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Männlich,Sachsen,code14,8.0
 2019,Prozent,,Männlich,Sachsen,code14,9.4
 2021,Prozent,,Männlich,Sachsen,code14,10.5
-2023,Prozent,…,Männlich,Sachsen,code14,13.3
+2023,Prozent,,Männlich,Sachsen,code14,13.3
 2005,Prozent,,,Sachsen-Anhalt,code15,12.4
 2006,Prozent,,,Sachsen-Anhalt,code15,12.2
 2007,Prozent,,,Sachsen-Anhalt,code15,11.8
@@ -714,7 +714,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,,,Sachsen-Anhalt,code15,12.7
 2021,Prozent,,,Sachsen-Anhalt,code15,17.0
 2022,Prozent,,,Sachsen-Anhalt,code15,14.1
-2023,Prozent,…,,Sachsen-Anhalt,code15,13.1
+2023,Prozent,,,Sachsen-Anhalt,code15,13.1
 2005,Prozent,,Weiblich,Sachsen-Anhalt,code15,9.8
 2006,Prozent,,Weiblich,Sachsen-Anhalt,code15,11.0
 2007,Prozent,,Weiblich,Sachsen-Anhalt,code15,9.5
@@ -759,7 +759,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,,Schleswig-Holstein,code01,11.8
 2021,Prozent,,,Schleswig-Holstein,code01,12.5
 2022,Prozent,,,Schleswig-Holstein,code01,15.2
-2023,Prozent,…,,Schleswig-Holstein,code01,17.0
+2023,Prozent,,,Schleswig-Holstein,code01,17.0
 2005,Prozent,,Weiblich,Schleswig-Holstein,code01,14.2
 2006,Prozent,,Weiblich,Schleswig-Holstein,code01,16.1
 2007,Prozent,,Weiblich,Schleswig-Holstein,code01,11.6
@@ -776,7 +776,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Weiblich,Schleswig-Holstein,code01,8.9
 2019,Prozent,,Weiblich,Schleswig-Holstein,code01,8.7
 2022,Prozent,,Weiblich,Schleswig-Holstein,code01,13.9
-2023,Prozent,…,Weiblich,Schleswig-Holstein,code01,14.8
+2023,Prozent,,Weiblich,Schleswig-Holstein,code01,14.8
 2005,Prozent,,Männlich,Schleswig-Holstein,code01,16.1
 2006,Prozent,,Männlich,Schleswig-Holstein,code01,18.2
 2007,Prozent,,Männlich,Schleswig-Holstein,code01,11.9
@@ -793,7 +793,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Männlich,Schleswig-Holstein,code01,11.2
 2019,Prozent,,Männlich,Schleswig-Holstein,code01,13.2
 2022,Prozent,,Männlich,Schleswig-Holstein,code01,16.4
-2023,Prozent,…,Männlich,Schleswig-Holstein,code01,18.9
+2023,Prozent,,Männlich,Schleswig-Holstein,code01,18.9
 2005,Prozent,,,Thüringen,code16,6.6
 2006,Prozent,,,Thüringen,code16,8.8
 2007,Prozent,,,Thüringen,code16,10.2
@@ -811,7 +811,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,,,Thüringen,code16,9.6
 2021,Prozent,,,Thüringen,code16,10.8
 2022,Prozent,,,Thüringen,code16,10.9
-2023,Prozent,…,,Thüringen,code16,13.1
+2023,Prozent,,,Thüringen,code16,13.1
 2005,Prozent,,Weiblich,Thüringen,code16,7.2
 2006,Prozent,,Weiblich,Thüringen,code16,8.6
 2007,Prozent,,Weiblich,Thüringen,code16,11.6
