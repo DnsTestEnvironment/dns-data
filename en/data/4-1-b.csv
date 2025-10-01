@@ -752,7 +752,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2021,Percentage,,r,,Saarland,code10,,51.954
 2022,Percentage,,r,,Saarland,code10,,50.937
 2023,Percentage,,r,,Saarland,code10,,48.61
-2024,Percentage,,,,Saarland,code10,,51.852
+2024,Percentage,,p,,Saarland,code10,,51.852
 2005,Percentage,,,,Saarland,code10,,32.673
 2006,Percentage,,,,Saarland,code10,,35.007
 2007,Percentage,,,,Saarland,code10,,32.44
@@ -1081,8 +1081,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Female,,,"Secondary education, education after Abitur",17.963
 2024,Percentage,,p,Female,,,"Secondary education, education after Abitur",17.97
 2000,Percentage,,r,Female,,,"Secondary education, education after Abitur",9.1
-2001,Percentage,,r,Female,,,"Secondary education, education after Abitur",
-2002,Percentage,,r,Female,,,"Secondary education, education after Abitur",
+2001,Percentage,,.,Female,,,"Secondary education, education after Abitur",
+2002,Percentage,,.,Female,,,"Secondary education, education after Abitur",
 2003,Percentage,,,Female,,,"Secondary education, education after Abitur",9.703
 2004,Percentage,,,Female,,,"Secondary education, education after Abitur",10.396
 2005,Percentage,,,Female,,,"Secondary education, education after Abitur",10.87
@@ -1107,8 +1107,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Male,,,"Secondary education, education after Abitur",11.727
 2024,Percentage,,p,Male,,,"Secondary education, education after Abitur",12.205
 2000,Percentage,,,Male,,,"Secondary education, education after Abitur",6.282
-2001,Percentage,,r,Male,,,"Secondary education, education after Abitur",
-2002,Percentage,,r,Male,,,"Secondary education, education after Abitur",
+2001,Percentage,,.,Male,,,"Secondary education, education after Abitur",
+2002,Percentage,,.,Male,,,"Secondary education, education after Abitur",
 2003,Percentage,,r,Male,,,"Secondary education, education after Abitur",8.088
 2004,Percentage,,r,Male,,,"Secondary education, education after Abitur",8.572
 2005,Percentage,,,Male,,,"Secondary education, education after Abitur",9.018
@@ -1159,8 +1159,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Female,,,Higher qualifying vocational training,5.395
 2024,Percentage,,p,Female,,,Higher qualifying vocational training,5.978
 2000,Percentage,,,Female,,,Higher qualifying vocational training,9.033
-2001,Percentage,,,Female,,,Higher qualifying vocational training,
-2002,Percentage,,,Female,,,Higher qualifying vocational training,
+2001,Percentage,,.,Female,,,Higher qualifying vocational training,
+2002,Percentage,,.,Female,,,Higher qualifying vocational training,
 2003,Percentage,,,Female,,,Higher qualifying vocational training,8.205
 2004,Percentage,,,Female,,,Higher qualifying vocational training,8.513
 2005,Percentage,,,Female,,,Higher qualifying vocational training,7.528
@@ -1185,8 +1185,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Male,,,Higher qualifying vocational training,8.56
 2024,Percentage,,p,Male,,,Higher qualifying vocational training,8.528
 2000,Percentage,,,Male,,,Higher qualifying vocational training,11.521
-2001,Percentage,,,Male,,,Higher qualifying vocational training,
-2002,Percentage,,,Male,,,Higher qualifying vocational training,
+2001,Percentage,,.,Male,,,Higher qualifying vocational training,
+2002,Percentage,,.,Male,,,Higher qualifying vocational training,
 2003,Percentage,,,Male,,,Higher qualifying vocational training,9.698
 2004,Percentage,,,Male,,,Higher qualifying vocational training,10.096
 2005,Percentage,,,Male,,,Higher qualifying vocational training,9.233
@@ -1237,8 +1237,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Female,,,University degree,36.045
 2024,Percentage,,p,Female,,,University degree,37.633
 2000,Percentage,,,Female,,,University degree,12.747
-2001,Percentage,,,Female,,,University degree,
-2002,Percentage,,,Female,,,University degree,
+2001,Percentage,,.,Female,,,University degree,
+2002,Percentage,,.,Female,,,University degree,
 2003,Percentage,,,Female,,,University degree,14.324
 2004,Percentage,,,Female,,,University degree,15.746
 2005,Percentage,,,Female,,,University degree,16.594
@@ -1263,8 +1263,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Male,,,University degree,31.191
 2024,Percentage,,p,Male,,,University degree,32.585
 2000,Percentage,,,Male,,,University degree,17.239
-2001,Percentage,,,Male,,,University degree,
-2002,Percentage,,,Male,,,University degree,
+2001,Percentage,,.,Male,,,University degree,
+2002,Percentage,,.,Male,,,University degree,
 2003,Percentage,,,Male,,,University degree,17.781
 2004,Percentage,,,Male,,,University degree,19.053
 2005,Percentage,,,Male,,,University degree,18.724
@@ -1315,8 +1315,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Female,,,Initial training,20.038
 2024,Percentage,,p,Female,,,Initial training,19.423
 2000,Percentage,,,Female,,,Initial training,50.121
-2001,Percentage,,,Female,,,Initial training,
-2002,Percentage,,,Female,,,Initial training,
+2001,Percentage,,.,Female,,,Initial training,
+2002,Percentage,,.,Female,,,Initial training,
 2003,Percentage,,,Female,,,Initial training,48.995
 2004,Percentage,,,Female,,,Initial training,46.648
 2005,Percentage,,,Female,,,Initial training,44.886
@@ -1341,8 +1341,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,,r,Male,,,Initial training,25.264
 2024,Percentage,,p,Male,,,Initial training,24.172
 2000,Percentage,,,Male,,,Initial training,48.549
-2001,Percentage,,,Male,,,Initial training,
-2002,Percentage,,,Male,,,Initial training,
+2001,Percentage,,.,Male,,,Initial training,
+2002,Percentage,,.,Male,,,Initial training,
 2003,Percentage,,,Male,,,Initial training,48.317
 2004,Percentage,,,Male,,,Initial training,46.391
 2005,Percentage,,,Male,,,Initial training,44.619
@@ -1394,8 +1394,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,Female,,,,79.441
 2024,Percentage,<u>Additional time series:</u> Skilled labour potential (total),p,Female,,,,81.004
 2000,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Female,,,,81.001
-2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Female,,,,
-2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Female,,,,
+2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,Female,,,,
+2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,Female,,,,
 2003,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Female,,,,81.227
 2004,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Female,,,,81.302
 2005,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Female,,,,79.878
@@ -1420,8 +1420,8 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Qualification,Val
 2023,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,Male,,,,76.742
 2024,Percentage,<u>Additional time series:</u> Skilled labour potential (total),p,Male,,,,77.49
 2000,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Male,,,,83.591
-2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Male,,,,
-2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Male,,,,
+2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,Male,,,,
+2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,Male,,,,
 2003,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Male,,,,83.784
 2004,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Male,,,,84.113
 2005,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,Male,,,,81.594

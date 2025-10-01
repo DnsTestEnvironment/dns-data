@@ -24,8 +24,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 2018,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",r,110.0
 2019,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",r,110.0
 2020,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",,104.0
-2021,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",p,105.0
-2022,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",…,99.0
+2021,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",,105.0
+2022,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",p,99.0
 2030,2010 = 100,"Rohstoffeinsatz für Konsum, Investitionen und Exporte",…,
 2010,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",,100.0
 2011,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",,105.0
@@ -38,8 +38,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 2018,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",,120.0
 2019,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",,122.0
 2020,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",,116.0
-2021,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",p,121.0
-2022,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",…,125.0
+2021,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",,121.0
+2022,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",p,125.0
 2030,2010 = 100,"Wert von Konsum, Investitionen und Exporten (preisbereinigt)",…,
 2010,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,,100.0
 2011,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,,108.0
@@ -53,7 +53,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 2019,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,,106.0
 2020,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,,101.0
 2021,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,,104.0
-2022,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,,100.0
+2022,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,p,100.0
 2030,2010 = 100,Rohstoffeinsatz für Konsum und Investitionen,…,
 2010,2010 = 100,Rohstoffeinsatz für Exporte,,100.0
 2011,2010 = 100,Rohstoffeinsatz für Exporte,,106.0
@@ -67,5 +67,5 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 2019,2010 = 100,Rohstoffeinsatz für Exporte,,113.0
 2020,2010 = 100,Rohstoffeinsatz für Exporte,,107.0
 2021,2010 = 100,Rohstoffeinsatz für Exporte,,105.0
-2022,2010 = 100,Rohstoffeinsatz für Exporte,,97.0
+2022,2010 = 100,Rohstoffeinsatz für Exporte,p,97.0
 2030,2010 = 100,Rohstoffeinsatz für Exporte,…,

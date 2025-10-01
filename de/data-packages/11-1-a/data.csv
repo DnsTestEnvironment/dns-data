@@ -54,8 +54,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,.,Verkehrsfläche,,,
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Verkehrsfläche,,,7.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Verkehrsfläche,,,6.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,Verkehrsfläche,,,1.0
-2023,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,Verkehrsfläche,,,1.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Verkehrsfläche,,,1.0
+2023,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Verkehrsfläche,,,1.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,9.0
 1997,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,20.0
 1998,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,21.0
@@ -82,8 +82,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,.,"Erholungsfläche, Friedhof",,,
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,12.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,11.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,"Erholungsfläche, Friedhof",,,11.0
-2023,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,"Erholungsfläche, Friedhof",,,13.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,11.0
+2023,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,"Erholungsfläche, Friedhof",,,13.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,87.0
 1997,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,83.0
 1998,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,87.0
@@ -110,8 +110,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,.,Siedlungsfläche (bebaut),,,
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,34.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,36.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,Siedlungsfläche (bebaut),,,37.0
-2023,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,Siedlungsfläche (bebaut),,,38.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,37.0
+2023,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,Siedlungsfläche (bebaut),,,38.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,10.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,12.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,10.0
@@ -129,7 +129,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,5.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,6.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,5.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Baden-Württemberg,code08,5.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Baden-Württemberg,code08,5.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bayern,code09,27.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bayern,code09,28.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bayern,code09,18.0
@@ -149,25 +149,25 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bayern,code09,11.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,-1.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,1.0
-2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2005,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2006,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2007,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,r,,Berlin,code11,0.0
+2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2005,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2006,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2007,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
 2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,-,,Berlin,code11,0.0
-2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2017,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2018,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Berlin,code11,0.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Berlin,code11,0.0
+2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2017,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2018,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Berlin,code11,0.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,-,,Berlin,code11,0.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,7.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,9.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,8.0
@@ -188,28 +188,28 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,1.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,3.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,4.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Brandenburg,code12,5.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Brandenburg,code12,5.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,1.0
-2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2005,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2006,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2007,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2017,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2018,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
-2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
+2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2005,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2006,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2007,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2017,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2018,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
+2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Bremen,code04,0.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,-,,Bremen,code04,0.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,-,,Bremen,code04,0.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Bremen,code04,0.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Bremen,code04,0.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,1.0
@@ -217,20 +217,20 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2006,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,1.0
 2007,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,1.0
 2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,1.0
-2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
+2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,-,,Hamburg,code02,0.0
+2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
 2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,-1.0
 2017,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,-1.0
-2018,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
+2018,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,-,,Hamburg,code02,0.0
-2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hamburg,code02,0.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Hamburg,code02,0.0
+2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Hamburg,code02,0.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hessen,code06,5.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hessen,code06,5.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Hessen,code06,4.0
@@ -266,7 +266,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Mecklenburg-Vorpommern,code13,3.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Mecklenburg-Vorpommern,code13,-2.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Mecklenburg-Vorpommern,code13,1.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Mecklenburg-Vorpommern,code13,1.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Mecklenburg-Vorpommern,code13,1.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,16.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,16.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,14.0
@@ -287,7 +287,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,5.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,7.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,6.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Niedersachsen,code03,6.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Niedersachsen,code03,6.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,16.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,17.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,15.0
@@ -303,7 +303,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,10.0
 2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,10.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,6.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Nordrhein-Westfalen,code05,6.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Nordrhein-Westfalen,code05,6.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,5.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,5.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,6.0
@@ -324,7 +324,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,1.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,2.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,4.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Rheinland-Pfalz,code07,6.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Rheinland-Pfalz,code07,6.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,1.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,1.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,1.0
@@ -345,7 +345,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,1.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,0.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,0.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Saarland,code10,1.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Saarland,code10,1.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,9.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,8.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,5.0
@@ -360,7 +360,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,5.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,5.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,5.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Sachsen,code14,5.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen,code14,5.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,9.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,10.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,13.0
@@ -370,10 +370,10 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,10.0
 2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,4.0
 2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
-2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,0.0
+2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Sachsen-Anhalt,code15,0.0
 2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,-1.0
 2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,-1.0
-2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,0.0
+2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,0,,Sachsen-Anhalt,code15,0.0
 2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
 2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
 2017,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,r,,Sachsen-Anhalt,code15,1.0
@@ -381,7 +381,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Sachsen-Anhalt,code15,1.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Sachsen-Anhalt,code15,1.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,3.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,4.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,8.0
@@ -399,7 +399,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,2.0
 2020,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,4.0
 2021,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,4.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Schleswig-Holstein,code01,4.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Schleswig-Holstein,code01,4.0
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,6.0
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,4.0
 2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,2.0
@@ -415,7 +415,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,5.0
 2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,5.0
 2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,6.0
-2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,…,,Thüringen,code16,1.0
+2022,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,Thüringen,code16,1.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,,,120.0
 1997,Hektar pro Tag,Berechnete jährliche Werte,,,,,124.0
 1998,Hektar pro Tag,Berechnete jährliche Werte,,,,,131.0
@@ -442,8 +442,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,,,45.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,,,55.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,,,52.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,,,45.0
-2023,Hektar pro Tag,Berechnete jährliche Werte,…,,,,53.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,,,45.0
+2023,Hektar pro Tag,Berechnete jährliche Werte,,,,,53.0
 2030,Hektar pro Tag,Berechnete jährliche Werte,…,,,,
 1996,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,24.0
 1997,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,21.0
@@ -471,8 +471,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,2.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,36.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,2.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,Verkehrsfläche,,,-4.0
-2023,Hektar pro Tag,Berechnete jährliche Werte,…,Verkehrsfläche,,,2.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,-4.0
+2023,Hektar pro Tag,Berechnete jährliche Werte,,Verkehrsfläche,,,2.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,9.0
 1997,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,20.0
 1998,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,21.0
@@ -499,8 +499,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,10.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,12.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,11.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,"Erholungsfläche, Friedhof",,,12.0
-2023,Hektar pro Tag,Berechnete jährliche Werte,…,"Erholungsfläche, Friedhof",,,17.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,12.0
+2023,Hektar pro Tag,Berechnete jährliche Werte,,"Erholungsfläche, Friedhof",,,17.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,87.0
 1997,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,83.0
 1998,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,87.0
@@ -527,8 +527,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,33.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,40.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,39.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,Siedlungsfläche (bebaut),,,37.0
-2023,Hektar pro Tag,Berechnete jährliche Werte,…,Siedlungsfläche (bebaut),,,34.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,37.0
+2023,Hektar pro Tag,Berechnete jährliche Werte,,Siedlungsfläche (bebaut),,,34.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,10.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,12.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,12.0
@@ -552,7 +552,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,5.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,5.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,6.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Baden-Württemberg,code08,5.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Baden-Württemberg,code08,5.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Bayern,code09,27.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Bayern,code09,28.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Bayern,code09,22.0
@@ -572,26 +572,26 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,1.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,1.0
 2002,Hektar pro Tag,Berechnete jährliche Werte,r,,Berlin,code11,1.0
-2003,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2004,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2005,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2006,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
+2003,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2004,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2005,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2006,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2007,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,1.0
-2008,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
+2008,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2009,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,1.0
-2010,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2011,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
+2010,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2011,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2012,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,-1.0
-2013,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
+2013,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2014,Hektar pro Tag,Berechnete jährliche Werte,-,,Berlin,code11,0.0
 2015,Hektar pro Tag,Berechnete jährliche Werte,-,,Berlin,code11,0.0
-2016,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2017,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2018,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
-2019,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,0.0
+2016,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2017,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2018,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
+2019,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,-,,Berlin,code11,0.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,-,,Berlin,code11,0.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Berlin,code11,0.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,-,,Berlin,code11,0.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,7.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,9.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,9.0
@@ -615,55 +615,55 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,1.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,8.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,6.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Brandenburg,code12,6.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Brandenburg,code12,6.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,1.0
-2001,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2002,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2003,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2004,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2005,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2006,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2007,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
+2001,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2002,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2003,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2004,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2005,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2006,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2007,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2008,Hektar pro Tag,Berechnete jährliche Werte,r,,Bremen,code04,0.0
 2009,Hektar pro Tag,Berechnete jährliche Werte,-,,Bremen,code04,0.0
-2010,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2011,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
+2010,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2011,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2012,Hektar pro Tag,Berechnete jährliche Werte,r,,Bremen,code04,1.0
 2013,Hektar pro Tag,Berechnete jährliche Werte,-,,Bremen,code04,0.0
-2014,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
+2014,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2015,Hektar pro Tag,Berechnete jährliche Werte,-,,Bremen,code04,0.0
-2016,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2017,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2018,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
+2016,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2017,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2018,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2019,Hektar pro Tag,Berechnete jährliche Werte,-,,Bremen,code04,0.0
-2020,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2021,Hektar pro Tag,Berechnete jährliche Werte,,,Bremen,code04,0.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Bremen,code04,0.0
+2020,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2021,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2000,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2001,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
+2000,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2001,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2002,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,1.0
 2003,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,1.0
 2004,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,1.0
 2005,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,1.0
 2006,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,1.0
-2007,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2008,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2009,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2010,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
+2007,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2008,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2009,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2010,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2011,Hektar pro Tag,Berechnete jährliche Werte,-,,Hamburg,code02,0.0
-2012,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
+2012,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2013,Hektar pro Tag,Berechnete jährliche Werte,r,,Hamburg,code02,1.0
 2014,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,-1.0
 2015,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,-1.0
 2016,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,-1.0
-2017,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2018,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2019,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
+2017,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2018,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2019,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,-,,Hamburg,code02,0.0
-2021,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,0.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Hamburg,code02,-1.0
+2021,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,-1.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Hessen,code06,5.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Hessen,code06,5.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Hessen,code06,3.0
@@ -709,7 +709,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Mecklenburg-Vorpommern,code13,-1.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Mecklenburg-Vorpommern,code13,1.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Mecklenburg-Vorpommern,code13,1.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Mecklenburg-Vorpommern,code13,1.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Mecklenburg-Vorpommern,code13,1.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,17.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,16.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,15.0
@@ -733,7 +733,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,6.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,7.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,6.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Niedersachsen,code03,5.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Niedersachsen,code03,5.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,16.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,17.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,16.0
@@ -756,7 +756,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,8.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,6.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,5.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Nordrhein-Westfalen,code05,6.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Nordrhein-Westfalen,code05,6.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,5.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,5.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,5.0
@@ -775,17 +775,17 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2014,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,1.0
 2015,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,-1.0
 2016,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,2.0
-2017,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,0.0
+2017,Hektar pro Tag,Berechnete jährliche Werte,0,,Rheinland-Pfalz,code07,0.0
 2018,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,2.0
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,2.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,5.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,9.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Rheinland-Pfalz,code07,7.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Rheinland-Pfalz,code07,7.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2002,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
-2003,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
+2003,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
 2004,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2005,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2006,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
@@ -794,17 +794,17 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2009,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2010,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 2011,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
-2012,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
-2013,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
-2014,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
-2015,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
+2012,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
+2013,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
+2014,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
+2015,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
 2016,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,3.0
-2017,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
-2018,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
-2019,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
-2020,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,0.0
+2017,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
+2018,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
+2019,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
+2020,Hektar pro Tag,Berechnete jährliche Werte,0,,Saarland,code10,0.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Saarland,code10,1.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Saarland,code10,1.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,9.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,8.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,8.0
@@ -826,7 +826,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,5.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,6.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,6.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Sachsen,code14,5.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen,code14,5.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,9.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,10.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,11.0
@@ -850,7 +850,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,2.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,1.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,1.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Sachsen-Anhalt,code15,2.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Sachsen-Anhalt,code15,2.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,3.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,4.0
 2005,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,5.0
@@ -870,7 +870,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,2.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,6.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,4.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Schleswig-Holstein,code01,3.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Schleswig-Holstein,code01,3.0
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,6.0
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,4.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,2.0
@@ -892,4 +892,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,2.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,1.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,1.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,…,,Thüringen,code16,0.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,,,Thüringen,code16,0.0

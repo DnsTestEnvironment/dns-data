@@ -752,7 +752,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2021,Prozent,,r,,Saarland,code10,,51.954
 2022,Prozent,,r,,Saarland,code10,,50.937
 2023,Prozent,,r,,Saarland,code10,,48.61
-2024,Prozent,,,,Saarland,code10,,51.852
+2024,Prozent,,p,,Saarland,code10,,51.852
 2005,Prozent,,,,Saarland,code10,,32.673
 2006,Prozent,,,,Saarland,code10,,35.007
 2007,Prozent,,,,Saarland,code10,,32.44
@@ -1081,8 +1081,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",17.963
 2024,Prozent,,p,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",17.97
 2000,Prozent,,r,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",9.1
-2001,Prozent,,r,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
-2002,Prozent,,r,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
+2001,Prozent,,.,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
+2002,Prozent,,.,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2003,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",9.703
 2004,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",10.396
 2005,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",10.87
@@ -1107,8 +1107,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",11.727
 2024,Prozent,,p,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",12.205
 2000,Prozent,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",6.282
-2001,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
-2002,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
+2001,Prozent,,.,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
+2002,Prozent,,.,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2003,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",8.088
 2004,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",8.572
 2005,Prozent,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",9.018
@@ -1159,8 +1159,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Weiblich,,,Höherqualifizierende Berufsausbildung,5.395
 2024,Prozent,,p,Weiblich,,,Höherqualifizierende Berufsausbildung,5.978
 2000,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,9.033
-2001,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,
-2002,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,
+2001,Prozent,,.,Weiblich,,,Höherqualifizierende Berufsausbildung,
+2002,Prozent,,.,Weiblich,,,Höherqualifizierende Berufsausbildung,
 2003,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,8.205
 2004,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,8.513
 2005,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,7.528
@@ -1185,8 +1185,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Männlich,,,Höherqualifizierende Berufsausbildung,8.56
 2024,Prozent,,p,Männlich,,,Höherqualifizierende Berufsausbildung,8.528
 2000,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,11.521
-2001,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,
-2002,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,
+2001,Prozent,,.,Männlich,,,Höherqualifizierende Berufsausbildung,
+2002,Prozent,,.,Männlich,,,Höherqualifizierende Berufsausbildung,
 2003,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,9.698
 2004,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,10.096
 2005,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,9.233
@@ -1237,8 +1237,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Weiblich,,,Hochschulabschluss,36.045
 2024,Prozent,,p,Weiblich,,,Hochschulabschluss,37.633
 2000,Prozent,,,Weiblich,,,Hochschulabschluss,12.747
-2001,Prozent,,,Weiblich,,,Hochschulabschluss,
-2002,Prozent,,,Weiblich,,,Hochschulabschluss,
+2001,Prozent,,.,Weiblich,,,Hochschulabschluss,
+2002,Prozent,,.,Weiblich,,,Hochschulabschluss,
 2003,Prozent,,,Weiblich,,,Hochschulabschluss,14.324
 2004,Prozent,,,Weiblich,,,Hochschulabschluss,15.746
 2005,Prozent,,,Weiblich,,,Hochschulabschluss,16.594
@@ -1263,8 +1263,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Männlich,,,Hochschulabschluss,31.191
 2024,Prozent,,p,Männlich,,,Hochschulabschluss,32.585
 2000,Prozent,,,Männlich,,,Hochschulabschluss,17.239
-2001,Prozent,,,Männlich,,,Hochschulabschluss,
-2002,Prozent,,,Männlich,,,Hochschulabschluss,
+2001,Prozent,,.,Männlich,,,Hochschulabschluss,
+2002,Prozent,,.,Männlich,,,Hochschulabschluss,
 2003,Prozent,,,Männlich,,,Hochschulabschluss,17.781
 2004,Prozent,,,Männlich,,,Hochschulabschluss,19.053
 2005,Prozent,,,Männlich,,,Hochschulabschluss,18.724
@@ -1315,8 +1315,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Weiblich,,,Erstausbildung,20.038
 2024,Prozent,,p,Weiblich,,,Erstausbildung,19.423
 2000,Prozent,,,Weiblich,,,Erstausbildung,50.121
-2001,Prozent,,,Weiblich,,,Erstausbildung,
-2002,Prozent,,,Weiblich,,,Erstausbildung,
+2001,Prozent,,.,Weiblich,,,Erstausbildung,
+2002,Prozent,,.,Weiblich,,,Erstausbildung,
 2003,Prozent,,,Weiblich,,,Erstausbildung,48.995
 2004,Prozent,,,Weiblich,,,Erstausbildung,46.648
 2005,Prozent,,,Weiblich,,,Erstausbildung,44.886
@@ -1341,8 +1341,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,,r,Männlich,,,Erstausbildung,25.264
 2024,Prozent,,p,Männlich,,,Erstausbildung,24.172
 2000,Prozent,,,Männlich,,,Erstausbildung,48.549
-2001,Prozent,,,Männlich,,,Erstausbildung,
-2002,Prozent,,,Männlich,,,Erstausbildung,
+2001,Prozent,,.,Männlich,,,Erstausbildung,
+2002,Prozent,,.,Männlich,,,Erstausbildung,
 2003,Prozent,,,Männlich,,,Erstausbildung,48.317
 2004,Prozent,,,Männlich,,,Erstausbildung,46.391
 2005,Prozent,,,Männlich,,,Erstausbildung,44.619
@@ -1394,8 +1394,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,Weiblich,,,,79.441
 2024,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),p,Weiblich,,,,81.004
 2000,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,81.001
-2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,
-2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,
+2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,Weiblich,,,,
+2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,Weiblich,,,,
 2003,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,81.227
 2004,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,81.302
 2005,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,79.878
@@ -1420,8 +1420,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2023,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,Männlich,,,,76.742
 2024,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),p,Männlich,,,,77.49
 2000,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,83.591
-2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,
-2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,
+2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,Männlich,,,,
+2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,Männlich,,,,
 2003,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,83.784
 2004,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,84.113
 2005,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,81.594

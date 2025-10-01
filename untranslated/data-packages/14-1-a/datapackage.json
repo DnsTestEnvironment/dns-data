@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1254",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -31,16 +31,6 @@
               "enum": [
                 "aa) baltic sea",
                 "ab) north sea",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
                 ""
               ]
             }

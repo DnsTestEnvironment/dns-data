@@ -58,17 +58,6 @@
             "title": "GeoCode"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {

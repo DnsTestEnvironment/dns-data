@@ -38,7 +38,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2021,percentage,b) structural deficit,r,p,,,-2.832
 2022,percentage,b) structural deficit,r,p,,,-1.729
 2023,percentage,b) structural deficit,r,p,,,-2.106
-2024,percentage,b) structural deficit,,,,,-1.886
+2024,percentage,b) structural deficit,p,,,,-1.886
 2005,percentage,gross domestic product (price-adjusted),,,,,0.9
 2006,percentage,gross domestic product (price-adjusted),,,,,3.9
 2007,percentage,gross domestic product (price-adjusted),,,,,2.9
@@ -55,10 +55,10 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2018,percentage,gross domestic product (price-adjusted),,,,,1.1
 2019,percentage,gross domestic product (price-adjusted),,,,,1.0
 2020,percentage,gross domestic product (price-adjusted),r,,,,-4.1
-2021,percentage,gross domestic product (price-adjusted),r,,,,3.7
+2021,percentage,gross domestic product (price-adjusted),r,p,,,3.7
 2022,percentage,gross domestic product (price-adjusted),p,,,,1.4
-2023,percentage,gross domestic product (price-adjusted),,,,,-0.3
-2024,percentage,gross domestic product (price-adjusted),,,,,-0.2
+2023,percentage,gross domestic product (price-adjusted),p,,,,-0.3
+2024,percentage,gross domestic product (price-adjusted),p,,,,-0.2
 2010,percentage,b) structural deficit,,,baden-wuerttemberg,code08,-0.396
 2011,percentage,b) structural deficit,,,baden-wuerttemberg,code08,0.25
 2012,percentage,b) structural deficit,,,baden-wuerttemberg,code08,0.386
@@ -72,7 +72,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,baden-wuerttemberg,code08,-0.937
 2021,percentage,b) structural deficit,,,baden-wuerttemberg,code08,0.664
 2022,percentage,b) structural deficit,,,baden-wuerttemberg,code08,0.555
-2023,percentage,b) structural deficit,…,,baden-wuerttemberg,code08,0.087
+2023,percentage,b) structural deficit,,,baden-wuerttemberg,code08,0.087
 2010,percentage,b) structural deficit,,,bavaria,code09,-0.368
 2011,percentage,b) structural deficit,,,bavaria,code09,0.318
 2012,percentage,b) structural deficit,,,bavaria,code09,0.541
@@ -86,7 +86,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,bavaria,code09,-1.057
 2021,percentage,b) structural deficit,,,bavaria,code09,0.146
 2022,percentage,b) structural deficit,,,bavaria,code09,0.435
-2023,percentage,b) structural deficit,…,,bavaria,code09,-0.304
+2023,percentage,b) structural deficit,,,bavaria,code09,-0.304
 2010,percentage,b) structural deficit,,,berlin,code11,-1.374
 2011,percentage,b) structural deficit,,,berlin,code11,-0.903
 2012,percentage,b) structural deficit,,,berlin,code11,0.026
@@ -100,7 +100,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,berlin,code11,-1.088
 2021,percentage,b) structural deficit,,,berlin,code11,-1.307
 2022,percentage,b) structural deficit,,,berlin,code11,0.823
-2023,percentage,b) structural deficit,…,,berlin,code11,-0.401
+2023,percentage,b) structural deficit,,,berlin,code11,-0.401
 2010,percentage,b) structural deficit,,,brandenburg,code12,-1.079
 2011,percentage,b) structural deficit,,,brandenburg,code12,0.145
 2012,percentage,b) structural deficit,,,brandenburg,code12,0.212
@@ -114,7 +114,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,brandenburg,code12,-1.067
 2021,percentage,b) structural deficit,,,brandenburg,code12,-0.203
 2022,percentage,b) structural deficit,,,brandenburg,code12,0.45
-2023,percentage,b) structural deficit,…,,brandenburg,code12,-0.122
+2023,percentage,b) structural deficit,,,brandenburg,code12,-0.122
 2010,percentage,b) structural deficit,,,bremen,code04,-4.818
 2011,percentage,b) structural deficit,,,bremen,code04,-3.202
 2012,percentage,b) structural deficit,,,bremen,code04,-2.037
@@ -128,7 +128,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,bremen,code04,-0.859
 2021,percentage,b) structural deficit,,,bremen,code04,-0.071
 2022,percentage,b) structural deficit,,,bremen,code04,-0.367
-2023,percentage,b) structural deficit,…,,bremen,code04,-1.361
+2023,percentage,b) structural deficit,,,bremen,code04,-1.361
 2010,percentage,b) structural deficit,,,hamburg,code02,-0.88
 2011,percentage,b) structural deficit,,,hamburg,code02,-0.404
 2012,percentage,b) structural deficit,,,hamburg,code02,-1.054
@@ -142,7 +142,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,hamburg,code02,-0.829
 2021,percentage,b) structural deficit,,,hamburg,code02,-0.315
 2022,percentage,b) structural deficit,,,hamburg,code02,2.229
-2023,percentage,b) structural deficit,…,,hamburg,code02,0.462
+2023,percentage,b) structural deficit,,,hamburg,code02,0.462
 2010,percentage,b) structural deficit,,,hesse,code06,-2.018
 2011,percentage,b) structural deficit,,,hesse,code06,-1.7
 2012,percentage,b) structural deficit,,,hesse,code06,-1.52
@@ -156,7 +156,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,hesse,code06,-0.985
 2021,percentage,b) structural deficit,,,hesse,code06,0.388
 2022,percentage,b) structural deficit,,,hesse,code06,0.624
-2023,percentage,b) structural deficit,…,,hesse,code06,-0.373
+2023,percentage,b) structural deficit,,,hesse,code06,-0.373
 2010,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,-0.395
 2011,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,0.466
 2012,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,-0.316
@@ -170,7 +170,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,-0.195
 2021,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,0.449
 2022,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,1.231
-2023,percentage,b) structural deficit,…,,mecklenburg western pomerania,code13,-0.401
+2023,percentage,b) structural deficit,,,mecklenburg western pomerania,code13,-0.401
 2010,percentage,b) structural deficit,,,lower saxony,code03,-1.097
 2011,percentage,b) structural deficit,,,lower saxony,code03,-1.005
 2012,percentage,b) structural deficit,,,lower saxony,code03,-0.061
@@ -184,7 +184,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,lower saxony,code03,-0.465
 2021,percentage,b) structural deficit,,,lower saxony,code03,0.267
 2022,percentage,b) structural deficit,,,lower saxony,code03,0.43
-2023,percentage,b) structural deficit,…,,lower saxony,code03,0.387
+2023,percentage,b) structural deficit,,,lower saxony,code03,0.387
 2010,percentage,b) structural deficit,,,north rhine-westphalia,code05,-1.592
 2011,percentage,b) structural deficit,,,north rhine-westphalia,code05,-0.98
 2012,percentage,b) structural deficit,,,north rhine-westphalia,code05,-0.696
@@ -198,7 +198,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,north rhine-westphalia,code05,-1.037
 2021,percentage,b) structural deficit,,,north rhine-westphalia,code05,0.077
 2022,percentage,b) structural deficit,,,north rhine-westphalia,code05,-0.585
-2023,percentage,b) structural deficit,…,,north rhine-westphalia,code05,-0.515
+2023,percentage,b) structural deficit,,,north rhine-westphalia,code05,-0.515
 2010,percentage,b) structural deficit,,,rhineland palatinate,code07,-2.326
 2011,percentage,b) structural deficit,,,rhineland palatinate,code07,-1.978
 2012,percentage,b) structural deficit,,,rhineland palatinate,code07,-1.033
@@ -212,7 +212,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,rhineland palatinate,code07,-0.359
 2021,percentage,b) structural deficit,,,rhineland palatinate,code07,1.786
 2022,percentage,b) structural deficit,,,rhineland palatinate,code07,1.164
-2023,percentage,b) structural deficit,…,,rhineland palatinate,code07,0.024
+2023,percentage,b) structural deficit,,,rhineland palatinate,code07,0.024
 2010,percentage,b) structural deficit,,,saarland,code10,-3.954
 2011,percentage,b) structural deficit,,,saarland,code10,-3.21
 2012,percentage,b) structural deficit,,,saarland,code10,-3.24
@@ -226,7 +226,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,saarland,code10,-0.113
 2021,percentage,b) structural deficit,,,saarland,code10,-0.217
 2022,percentage,b) structural deficit,,,saarland,code10,-8.124
-2023,percentage,b) structural deficit,…,,saarland,code10,1.225
+2023,percentage,b) structural deficit,,,saarland,code10,1.225
 2010,percentage,b) structural deficit,,,saxony,code14,0.036
 2011,percentage,b) structural deficit,,,saxony,code14,1.943
 2012,percentage,b) structural deficit,,,saxony,code14,1.63
@@ -240,7 +240,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,saxony,code14,-2.271
 2021,percentage,b) structural deficit,,,saxony,code14,0.112
 2022,percentage,b) structural deficit,,,saxony,code14,0.971
-2023,percentage,b) structural deficit,…,,saxony,code14,0.226
+2023,percentage,b) structural deficit,,,saxony,code14,0.226
 2010,percentage,b) structural deficit,,,saxony-anhalt,code15,-1.291
 2011,percentage,b) structural deficit,,,saxony-anhalt,code15,-0.031
 2012,percentage,b) structural deficit,,,saxony-anhalt,code15,0.344
@@ -254,7 +254,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,saxony-anhalt,code15,-1.007
 2021,percentage,b) structural deficit,,,saxony-anhalt,code15,0.361
 2022,percentage,b) structural deficit,,,saxony-anhalt,code15,0.523
-2023,percentage,b) structural deficit,…,,saxony-anhalt,code15,0.037
+2023,percentage,b) structural deficit,,,saxony-anhalt,code15,0.037
 2010,percentage,b) structural deficit,,,schleswig-holstein,code01,-2.265
 2011,percentage,b) structural deficit,,,schleswig-holstein,code01,-1.04
 2012,percentage,b) structural deficit,,,schleswig-holstein,code01,-0.39
@@ -268,7 +268,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,schleswig-holstein,code01,-0.207
 2021,percentage,b) structural deficit,,,schleswig-holstein,code01,0.205
 2022,percentage,b) structural deficit,,,schleswig-holstein,code01,0.233
-2023,percentage,b) structural deficit,…,,schleswig-holstein,code01,-0.97
+2023,percentage,b) structural deficit,,,schleswig-holstein,code01,-0.97
 2010,percentage,b) structural deficit,,,thuringia,code16,-1.273
 2011,percentage,b) structural deficit,,,thuringia,code16,-0.388
 2012,percentage,b) structural deficit,,,thuringia,code16,0.658
@@ -282,4 +282,4 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,federal state,GeoCode,Value
 2020,percentage,b) structural deficit,,,thuringia,code16,-0.413
 2021,percentage,b) structural deficit,,,thuringia,code16,0.129
 2022,percentage,b) structural deficit,,,thuringia,code16,1.903
-2023,percentage,b) structural deficit,…,,thuringia,code16,0.329
+2023,percentage,b) structural deficit,,,thuringia,code16,0.329

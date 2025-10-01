@@ -58,7 +58,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Baden-Württemberg,code08,,5.79
 2020,Prozent,,Baden-Württemberg,code08,,5.69
 2021,Prozent,,Baden-Württemberg,code08,,5.64
-2022,Prozent,…,Baden-Württemberg,code08,,5.65
+2022,Prozent,,Baden-Württemberg,code08,,5.65
 2025,Prozent,…,Baden-Württemberg,,,
 1995,Prozent,,Bayern,code09,,2.68
 1997,Prozent,,Bayern,code09,,2.66
@@ -85,7 +85,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Bayern,code09,,3.41
 2020,Prozent,,Bayern,code09,,3.36
 2021,Prozent,,Bayern,code09,,3.39
-2022,Prozent,…,Bayern,code09,,3.4
+2022,Prozent,,Bayern,code09,,3.4
 2025,Prozent,…,Bayern,,,
 1995,Prozent,,Berlin,code11,,2.91
 1997,Prozent,,Berlin,code11,,3.17
@@ -112,7 +112,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Berlin,code11,,3.34
 2020,Prozent,,Berlin,code11,,3.32
 2021,Prozent,,Berlin,code11,,3.35
-2022,Prozent,…,Berlin,code11,,3.23
+2022,Prozent,,Berlin,code11,,3.23
 2025,Prozent,…,Berlin,,,
 1995,Prozent,,Brandenburg,code12,,1.33
 1997,Prozent,,Brandenburg,code12,,1.44
@@ -139,7 +139,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Brandenburg,code12,,1.82
 2020,Prozent,,Brandenburg,code12,,1.83
 2021,Prozent,,Brandenburg,code12,,1.72
-2022,Prozent,…,Brandenburg,code12,,1.69
+2022,Prozent,,Brandenburg,code12,,1.69
 2025,Prozent,…,Brandenburg,,,
 1995,Prozent,,Bremen,code04,,2.84
 1997,Prozent,,Bremen,code04,,2.01
@@ -166,7 +166,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Bremen,code04,,3.01
 2020,Prozent,,Bremen,code04,,3.7
 2021,Prozent,,Bremen,code04,,3.18
-2022,Prozent,…,Bremen,code04,,3.19
+2022,Prozent,,Bremen,code04,,3.19
 2025,Prozent,…,Bremen,,,
 1995,Prozent,,Hamburg,code02,,1.77
 1997,Prozent,,Hamburg,code02,,1.77
@@ -193,7 +193,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Hamburg,code02,,2.18
 2020,Prozent,,Hamburg,code02,,2.25
 2021,Prozent,,Hamburg,code02,,2.16
-2022,Prozent,…,Hamburg,code02,,2.08
+2022,Prozent,,Hamburg,code02,,2.08
 2025,Prozent,…,Hamburg,,,
 1995,Prozent,,Hessen,code06,,2.13
 1997,Prozent,,Hessen,code06,,2.11
@@ -220,7 +220,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Hessen,code06,,3.11
 2020,Prozent,,Hessen,code06,,3.06
 2021,Prozent,,Hessen,code06,,3.09
-2022,Prozent,…,Hessen,code06,,3.1
+2022,Prozent,,Hessen,code06,,3.1
 2025,Prozent,…,Hessen,,,
 1995,Prozent,,Mecklenburg-Vorpommern,code13,,0.94
 1997,Prozent,,Mecklenburg-Vorpommern,code13,,0.96
@@ -247,7 +247,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Mecklenburg-Vorpommern,code13,,1.81
 2020,Prozent,,Mecklenburg-Vorpommern,code13,,1.8
 2021,Prozent,,Mecklenburg-Vorpommern,code13,,1.77
-2022,Prozent,…,Mecklenburg-Vorpommern,code13,,1.72
+2022,Prozent,,Mecklenburg-Vorpommern,code13,,1.72
 2025,Prozent,…,Mecklenburg-Vorpommern,,,
 1995,Prozent,,Niedersachsen,code03,,1.7
 1997,Prozent,,Niedersachsen,code03,,1.72
@@ -274,7 +274,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Niedersachsen,code03,,3.14
 2020,Prozent,,Niedersachsen,code03,,3.07
 2021,Prozent,,Niedersachsen,code03,,2.72
-2022,Prozent,…,Niedersachsen,code03,,2.69
+2022,Prozent,,Niedersachsen,code03,,2.69
 2025,Prozent,…,Niedersachsen,,,
 1995,Prozent,,Nordrhein-Westfalen,code05,,1.57
 1997,Prozent,,Nordrhein-Westfalen,code05,,1.61
@@ -301,7 +301,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Nordrhein-Westfalen,code05,,2.16
 2020,Prozent,,Nordrhein-Westfalen,code05,,2.19
 2021,Prozent,,Nordrhein-Westfalen,code05,,2.21
-2022,Prozent,…,Nordrhein-Westfalen,code05,,2.22
+2022,Prozent,,Nordrhein-Westfalen,code05,,2.22
 2025,Prozent,…,Nordrhein-Westfalen,,,
 1995,Prozent,,Rheinland-Pfalz,code07,,1.71
 1997,Prozent,,Rheinland-Pfalz,code07,,2.0
@@ -328,7 +328,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Rheinland-Pfalz,code07,,2.62
 2020,Prozent,,Rheinland-Pfalz,code07,,2.56
 2021,Prozent,,Rheinland-Pfalz,code07,,2.78
-2022,Prozent,…,Rheinland-Pfalz,code07,,2.81
+2022,Prozent,,Rheinland-Pfalz,code07,,2.81
 2025,Prozent,…,Rheinland-Pfalz,,,
 1995,Prozent,,Saarland,code10,,0.88
 1997,Prozent,,Saarland,code10,,0.95
@@ -355,7 +355,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Saarland,code10,,1.91
 2020,Prozent,,Saarland,code10,,1.94
 2021,Prozent,,Saarland,code10,,1.95
-2022,Prozent,…,Saarland,code10,,1.92
+2022,Prozent,,Saarland,code10,,1.92
 2025,Prozent,…,Saarland,,,
 1995,Prozent,,Sachsen,code14,,1.87
 1997,Prozent,,Sachsen,code14,,2.1
@@ -382,7 +382,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Sachsen,code14,,3.0
 2020,Prozent,,Sachsen,code14,,3.02
 2021,Prozent,,Sachsen,code14,,3.09
-2022,Prozent,…,Sachsen,code14,,3.02
+2022,Prozent,,Sachsen,code14,,3.02
 2025,Prozent,…,Sachsen,,,
 1995,Prozent,,Sachsen-Anhalt,code15,,1.34
 1997,Prozent,,Sachsen-Anhalt,code15,,1.28
@@ -409,7 +409,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Sachsen-Anhalt,code15,,1.54
 2020,Prozent,,Sachsen-Anhalt,code15,,1.58
 2021,Prozent,,Sachsen-Anhalt,code15,,1.59
-2022,Prozent,…,Sachsen-Anhalt,code15,,1.58
+2022,Prozent,,Sachsen-Anhalt,code15,,1.58
 2025,Prozent,…,Sachsen-Anhalt,,,
 1995,Prozent,,Schleswig-Holstein,code01,,1.08
 1997,Prozent,,Schleswig-Holstein,code01,,1.06
@@ -436,7 +436,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Schleswig-Holstein,code01,,1.68
 2020,Prozent,,Schleswig-Holstein,code01,,1.62
 2021,Prozent,,Schleswig-Holstein,code01,,1.68
-2022,Prozent,…,Schleswig-Holstein,code01,,1.68
+2022,Prozent,,Schleswig-Holstein,code01,,1.68
 2025,Prozent,…,Schleswig-Holstein,,,
 1995,Prozent,,Thüringen,code16,,1.58
 1997,Prozent,,Thüringen,code16,,1.72
@@ -463,7 +463,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2019,Prozent,,Thüringen,code16,,2.35
 2020,Prozent,,Thüringen,code16,,2.45
 2021,Prozent,,Thüringen,code16,,2.74
-2022,Prozent,…,Thüringen,code16,,2.76
+2022,Prozent,,Thüringen,code16,,2.76
 2025,Prozent,…,Thüringen,,,
 1991,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,
 1992,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,
@@ -498,7 +498,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2021,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.46
 2022,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.45
 2023,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.44
-2025,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,
+2025,Prozent,…,,,Staat und private Institutionen ohne Erwerbszweck,
 1991,Prozent,,,,Hochschulen,
 1992,Prozent,,,,Hochschulen,
 1993,Prozent,,,,Hochschulen,
@@ -532,7 +532,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2021,Prozent,,,,Hochschulen,0.56
 2022,Prozent,,,,Hochschulen,0.56
 2023,Prozent,,,,Hochschulen,0.54
-2025,Prozent,,,,Hochschulen,
+2025,Prozent,…,,,Hochschulen,
 1991,Prozent,,,,Wirtschaft,
 1992,Prozent,,,,Wirtschaft,
 1993,Prozent,,,,Wirtschaft,
@@ -566,4 +566,4 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2021,Prozent,,,,Wirtschaft,2.06
 2022,Prozent,,,,Wirtschaft,2.07
 2023,Prozent,,,,Wirtschaft,2.12
-2025,Prozent,,,,Wirtschaft,
+2025,Prozent,…,,,Wirtschaft,

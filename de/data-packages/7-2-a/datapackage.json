@@ -70,17 +70,6 @@
             "title": "GeoCode"
           },
           {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
