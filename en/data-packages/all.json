@@ -206,7 +206,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -245,6 +245,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -266,11 +267,11 @@
                 "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
+                "Saarland",
                 "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
                 "Thuringia",
-                "Saarland",
                 ""
               ]
             },
@@ -481,6 +482,17 @@
             "title": "GeoCode"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -522,6 +534,7 @@
               "enum": [
                 "r",
                 "p",
+                "…",
                 ""
               ]
             },
@@ -809,7 +822,10 @@
               "enum": [
                 "Baden-Wuerttemberg",
                 "Bavaria",
+                "Berlin",
                 "Brandenburg",
+                "Bremen",
+                "Hamburg",
                 "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",
@@ -829,6 +845,19 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "x",
+                "…",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -907,7 +936,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -934,6 +963,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -2145,6 +2175,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -2453,6 +2494,8 @@
               "enum": [
                 "p",
                 "r",
+                ".",
+                "…",
                 ""
               ]
             },
@@ -3447,6 +3490,7 @@
               "enum": [
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -3638,7 +3682,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3665,6 +3709,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -3677,10 +3722,20 @@
               "enum": [
                 "Baden-Wuerttemberg",
                 "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
                 "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
                 "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
@@ -3707,7 +3762,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3734,6 +3789,7 @@
                 "p",
                 "…",
                 "r",
+                ".",
                 ""
               ]
             },
@@ -3751,6 +3807,7 @@
                 "Bremen",
                 "Hamburg",
                 "Hesse",
+                "Mecklenburg Western Pomerania",
                 "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
@@ -4641,6 +4698,7 @@
               "enum": [
                 "p",
                 "r",
+                "…",
                 ""
               ]
             },

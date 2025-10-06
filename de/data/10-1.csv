@@ -307,6 +307,8 @@ Year,Units,Series,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,,Berlin,code11,81.1
 2020,Prozent,Ausländer,,,Berlin,code11,92.8
 2021,Prozent,Ausländer,,,Berlin,code11,84.313
+2022,Prozent,Ausländer,…,,Berlin,code11,
+2023,Prozent,Ausländer,…,,Berlin,code11,
 1996,Prozent,Ausländer,,Weiblich,Berlin,code11,79.8
 1997,Prozent,Ausländer,,Weiblich,Berlin,code11,78.3
 1998,Prozent,Ausländer,,Weiblich,Berlin,code11,76.2
@@ -333,6 +335,8 @@ Year,Units,Series,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Weiblich,Berlin,code11,85.3
 2020,Prozent,Ausländer,,Weiblich,Berlin,code11,85.7
 2021,Prozent,Ausländer,,Weiblich,Berlin,code11,85.722
+2022,Prozent,Ausländer,…,Weiblich,Berlin,code11,
+2023,Prozent,Ausländer,…,Weiblich,Berlin,code11,
 1996,Prozent,Ausländer,,Männlich,Berlin,code11,67.5
 1997,Prozent,Ausländer,,Männlich,Berlin,code11,68.7
 1998,Prozent,Ausländer,,Männlich,Berlin,code11,63.8
@@ -359,6 +363,8 @@ Year,Units,Series,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Männlich,Berlin,code11,77.5
 2020,Prozent,Ausländer,,Männlich,Berlin,code11,90.6
 2021,Prozent,Ausländer,,Männlich,Berlin,code11,83.07
+2022,Prozent,Ausländer,…,Männlich,Berlin,code11,
+2023,Prozent,Ausländer,…,Männlich,Berlin,code11,
 1996,Prozent,Ausländer,,,Brandenburg,code12,95.8
 1997,Prozent,Ausländer,,,Brandenburg,code12,92.7
 1998,Prozent,Ausländer,,,Brandenburg,code12,91.1
@@ -2122,6 +2128,8 @@ Year,Units,Series,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,,Berlin,code11,11.8
 2020,Prozentpunkte,Differenz,,,Berlin,code11,0.6
 2021,Prozentpunkte,Differenz,,,Berlin,code11,10.774
+2022,Prozentpunkte,Differenz,…,,Berlin,code11,
+2023,Prozentpunkte,Differenz,…,,Berlin,code11,
 1996,Prozentpunkte,Differenz,,,Brandenburg,code12,-5.3
 1997,Prozentpunkte,Differenz,,,Brandenburg,code12,-1.2
 1998,Prozentpunkte,Differenz,,,Brandenburg,code12,0.1

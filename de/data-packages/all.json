@@ -245,6 +245,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -266,11 +267,11 @@
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
+                "Saarland",
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
                 "Thüringen",
-                "Saarland",
                 ""
               ]
             },
@@ -481,6 +482,17 @@
             "title": "GeoCode"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -522,6 +534,7 @@
               "enum": [
                 "r",
                 "p",
+                "…",
                 ""
               ]
             },
@@ -809,7 +822,10 @@
               "enum": [
                 "Baden-Württemberg",
                 "Bayern",
+                "Berlin",
                 "Brandenburg",
+                "Bremen",
+                "Hamburg",
                 "Hessen",
                 "Mecklenburg-Vorpommern",
                 "Niedersachsen",
@@ -829,6 +845,19 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "x",
+                "…",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -934,6 +963,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -2145,6 +2175,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -2453,6 +2494,8 @@
               "enum": [
                 "p",
                 "r",
+                ".",
+                "…",
                 ""
               ]
             },
@@ -3447,6 +3490,7 @@
               "enum": [
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -3665,6 +3709,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -3677,10 +3722,20 @@
               "enum": [
                 "Baden-Württemberg",
                 "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
                 "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
@@ -3734,6 +3789,7 @@
                 "p",
                 "…",
                 "r",
+                ".",
                 ""
               ]
             },
@@ -3751,6 +3807,7 @@
                 "Bremen",
                 "Hamburg",
                 "Hessen",
+                "Mecklenburg-Vorpommern",
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
@@ -4641,6 +4698,7 @@
               "enum": [
                 "p",
                 "r",
+                "…",
                 ""
               ]
             },

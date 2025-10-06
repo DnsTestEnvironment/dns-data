@@ -307,6 +307,8 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,,berlin,code11,81.1
 2020,percentage,foreigns,,,berlin,code11,92.8
 2021,percentage,foreigns,,,berlin,code11,84.313
+2022,percentage,foreigns,…,,berlin,code11,
+2023,percentage,foreigns,…,,berlin,code11,
 1996,percentage,foreigns,,female,berlin,code11,79.8
 1997,percentage,foreigns,,female,berlin,code11,78.3
 1998,percentage,foreigns,,female,berlin,code11,76.2
@@ -333,6 +335,8 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,female,berlin,code11,85.3
 2020,percentage,foreigns,,female,berlin,code11,85.7
 2021,percentage,foreigns,,female,berlin,code11,85.722
+2022,percentage,foreigns,…,female,berlin,code11,
+2023,percentage,foreigns,…,female,berlin,code11,
 1996,percentage,foreigns,,male,berlin,code11,67.5
 1997,percentage,foreigns,,male,berlin,code11,68.7
 1998,percentage,foreigns,,male,berlin,code11,63.8
@@ -359,6 +363,8 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,male,berlin,code11,77.5
 2020,percentage,foreigns,,male,berlin,code11,90.6
 2021,percentage,foreigns,,male,berlin,code11,83.07
+2022,percentage,foreigns,…,male,berlin,code11,
+2023,percentage,foreigns,…,male,berlin,code11,
 1996,percentage,foreigns,,,brandenburg,code12,95.8
 1997,percentage,foreigns,,,brandenburg,code12,92.7
 1998,percentage,foreigns,,,brandenburg,code12,91.1
@@ -2122,6 +2128,8 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage points,difference,,,berlin,code11,11.8
 2020,percentage points,difference,,,berlin,code11,0.6
 2021,percentage points,difference,,,berlin,code11,10.774
+2022,percentage points,difference,…,,berlin,code11,
+2023,percentage points,difference,…,,berlin,code11,
 1996,percentage points,difference,,,brandenburg,code12,-5.3
 1997,percentage points,difference,,,brandenburg,code12,-1.2
 1998,percentage points,difference,,,brandenburg,code12,0.1
