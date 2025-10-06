@@ -42,6 +42,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Baden-Württemberg,code08,
 2023,Prozent,…,Baden-Württemberg,code08,
 2024,Prozent,…,Baden-Württemberg,code08,
+2030,Prozent,…,Baden-Württemberg,code08,
+2040,Prozent,…,Baden-Württemberg,code08,
+2050,Prozent,…,Baden-Württemberg,code08,
 2005,Prozent,,Bayern,code09,8.586
 2006,Prozent,,Bayern,code09,9.501
 2007,Prozent,,Bayern,code09,10.465
@@ -62,6 +65,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Bayern,code09,25.04
 2023,Prozent,…,Bayern,code09,
 2024,Prozent,…,Bayern,code09,
+2030,Prozent,…,Bayern,code09,
+2040,Prozent,…,Bayern,code09,
+2050,Prozent,…,Bayern,code09,
 2005,Prozent,,Berlin,code11,1.248
 2006,Prozent,,Berlin,code11,1.934
 2007,Prozent,,Berlin,code11,2.346
@@ -82,6 +88,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Berlin,code11,
 2023,Prozent,…,Berlin,code11,
 2024,Prozent,…,Berlin,code11,
+2030,Prozent,…,Berlin,code11,
+2040,Prozent,…,Berlin,code11,
+2050,Prozent,…,Berlin,code11,
 2005,Prozent,,Brandenburg,code12,9.768
 2006,Prozent,,Brandenburg,code12,13.837
 2007,Prozent,,Brandenburg,code12,16.672
@@ -102,6 +111,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Brandenburg,code12,
 2023,Prozent,…,Brandenburg,code12,
 2024,Prozent,…,Brandenburg,code12,
+2030,Prozent,…,Brandenburg,code12,
+2040,Prozent,…,Brandenburg,code12,
+2050,Prozent,…,Brandenburg,code12,
 2005,Prozent,,Bremen,code04,2.08
 2006,Prozent,,Bremen,code04,2.586
 2007,Prozent,,Bremen,code04,2.724
@@ -122,6 +134,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Bremen,code04,
 2023,Prozent,…,Bremen,code04,
 2024,Prozent,…,Bremen,code04,
+2030,Prozent,…,Bremen,code04,
+2040,Prozent,…,Bremen,code04,
+2050,Prozent,…,Bremen,code04,
 2005,Prozent,,Hamburg,code02,2.748
 2006,Prozent,,Hamburg,code02,3.898
 2007,Prozent,,Hamburg,code02,4.569
@@ -142,6 +157,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,r,Hamburg,code02,6.449
 2023,Prozent,,Hamburg,code02,6.585
 2024,Prozent,…,Hamburg,code02,
+2030,Prozent,…,Hamburg,code02,
+2040,Prozent,…,Hamburg,code02,
+2050,Prozent,…,Hamburg,code02,
 2005,Prozent,,Hessen,code06,4.264
 2006,Prozent,,Hessen,code06,5.286
 2007,Prozent,,Hessen,code06,6.082
@@ -162,6 +180,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Hessen,code06,
 2023,Prozent,…,Hessen,code06,
 2024,Prozent,…,Hessen,code06,
+2030,Prozent,…,Hessen,code06,
+2040,Prozent,…,Hessen,code06,
+2050,Prozent,…,Hessen,code06,
 2005,Prozent,.,Mecklenburg-Vorpommern,code13,
 2006,Prozent,.,Mecklenburg-Vorpommern,code13,
 2007,Prozent,.,Mecklenburg-Vorpommern,code13,
@@ -182,6 +203,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,.,Mecklenburg-Vorpommern,code13,
 2023,Prozent,.,Mecklenburg-Vorpommern,code13,
 2024,Prozent,.,Mecklenburg-Vorpommern,code13,
+2030,Prozent,…,Mecklenburg-Vorpommern,code13,
+2040,Prozent,…,Mecklenburg-Vorpommern,code13,
+2050,Prozent,…,Mecklenburg-Vorpommern,code13,
 2005,Prozent,.,Niedersachsen,code03,
 2006,Prozent,,Niedersachsen,code03,8.704
 2007,Prozent,.,Niedersachsen,code03,
@@ -202,6 +226,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,r,Niedersachsen,code03,26.856
 2023,Prozent,p,Niedersachsen,code03,28.884
 2024,Prozent,…,Niedersachsen,code03,
+2030,Prozent,…,Niedersachsen,code03,
+2040,Prozent,…,Niedersachsen,code03,
+2050,Prozent,…,Niedersachsen,code03,
 2005,Prozent,,Nordrhein-Westfalen,code05,3.177
 2006,Prozent,,Nordrhein-Westfalen,code05,4.068
 2007,Prozent,,Nordrhein-Westfalen,code05,4.63
@@ -222,6 +249,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Nordrhein-Westfalen,code05,9.691
 2023,Prozent,…,Nordrhein-Westfalen,code05,
 2024,Prozent,…,Nordrhein-Westfalen,code05,
+2030,Prozent,…,Nordrhein-Westfalen,code05,
+2040,Prozent,…,Nordrhein-Westfalen,code05,
+2050,Prozent,…,Nordrhein-Westfalen,code05,
 2005,Prozent,,Rheinland-Pfalz,code07,5.863
 2006,Prozent,,Rheinland-Pfalz,code07,7.9
 2007,Prozent,,Rheinland-Pfalz,code07,9.58
@@ -242,6 +272,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Rheinland-Pfalz,code07,
 2023,Prozent,…,Rheinland-Pfalz,code07,
 2024,Prozent,…,Rheinland-Pfalz,code07,
+2030,Prozent,…,Rheinland-Pfalz,code07,
+2040,Prozent,…,Rheinland-Pfalz,code07,
+2050,Prozent,…,Rheinland-Pfalz,code07,
 2005,Prozent,,Saarland,code10,1.83
 2006,Prozent,,Saarland,code10,2.212
 2007,Prozent,,Saarland,code10,2.704
@@ -262,6 +295,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Saarland,code10,
 2023,Prozent,…,Saarland,code10,
 2024,Prozent,…,Saarland,code10,
+2030,Prozent,…,Saarland,code10,
+2040,Prozent,…,Saarland,code10,
+2050,Prozent,…,Saarland,code10,
 2005,Prozent,,Sachsen,code14,4.923
 2006,Prozent,,Sachsen,code14,6.111
 2007,Prozent,,Sachsen,code14,7.587
@@ -282,6 +318,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Sachsen,code14,
 2023,Prozent,…,Sachsen,code14,
 2024,Prozent,…,Sachsen,code14,
+2030,Prozent,…,Sachsen,code14,
+2040,Prozent,…,Sachsen,code14,
+2050,Prozent,…,Sachsen,code14,
 2005,Prozent,,Sachsen-Anhalt,code15,8.595
 2006,Prozent,,Sachsen-Anhalt,code15,10.852
 2007,Prozent,,Sachsen-Anhalt,code15,14.71
@@ -302,6 +341,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Sachsen-Anhalt,code15,26.927
 2023,Prozent,…,Sachsen-Anhalt,code15,
 2024,Prozent,…,Sachsen-Anhalt,code15,
+2030,Prozent,…,Sachsen-Anhalt,code15,
+2040,Prozent,…,Sachsen-Anhalt,code15,
+2050,Prozent,…,Sachsen-Anhalt,code15,
 2005,Prozent,,Schleswig-Holstein,code01,9.253
 2006,Prozent,,Schleswig-Holstein,code01,10.516
 2007,Prozent,,Schleswig-Holstein,code01,13.925
@@ -322,6 +364,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Schleswig-Holstein,code01,44.98
 2023,Prozent,,Schleswig-Holstein,code01,47.926
 2024,Prozent,…,Schleswig-Holstein,code01,
+2030,Prozent,…,Schleswig-Holstein,code01,
+2040,Prozent,…,Schleswig-Holstein,code01,
+2050,Prozent,…,Schleswig-Holstein,code01,
 2005,Prozent,,Thüringen,code16,12.43
 2006,Prozent,,Thüringen,code16,13.675
 2007,Prozent,,Thüringen,code16,16.69
@@ -342,3 +387,6 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Thüringen,code16,
 2023,Prozent,…,Thüringen,code16,
 2024,Prozent,…,Thüringen,code16,
+2030,Prozent,…,Thüringen,code16,
+2040,Prozent,…,Thüringen,code16,
+2050,Prozent,…,Thüringen,code16,

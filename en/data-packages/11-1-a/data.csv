@@ -56,6 +56,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,r,Transport area,,,6.0
 2022,Hectares per day,Moving four-year average,r,Transport area,,,1.0
 2023,Hectares per day,Moving four-year average,,Transport area,,,1.0
+2030,Hectares per day,Moving four-year average,…,Transport area,,,
 1996,Hectares per day,Moving four-year average,,"Recreation area, cemetery",,,9.0
 1997,Hectares per day,Moving four-year average,,"Recreation area, cemetery",,,20.0
 1998,Hectares per day,Moving four-year average,,"Recreation area, cemetery",,,21.0
@@ -84,6 +85,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,r,"Recreation area, cemetery",,,11.0
 2022,Hectares per day,Moving four-year average,r,"Recreation area, cemetery",,,11.0
 2023,Hectares per day,Moving four-year average,,"Recreation area, cemetery",,,13.0
+2030,Hectares per day,Moving four-year average,…,"Recreation area, cemetery",,,
 1996,Hectares per day,Moving four-year average,,Settlement area (built on),,,87.0
 1997,Hectares per day,Moving four-year average,,Settlement area (built on),,,83.0
 1998,Hectares per day,Moving four-year average,,Settlement area (built on),,,87.0
@@ -112,6 +114,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,r,Settlement area (built on),,,36.0
 2022,Hectares per day,Moving four-year average,r,Settlement area (built on),,,37.0
 2023,Hectares per day,Moving four-year average,,Settlement area (built on),,,38.0
+2030,Hectares per day,Moving four-year average,…,Settlement area (built on),,,
 1996,Hectares per day,Moving four-year average,,,Baden-Wuerttemberg,code08,10.0
 1997,Hectares per day,Moving four-year average,,,Baden-Wuerttemberg,code08,
 1998,Hectares per day,Moving four-year average,,,Baden-Wuerttemberg,code08,
@@ -140,6 +143,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Baden-Wuerttemberg,code08,5.0
 2022,Hectares per day,Moving four-year average,,,Baden-Wuerttemberg,code08,5.0
 2023,Hectares per day,Moving four-year average,…,,Baden-Wuerttemberg,code08,
+2030,Hectares per day,Moving four-year average,…,,Baden-Wuerttemberg,code08,
 1996,Hectares per day,Moving four-year average,,,Bavaria,code09,27.0
 1997,Hectares per day,Moving four-year average,,,Bavaria,code09,
 1998,Hectares per day,Moving four-year average,,,Bavaria,code09,
@@ -168,6 +172,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Bavaria,code09,11.0
 2022,Hectares per day,Moving four-year average,…,,Bavaria,code09,
 2023,Hectares per day,Moving four-year average,…,,Bavaria,code09,
+2030,Hectares per day,Moving four-year average,…,,Bavaria,code09,
 1996,Hectares per day,Moving four-year average,,,Berlin,code11,-1.0
 1997,Hectares per day,Moving four-year average,,,Berlin,code11,
 1998,Hectares per day,Moving four-year average,,,Berlin,code11,
@@ -196,6 +201,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,0,,Berlin,code11,0.0
 2022,Hectares per day,Moving four-year average,-,,Berlin,code11,0.0
 2023,Hectares per day,Moving four-year average,…,,Berlin,code11,
+2030,Hectares per day,Moving four-year average,…,,Berlin,code11,
 1996,Hectares per day,Moving four-year average,,,Brandenburg,code12,7.0
 1997,Hectares per day,Moving four-year average,,,Brandenburg,code12,
 1998,Hectares per day,Moving four-year average,,,Brandenburg,code12,
@@ -224,6 +230,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Brandenburg,code12,4.0
 2022,Hectares per day,Moving four-year average,,,Brandenburg,code12,5.0
 2023,Hectares per day,Moving four-year average,…,,Brandenburg,code12,
+2030,Hectares per day,Moving four-year average,…,,Brandenburg,code12,
 1996,Hectares per day,Moving four-year average,,,Bremen,code04,0.0
 1997,Hectares per day,Moving four-year average,,,Bremen,code04,
 1998,Hectares per day,Moving four-year average,,,Bremen,code04,
@@ -252,6 +259,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,-,,Bremen,code04,0.0
 2022,Hectares per day,Moving four-year average,,,Bremen,code04,0.0
 2023,Hectares per day,Moving four-year average,…,,Bremen,code04,
+2030,Hectares per day,Moving four-year average,…,,Bremen,code04,
 1996,Hectares per day,Moving four-year average,,,Hamburg,code02,0.0
 1997,Hectares per day,Moving four-year average,,,Hamburg,code02,
 1998,Hectares per day,Moving four-year average,,,Hamburg,code02,
@@ -280,6 +288,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,0,,Hamburg,code02,0.0
 2022,Hectares per day,Moving four-year average,0,,Hamburg,code02,0.0
 2023,Hectares per day,Moving four-year average,…,,Hamburg,code02,
+2030,Hectares per day,Moving four-year average,…,,Hamburg,code02,
 1996,Hectares per day,Moving four-year average,,,Hesse,code06,5.0
 1997,Hectares per day,Moving four-year average,,,Hesse,code06,
 1998,Hectares per day,Moving four-year average,,,Hesse,code06,
@@ -308,6 +317,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Hesse,code06,2.0
 2022,Hectares per day,Moving four-year average,…,,Hesse,code06,
 2023,Hectares per day,Moving four-year average,…,,Hesse,code06,
+2030,Hectares per day,Moving four-year average,…,,Hesse,code06,
 1996,Hectares per day,Moving four-year average,,,Mecklenburg Western Pomerania,code13,6.0
 1997,Hectares per day,Moving four-year average,,,Mecklenburg Western Pomerania,code13,
 1998,Hectares per day,Moving four-year average,,,Mecklenburg Western Pomerania,code13,
@@ -336,6 +346,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Mecklenburg Western Pomerania,code13,1.0
 2022,Hectares per day,Moving four-year average,,,Mecklenburg Western Pomerania,code13,1.0
 2023,Hectares per day,Moving four-year average,…,,Mecklenburg Western Pomerania,code13,
+2030,Hectares per day,Moving four-year average,…,,Mecklenburg Western Pomerania,code13,
 1996,Hectares per day,Moving four-year average,,,Lower Saxony,code03,16.0
 1997,Hectares per day,Moving four-year average,,,Lower Saxony,code03,
 1998,Hectares per day,Moving four-year average,,,Lower Saxony,code03,
@@ -364,6 +375,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Lower Saxony,code03,6.0
 2022,Hectares per day,Moving four-year average,,,Lower Saxony,code03,6.0
 2023,Hectares per day,Moving four-year average,…,,Lower Saxony,code03,
+2030,Hectares per day,Moving four-year average,…,,Lower Saxony,code03,
 1996,Hectares per day,Moving four-year average,,,North Rhine-Westphalia,code05,16.0
 1997,Hectares per day,Moving four-year average,,,North Rhine-Westphalia,code05,
 1998,Hectares per day,Moving four-year average,,,North Rhine-Westphalia,code05,
@@ -392,6 +404,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,North Rhine-Westphalia,code05,6.0
 2022,Hectares per day,Moving four-year average,,,North Rhine-Westphalia,code05,6.0
 2023,Hectares per day,Moving four-year average,…,,North Rhine-Westphalia,code05,
+2030,Hectares per day,Moving four-year average,…,,North Rhine-Westphalia,code05,
 1996,Hectares per day,Moving four-year average,,,Rhineland Palatinate,code07,5.0
 1997,Hectares per day,Moving four-year average,,,Rhineland Palatinate,code07,
 1998,Hectares per day,Moving four-year average,,,Rhineland Palatinate,code07,
@@ -420,6 +433,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Rhineland Palatinate,code07,4.0
 2022,Hectares per day,Moving four-year average,,,Rhineland Palatinate,code07,6.0
 2023,Hectares per day,Moving four-year average,…,,Rhineland Palatinate,code07,
+2030,Hectares per day,Moving four-year average,…,,Rhineland Palatinate,code07,
 1996,Hectares per day,Moving four-year average,,,Saarland,code10,1.0
 1997,Hectares per day,Moving four-year average,,,Saarland,code10,
 1998,Hectares per day,Moving four-year average,,,Saarland,code10,
@@ -448,6 +462,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Saarland,code10,0.0
 2022,Hectares per day,Moving four-year average,,,Saarland,code10,1.0
 2023,Hectares per day,Moving four-year average,…,,Saarland,code10,
+2030,Hectares per day,Moving four-year average,…,,Saarland,code10,
 1996,Hectares per day,Moving four-year average,,,Saxony,code14,9.0
 1997,Hectares per day,Moving four-year average,,,Saxony,code14,
 1998,Hectares per day,Moving four-year average,,,Saxony,code14,
@@ -476,6 +491,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Saxony,code14,5.0
 2022,Hectares per day,Moving four-year average,,,Saxony,code14,5.0
 2023,Hectares per day,Moving four-year average,…,,Saxony,code14,
+2030,Hectares per day,Moving four-year average,…,,Saxony,code14,
 1996,Hectares per day,Moving four-year average,,,Saxony-Anhalt,code15,9.0
 1997,Hectares per day,Moving four-year average,,,Saxony-Anhalt,code15,
 1998,Hectares per day,Moving four-year average,,,Saxony-Anhalt,code15,
@@ -504,6 +520,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Saxony-Anhalt,code15,1.0
 2022,Hectares per day,Moving four-year average,,,Saxony-Anhalt,code15,1.0
 2023,Hectares per day,Moving four-year average,…,,Saxony-Anhalt,code15,
+2030,Hectares per day,Moving four-year average,…,,Saxony-Anhalt,code15,
 1996,Hectares per day,Moving four-year average,,,Schleswig-Holstein,code01,3.0
 1997,Hectares per day,Moving four-year average,,,Schleswig-Holstein,code01,
 1998,Hectares per day,Moving four-year average,,,Schleswig-Holstein,code01,
@@ -532,6 +549,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,,,Schleswig-Holstein,code01,4.0
 2022,Hectares per day,Moving four-year average,,,Schleswig-Holstein,code01,4.0
 2023,Hectares per day,Moving four-year average,…,,Schleswig-Holstein,code01,
+2030,Hectares per day,Moving four-year average,…,,Schleswig-Holstein,code01,
 1996,Hectares per day,Moving four-year average,,,Thuringia,code16,6.0
 1997,Hectares per day,Moving four-year average,,,Thuringia,code16,
 1998,Hectares per day,Moving four-year average,,,Thuringia,code16,
@@ -560,6 +578,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Moving four-year average,.,,Thuringia,code16,
 2022,Hectares per day,Moving four-year average,,,Thuringia,code16,1.0
 2023,Hectares per day,Moving four-year average,…,,Thuringia,code16,
+2030,Hectares per day,Moving four-year average,…,,Thuringia,code16,
 1996,Hectares per day,Calculated annual values,,,,,120.0
 1997,Hectares per day,Calculated annual values,,,,,124.0
 1998,Hectares per day,Calculated annual values,,,,,131.0
@@ -617,6 +636,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,r,Transport area,,,2.0
 2022,Hectares per day,Calculated annual values,r,Transport area,,,-4.0
 2023,Hectares per day,Calculated annual values,,Transport area,,,2.0
+2030,Hectares per day,Calculated annual values,…,Transport area,,,
 1996,Hectares per day,Calculated annual values,,"Recreation area, cemetery",,,9.0
 1997,Hectares per day,Calculated annual values,,"Recreation area, cemetery",,,20.0
 1998,Hectares per day,Calculated annual values,,"Recreation area, cemetery",,,21.0
@@ -645,6 +665,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,r,"Recreation area, cemetery",,,11.0
 2022,Hectares per day,Calculated annual values,r,"Recreation area, cemetery",,,12.0
 2023,Hectares per day,Calculated annual values,,"Recreation area, cemetery",,,17.0
+2030,Hectares per day,Calculated annual values,…,"Recreation area, cemetery",,,
 1996,Hectares per day,Calculated annual values,,Settlement area (built on),,,87.0
 1997,Hectares per day,Calculated annual values,,Settlement area (built on),,,83.0
 1998,Hectares per day,Calculated annual values,,Settlement area (built on),,,87.0
@@ -673,6 +694,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,r,Settlement area (built on),,,39.0
 2022,Hectares per day,Calculated annual values,r,Settlement area (built on),,,37.0
 2023,Hectares per day,Calculated annual values,,Settlement area (built on),,,34.0
+2030,Hectares per day,Calculated annual values,…,Settlement area (built on),,,
 1996,Hectares per day,Calculated annual values,,,Baden-Wuerttemberg,code08,10.0
 1997,Hectares per day,Calculated annual values,,,Baden-Wuerttemberg,code08,
 1998,Hectares per day,Calculated annual values,,,Baden-Wuerttemberg,code08,
@@ -701,6 +723,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Baden-Wuerttemberg,code08,6.0
 2022,Hectares per day,Calculated annual values,,,Baden-Wuerttemberg,code08,5.0
 2023,Hectares per day,Calculated annual values,…,,Baden-Wuerttemberg,code08,
+2030,Hectares per day,Calculated annual values,…,,Baden-Wuerttemberg,code08,
 1996,Hectares per day,Calculated annual values,,,Bavaria,code09,27.0
 1997,Hectares per day,Calculated annual values,,,Bavaria,code09,
 1998,Hectares per day,Calculated annual values,,,Bavaria,code09,
@@ -729,6 +752,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,…,,Bavaria,code09,
 2022,Hectares per day,Calculated annual values,…,,Bavaria,code09,
 2023,Hectares per day,Calculated annual values,…,,Bavaria,code09,
+2030,Hectares per day,Calculated annual values,…,,Bavaria,code09,
 1996,Hectares per day,Calculated annual values,,,Berlin,code11,-1.0
 1997,Hectares per day,Calculated annual values,,,Berlin,code11,
 1998,Hectares per day,Calculated annual values,,,Berlin,code11,
@@ -757,6 +781,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,-,,Berlin,code11,0.0
 2022,Hectares per day,Calculated annual values,-,,Berlin,code11,0.0
 2023,Hectares per day,Calculated annual values,…,,Berlin,code11,
+2030,Hectares per day,Calculated annual values,…,,Berlin,code11,
 1996,Hectares per day,Calculated annual values,,,Brandenburg,code12,7.0
 1997,Hectares per day,Calculated annual values,,,Brandenburg,code12,
 1998,Hectares per day,Calculated annual values,,,Brandenburg,code12,
@@ -785,6 +810,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Brandenburg,code12,6.0
 2022,Hectares per day,Calculated annual values,,,Brandenburg,code12,6.0
 2023,Hectares per day,Calculated annual values,…,,Brandenburg,code12,
+2030,Hectares per day,Calculated annual values,…,,Brandenburg,code12,
 1996,Hectares per day,Calculated annual values,,,Bremen,code04,0.0
 1997,Hectares per day,Calculated annual values,,,Bremen,code04,
 1998,Hectares per day,Calculated annual values,,,Bremen,code04,
@@ -813,6 +839,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,0,,Bremen,code04,0.0
 2022,Hectares per day,Calculated annual values,0,,Bremen,code04,0.0
 2023,Hectares per day,Calculated annual values,…,,Bremen,code04,
+2030,Hectares per day,Calculated annual values,…,,Bremen,code04,
 1996,Hectares per day,Calculated annual values,,,Hamburg,code02,0.0
 1997,Hectares per day,Calculated annual values,,,Hamburg,code02,
 1998,Hectares per day,Calculated annual values,,,Hamburg,code02,
@@ -841,6 +868,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,0,,Hamburg,code02,0.0
 2022,Hectares per day,Calculated annual values,0,,Hamburg,code02,-1.0
 2023,Hectares per day,Calculated annual values,…,,Hamburg,code02,
+2030,Hectares per day,Calculated annual values,…,,Hamburg,code02,
 1996,Hectares per day,Calculated annual values,,,Hesse,code06,5.0
 1997,Hectares per day,Calculated annual values,,,Hesse,code06,
 1998,Hectares per day,Calculated annual values,,,Hesse,code06,
@@ -869,6 +897,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Hesse,code06,1.0
 2022,Hectares per day,Calculated annual values,…,,Hesse,code06,
 2023,Hectares per day,Calculated annual values,…,,Hesse,code06,
+2030,Hectares per day,Calculated annual values,…,,Hesse,code06,
 1996,Hectares per day,Calculated annual values,,,Mecklenburg Western Pomerania,code13,5.0
 1997,Hectares per day,Calculated annual values,,,Mecklenburg Western Pomerania,code13,
 1998,Hectares per day,Calculated annual values,,,Mecklenburg Western Pomerania,code13,
@@ -897,6 +926,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Mecklenburg Western Pomerania,code13,1.0
 2022,Hectares per day,Calculated annual values,,,Mecklenburg Western Pomerania,code13,1.0
 2023,Hectares per day,Calculated annual values,…,,Mecklenburg Western Pomerania,code13,
+2030,Hectares per day,Calculated annual values,…,,Mecklenburg Western Pomerania,code13,
 1996,Hectares per day,Calculated annual values,,,Lower Saxony,code03,17.0
 1997,Hectares per day,Calculated annual values,,,Lower Saxony,code03,
 1998,Hectares per day,Calculated annual values,,,Lower Saxony,code03,
@@ -925,6 +955,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Lower Saxony,code03,6.0
 2022,Hectares per day,Calculated annual values,,,Lower Saxony,code03,5.0
 2023,Hectares per day,Calculated annual values,…,,Lower Saxony,code03,
+2030,Hectares per day,Calculated annual values,…,,Lower Saxony,code03,
 1996,Hectares per day,Calculated annual values,,,North Rhine-Westphalia,code05,16.0
 1997,Hectares per day,Calculated annual values,,,North Rhine-Westphalia,code05,
 1998,Hectares per day,Calculated annual values,,,North Rhine-Westphalia,code05,
@@ -953,6 +984,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,North Rhine-Westphalia,code05,5.0
 2022,Hectares per day,Calculated annual values,,,North Rhine-Westphalia,code05,6.0
 2023,Hectares per day,Calculated annual values,…,,North Rhine-Westphalia,code05,
+2030,Hectares per day,Calculated annual values,…,,North Rhine-Westphalia,code05,
 1996,Hectares per day,Calculated annual values,,,Rhineland Palatinate,code07,5.0
 1997,Hectares per day,Calculated annual values,,,Rhineland Palatinate,code07,
 1998,Hectares per day,Calculated annual values,,,Rhineland Palatinate,code07,
@@ -981,6 +1013,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Rhineland Palatinate,code07,9.0
 2022,Hectares per day,Calculated annual values,,,Rhineland Palatinate,code07,7.0
 2023,Hectares per day,Calculated annual values,…,,Rhineland Palatinate,code07,
+2030,Hectares per day,Calculated annual values,…,,Rhineland Palatinate,code07,
 1996,Hectares per day,Calculated annual values,,,Saarland,code10,1.0
 1997,Hectares per day,Calculated annual values,,,Saarland,code10,
 1998,Hectares per day,Calculated annual values,,,Saarland,code10,
@@ -1009,6 +1042,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Saarland,code10,1.0
 2022,Hectares per day,Calculated annual values,,,Saarland,code10,1.0
 2023,Hectares per day,Calculated annual values,…,,Saarland,code10,
+2030,Hectares per day,Calculated annual values,…,,Saarland,code10,
 1996,Hectares per day,Calculated annual values,,,Saxony,code14,9.0
 1997,Hectares per day,Calculated annual values,,,Saxony,code14,
 1998,Hectares per day,Calculated annual values,,,Saxony,code14,
@@ -1037,6 +1071,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Saxony,code14,6.0
 2022,Hectares per day,Calculated annual values,,,Saxony,code14,5.0
 2023,Hectares per day,Calculated annual values,…,,Saxony,code14,
+2030,Hectares per day,Calculated annual values,…,,Saxony,code14,
 1996,Hectares per day,Calculated annual values,,,Saxony-Anhalt,code15,9.0
 1997,Hectares per day,Calculated annual values,,,Saxony-Anhalt,code15,
 1998,Hectares per day,Calculated annual values,,,Saxony-Anhalt,code15,
@@ -1065,6 +1100,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Saxony-Anhalt,code15,1.0
 2022,Hectares per day,Calculated annual values,,,Saxony-Anhalt,code15,2.0
 2023,Hectares per day,Calculated annual values,…,,Saxony-Anhalt,code15,
+2030,Hectares per day,Calculated annual values,…,,Saxony-Anhalt,code15,
 1996,Hectares per day,Calculated annual values,,,Schleswig-Holstein,code01,3.0
 1997,Hectares per day,Calculated annual values,,,Schleswig-Holstein,code01,
 1998,Hectares per day,Calculated annual values,,,Schleswig-Holstein,code01,
@@ -1093,6 +1129,7 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Schleswig-Holstein,code01,4.0
 2022,Hectares per day,Calculated annual values,,,Schleswig-Holstein,code01,3.0
 2023,Hectares per day,Calculated annual values,…,,Schleswig-Holstein,code01,
+2030,Hectares per day,Calculated annual values,…,,Schleswig-Holstein,code01,
 1996,Hectares per day,Calculated annual values,,,Thuringia,code16,6.0
 1997,Hectares per day,Calculated annual values,,,Thuringia,code16,
 1998,Hectares per day,Calculated annual values,,,Thuringia,code16,
@@ -1121,3 +1158,4 @@ Year,Units,Time series,COMMENT_OBS_0,Type of area,Federal state,GeoCode,Value
 2021,Hectares per day,Calculated annual values,,,Thuringia,code16,1.0
 2022,Hectares per day,Calculated annual values,,,Thuringia,code16,0.0
 2023,Hectares per day,Calculated annual values,…,,Thuringia,code16,
+2030,Hectares per day,Calculated annual values,…,,Thuringia,code16,

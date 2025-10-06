@@ -52,6 +52,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Weiblich,,,,38.032
 2008,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Weiblich,,,,39.689
 2009,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Weiblich,,,,42.199
+2030,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,…,Weiblich,,,,
 1999,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Männlich,,,,35.172
 2010,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Männlich,,,,40.016
 2011,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,Männlich,,,,40.109
@@ -78,6 +79,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Männlich,,,,37.256
 2008,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,Männlich,,,,37.854
 2009,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,Männlich,,,,39.223
+2030,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,…,Männlich,,,,
 1999,Prozent,,,,Baden-Württemberg,code08,,
 2010,Prozent,,,,Baden-Württemberg,code08,,42.299
 2011,Prozent,,,,Baden-Württemberg,code08,,43.361
@@ -104,6 +106,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Baden-Württemberg,code08,,37.613
 2008,Prozent,,,,Baden-Württemberg,code08,,37.838
 2009,Prozent,,,,Baden-Württemberg,code08,,41.901
+2030,Prozent,,…,,Baden-Württemberg,code08,,
 1999,Prozent,,,Weiblich,Baden-Württemberg,code08,,
 2010,Prozent,,,Weiblich,Baden-Württemberg,code08,,40.739
 2011,Prozent,,,Weiblich,Baden-Württemberg,code08,,41.862
@@ -130,6 +133,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Baden-Württemberg,code08,,35.715
 2008,Prozent,,,Weiblich,Baden-Württemberg,code08,,36.015
 2009,Prozent,,,Weiblich,Baden-Württemberg,code08,,41.037
+2030,Prozent,,…,Weiblich,Baden-Württemberg,code08,,
 1999,Prozent,,,Männlich,Baden-Württemberg,code08,,
 2010,Prozent,,,Männlich,Baden-Württemberg,code08,,43.877
 2011,Prozent,,,Männlich,Baden-Württemberg,code08,,44.857
@@ -156,6 +160,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Baden-Württemberg,code08,,39.492
 2008,Prozent,,,Männlich,Baden-Württemberg,code08,,39.693
 2009,Prozent,,,Männlich,Baden-Württemberg,code08,,42.792
+2030,Prozent,,…,Männlich,Baden-Württemberg,code08,,
 1999,Prozent,,,,Bayern,code09,,
 2010,Prozent,,,,Bayern,code09,,40.447
 2011,Prozent,,,,Bayern,code09,,41.17
@@ -182,6 +187,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Bayern,code09,,35.842
 2008,Prozent,,,,Bayern,code09,,37.649
 2009,Prozent,,,,Bayern,code09,,39.629
+2030,Prozent,,…,,Bayern,code09,,
 1999,Prozent,,,Weiblich,Bayern,code09,,
 2010,Prozent,,,Weiblich,Bayern,code09,,40.241
 2011,Prozent,,,Weiblich,Bayern,code09,,41.647
@@ -208,6 +214,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Bayern,code09,,34.766
 2008,Prozent,,,Weiblich,Bayern,code09,,36.965
 2009,Prozent,,,Weiblich,Bayern,code09,,38.73
+2030,Prozent,,…,Weiblich,Bayern,code09,,
 1999,Prozent,,,Männlich,Bayern,code09,,
 2010,Prozent,,,Männlich,Bayern,code09,,40.647
 2011,Prozent,,,Männlich,Bayern,code09,,40.713
@@ -234,6 +241,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Bayern,code09,,36.866
 2008,Prozent,,,Männlich,Bayern,code09,,38.335
 2009,Prozent,,,Männlich,Bayern,code09,,40.486
+2030,Prozent,,…,Männlich,Bayern,code09,,
 1999,Prozent,,,,Berlin,code11,,
 2010,Prozent,,,,Berlin,code11,,50.741
 2011,Prozent,,,,Berlin,code11,,51.867
@@ -260,6 +268,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Berlin,code11,,49.178
 2008,Prozent,,,,Berlin,code11,,47.189
 2009,Prozent,,,,Berlin,code11,,50.363
+2030,Prozent,,…,,Berlin,code11,,
 1999,Prozent,,,Weiblich,Berlin,code11,,
 2010,Prozent,,,Weiblich,Berlin,code11,,55.98
 2011,Prozent,,,Weiblich,Berlin,code11,,59.315
@@ -286,6 +295,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Berlin,code11,,53.045
 2008,Prozent,,,Weiblich,Berlin,code11,,49.991
 2009,Prozent,,,Weiblich,Berlin,code11,,56.248
+2030,Prozent,,…,Weiblich,Berlin,code11,,
 1999,Prozent,,,Männlich,Berlin,code11,,
 2010,Prozent,,,Männlich,Berlin,code11,,45.795
 2011,Prozent,,,Männlich,Berlin,code11,,44.749
@@ -312,6 +322,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Berlin,code11,,45.499
 2008,Prozent,,,Männlich,Berlin,code11,,44.604
 2009,Prozent,,,Männlich,Berlin,code11,,44.408
+2030,Prozent,,…,Männlich,Berlin,code11,,
 1999,Prozent,,,,Brandenburg,code12,,
 2010,Prozent,,,,Brandenburg,code12,,41.438
 2011,Prozent,,,,Brandenburg,code12,,44.497
@@ -338,6 +349,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Brandenburg,code12,,34.748
 2008,Prozent,,,,Brandenburg,code12,,38.584
 2009,Prozent,,,,Brandenburg,code12,,41.176
+2030,Prozent,,…,,Brandenburg,code12,,
 1999,Prozent,,,Weiblich,Brandenburg,code12,,
 2010,Prozent,,,Weiblich,Brandenburg,code12,,50.174
 2011,Prozent,,,Weiblich,Brandenburg,code12,,53.618
@@ -364,6 +376,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Brandenburg,code12,,42.239
 2008,Prozent,,,Weiblich,Brandenburg,code12,,47.104
 2009,Prozent,,,Weiblich,Brandenburg,code12,,47.875
+2030,Prozent,,…,Weiblich,Brandenburg,code12,,
 1999,Prozent,,,Männlich,Brandenburg,code12,,
 2010,Prozent,,,Männlich,Brandenburg,code12,,33.499
 2011,Prozent,,,Männlich,Brandenburg,code12,,35.83
@@ -390,6 +403,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Brandenburg,code12,,27.288
 2008,Prozent,,,Männlich,Brandenburg,code12,,30.42
 2009,Prozent,,,Männlich,Brandenburg,code12,,35.274
+2030,Prozent,,…,Männlich,Brandenburg,code12,,
 1999,Prozent,,,,Bremen,code04,,
 2010,Prozent,,,,Bremen,code04,,42.091
 2011,Prozent,,,,Bremen,code04,,43.164
@@ -416,6 +430,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Bremen,code04,,38.2
 2008,Prozent,,,,Bremen,code04,,39.539
 2009,Prozent,,,,Bremen,code04,,32.736
+2030,Prozent,,…,,Bremen,code04,,
 1999,Prozent,,,Weiblich,Bremen,code04,,
 2010,Prozent,,,Weiblich,Bremen,code04,,37.891
 2011,Prozent,,,Weiblich,Bremen,code04,,47.784
@@ -442,6 +457,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Bremen,code04,,40.341
 2008,Prozent,,,Weiblich,Bremen,code04,,40.847
 2009,Prozent,,,Weiblich,Bremen,code04,,36.118
+2030,Prozent,,…,Weiblich,Bremen,code04,,
 1999,Prozent,,,Männlich,Bremen,code04,,
 2010,Prozent,,,Männlich,Bremen,code04,,46.66
 2011,Prozent,,,Männlich,Bremen,code04,,37.811
@@ -468,6 +484,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Bremen,code04,,36.337
 2008,Prozent,,,Männlich,Bremen,code04,,38.208
 2009,Prozent,,,Männlich,Bremen,code04,,28.794
+2030,Prozent,,…,Männlich,Bremen,code04,,
 1999,Prozent,,,,Hamburg,code02,,
 2010,Prozent,,,,Hamburg,code02,,52.734
 2011,Prozent,,,,Hamburg,code02,,55.412
@@ -494,6 +511,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Hamburg,code02,,49.433
 2008,Prozent,,,,Hamburg,code02,,50.213
 2009,Prozent,,,,Hamburg,code02,,53.446
+2030,Prozent,,…,,Hamburg,code02,,
 1999,Prozent,,,Weiblich,Hamburg,code02,,
 2010,Prozent,,,Weiblich,Hamburg,code02,,54.07
 2011,Prozent,,,Weiblich,Hamburg,code02,,57.241
@@ -520,6 +538,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Hamburg,code02,,53.833
 2008,Prozent,,,Weiblich,Hamburg,code02,,53.129
 2009,Prozent,,,Weiblich,Hamburg,code02,,54.502
+2030,Prozent,,…,Weiblich,Hamburg,code02,,
 1999,Prozent,,,Männlich,Hamburg,code02,,
 2010,Prozent,,,Männlich,Hamburg,code02,,51.466
 2011,Prozent,,,Männlich,Hamburg,code02,,53.572
@@ -546,6 +565,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Hamburg,code02,,45.16
 2008,Prozent,,,Männlich,Hamburg,code02,,47.317
 2009,Prozent,,,Männlich,Hamburg,code02,,52.467
+2030,Prozent,,…,Männlich,Hamburg,code02,,
 1999,Prozent,,,,Hessen,code06,,
 2010,Prozent,,,,Hessen,code06,,45.525
 2011,Prozent,,,,Hessen,code06,,46.133
@@ -572,6 +592,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Hessen,code06,,40.867
 2008,Prozent,,,,Hessen,code06,,40.319
 2009,Prozent,,,,Hessen,code06,,43.154
+2030,Prozent,,…,,Hessen,code06,,
 1999,Prozent,,,Weiblich,Hessen,code06,,
 2010,Prozent,,,Weiblich,Hessen,code06,,46.354
 2011,Prozent,,,Weiblich,Hessen,code06,,46.657
@@ -598,6 +619,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Hessen,code06,,39.798
 2008,Prozent,,,Weiblich,Hessen,code06,,40.673
 2009,Prozent,,,Weiblich,Hessen,code06,,44.189
+2030,Prozent,,…,Weiblich,Hessen,code06,,
 1999,Prozent,,,Männlich,Hessen,code06,,
 2010,Prozent,,,Männlich,Hessen,code06,,44.658
 2011,Prozent,,,Männlich,Hessen,code06,,45.578
@@ -624,6 +646,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Hessen,code06,,41.942
 2008,Prozent,,,Männlich,Hessen,code06,,39.945
 2009,Prozent,,,Männlich,Hessen,code06,,42.08
+2030,Prozent,,…,Männlich,Hessen,code06,,
 1999,Prozent,,,,Mecklenburg-Vorpommern,code13,,
 2010,Prozent,,,,Mecklenburg-Vorpommern,code13,,33.193
 2011,Prozent,,,,Mecklenburg-Vorpommern,code13,,32.109
@@ -650,6 +673,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Mecklenburg-Vorpommern,code13,,30.477
 2008,Prozent,,,,Mecklenburg-Vorpommern,code13,,32.339
 2009,Prozent,,,,Mecklenburg-Vorpommern,code13,,32.347
+2030,Prozent,,…,,Mecklenburg-Vorpommern,code13,,
 1999,Prozent,,,Weiblich,Mecklenburg-Vorpommern,code13,,
 2010,Prozent,,,Weiblich,Mecklenburg-Vorpommern,code13,,36.472
 2011,Prozent,,,Weiblich,Mecklenburg-Vorpommern,code13,,35.261
@@ -676,6 +700,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Mecklenburg-Vorpommern,code13,,37.159
 2008,Prozent,,,Weiblich,Mecklenburg-Vorpommern,code13,,39.407
 2009,Prozent,,,Weiblich,Mecklenburg-Vorpommern,code13,,37.558
+2030,Prozent,,…,Weiblich,Mecklenburg-Vorpommern,code13,,
 1999,Prozent,,,Männlich,Mecklenburg-Vorpommern,code13,,
 2010,Prozent,,,Männlich,Mecklenburg-Vorpommern,code13,,30.445
 2011,Prozent,,,Männlich,Mecklenburg-Vorpommern,code13,,29.308
@@ -702,6 +727,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Mecklenburg-Vorpommern,code13,,25.045
 2008,Prozent,,,Männlich,Mecklenburg-Vorpommern,code13,,26.693
 2009,Prozent,,,Männlich,Mecklenburg-Vorpommern,code13,,27.74
+2030,Prozent,,…,Männlich,Mecklenburg-Vorpommern,code13,,
 1999,Prozent,,,,Niedersachsen,code03,,
 2010,Prozent,,,,Niedersachsen,code03,,36.194
 2011,Prozent,,,,Niedersachsen,code03,,37.469
@@ -728,6 +754,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Niedersachsen,code03,,32.983
 2008,Prozent,,,,Niedersachsen,code03,,34.037
 2009,Prozent,,,,Niedersachsen,code03,,35.592
+2030,Prozent,,…,,Niedersachsen,code03,,
 1999,Prozent,,,Weiblich,Niedersachsen,code03,,
 2010,Prozent,,,Weiblich,Niedersachsen,code03,,37.49
 2011,Prozent,,,Weiblich,Niedersachsen,code03,,39.557
@@ -754,6 +781,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Niedersachsen,code03,,30.943
 2008,Prozent,,,Weiblich,Niedersachsen,code03,,33.133
 2009,Prozent,,,Weiblich,Niedersachsen,code03,,36.255
+2030,Prozent,,…,Weiblich,Niedersachsen,code03,,
 1999,Prozent,,,Männlich,Niedersachsen,code03,,
 2010,Prozent,,,Männlich,Niedersachsen,code03,,34.885
 2011,Prozent,,,Männlich,Niedersachsen,code03,,35.403
@@ -780,6 +808,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Niedersachsen,code03,,35.072
 2008,Prozent,,,Männlich,Niedersachsen,code03,,34.922
 2009,Prozent,,,Männlich,Niedersachsen,code03,,34.951
+2030,Prozent,,…,Männlich,Niedersachsen,code03,,
 1999,Prozent,,,,Nordrhein-Westfalen,code05,,
 2010,Prozent,,,,Nordrhein-Westfalen,code05,,41.389
 2011,Prozent,,,,Nordrhein-Westfalen,code05,,42.073
@@ -806,6 +835,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Nordrhein-Westfalen,code05,,38.718
 2008,Prozent,,,,Nordrhein-Westfalen,code05,,41.096
 2009,Prozent,,,,Nordrhein-Westfalen,code05,,41.827
+2030,Prozent,,…,,Nordrhein-Westfalen,code05,,
 1999,Prozent,,,Weiblich,Nordrhein-Westfalen,code05,,
 2010,Prozent,,,Weiblich,Nordrhein-Westfalen,code05,,42.215
 2011,Prozent,,,Weiblich,Nordrhein-Westfalen,code05,,43.816
@@ -832,6 +862,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Nordrhein-Westfalen,code05,,38.428
 2008,Prozent,,,Weiblich,Nordrhein-Westfalen,code05,,41.687
 2009,Prozent,,,Weiblich,Nordrhein-Westfalen,code05,,42.652
+2030,Prozent,,…,Weiblich,Nordrhein-Westfalen,code05,,
 1999,Prozent,,,Männlich,Nordrhein-Westfalen,code05,,
 2010,Prozent,,,Männlich,Nordrhein-Westfalen,code05,,40.573
 2011,Prozent,,,Männlich,Nordrhein-Westfalen,code05,,40.355
@@ -858,6 +889,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Nordrhein-Westfalen,code05,,39.003
 2008,Prozent,,,Männlich,Nordrhein-Westfalen,code05,,40.506
 2009,Prozent,,,Männlich,Nordrhein-Westfalen,code05,,40.985
+2030,Prozent,,…,Männlich,Nordrhein-Westfalen,code05,,
 1999,Prozent,,,,Rheinland-Pfalz,code07,,
 2010,Prozent,,,,Rheinland-Pfalz,code07,,38.507
 2011,Prozent,,,,Rheinland-Pfalz,code07,,39.981
@@ -884,6 +916,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Rheinland-Pfalz,code07,,32.928
 2008,Prozent,,,,Rheinland-Pfalz,code07,,35.304
 2009,Prozent,,,,Rheinland-Pfalz,code07,,36.684
+2030,Prozent,,…,,Rheinland-Pfalz,code07,,
 1999,Prozent,,,Weiblich,Rheinland-Pfalz,code07,,
 2010,Prozent,,,Weiblich,Rheinland-Pfalz,code07,,37.007
 2011,Prozent,,,Weiblich,Rheinland-Pfalz,code07,,40.919
@@ -910,6 +943,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Rheinland-Pfalz,code07,,31.826
 2008,Prozent,,,Weiblich,Rheinland-Pfalz,code07,,35.112
 2009,Prozent,,,Weiblich,Rheinland-Pfalz,code07,,36.994
+2030,Prozent,,…,Weiblich,Rheinland-Pfalz,code07,,
 1999,Prozent,,,Männlich,Rheinland-Pfalz,code07,,
 2010,Prozent,,,Männlich,Rheinland-Pfalz,code07,,40.163
 2011,Prozent,,,Männlich,Rheinland-Pfalz,code07,,38.99
@@ -936,6 +970,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Rheinland-Pfalz,code07,,34.014
 2008,Prozent,,,Männlich,Rheinland-Pfalz,code07,,35.499
 2009,Prozent,,,Männlich,Rheinland-Pfalz,code07,,36.351
+2030,Prozent,,…,Männlich,Rheinland-Pfalz,code07,,
 1999,Prozent,,,,Saarland,code10,,
 2010,Prozent,,,,Saarland,code10,,32.859
 2011,Prozent,,,,Saarland,code10,,34.783
@@ -962,6 +997,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Saarland,code10,,32.44
 2008,Prozent,,,,Saarland,code10,,36.371
 2009,Prozent,,,,Saarland,code10,,37.232
+2030,Prozent,,…,,Saarland,code10,,
 1999,Prozent,,,Weiblich,Saarland,code10,,
 2010,Prozent,,,Weiblich,Saarland,code10,,36.76
 2011,Prozent,,,Weiblich,Saarland,code10,,38.665
@@ -988,6 +1024,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Saarland,code10,,33.107
 2008,Prozent,,,Weiblich,Saarland,code10,,37.423
 2009,Prozent,,,Weiblich,Saarland,code10,,40.175
+2030,Prozent,,…,Weiblich,Saarland,code10,,
 1999,Prozent,,,Männlich,Saarland,code10,,
 2010,Prozent,,,Männlich,Saarland,code10,,28.772
 2011,Prozent,,,Männlich,Saarland,code10,,30.839
@@ -1014,6 +1051,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Saarland,code10,,31.656
 2008,Prozent,,,Männlich,Saarland,code10,,35.242
 2009,Prozent,,,Männlich,Saarland,code10,,34.162
+2030,Prozent,,…,Männlich,Saarland,code10,,
 1999,Prozent,,,,Sachsen,code14,,
 2010,Prozent,,,,Sachsen,code14,,46.36
 2011,Prozent,,,,Sachsen,code14,,44.031
@@ -1040,6 +1078,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Sachsen,code14,,44.325
 2008,Prozent,,,,Sachsen,code14,,44.452
 2009,Prozent,,,,Sachsen,code14,,46.019
+2030,Prozent,,…,,Sachsen,code14,,
 1999,Prozent,,,Weiblich,Sachsen,code14,,
 2010,Prozent,,,Weiblich,Sachsen,code14,,54.98
 2011,Prozent,,,Weiblich,Sachsen,code14,,53.073
@@ -1066,6 +1105,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Sachsen,code14,,52.442
 2008,Prozent,,,Weiblich,Sachsen,code14,,52.456
 2009,Prozent,,,Weiblich,Sachsen,code14,,55.446
+2030,Prozent,,…,Weiblich,Sachsen,code14,,
 1999,Prozent,,,Männlich,Sachsen,code14,,
 2010,Prozent,,,Männlich,Sachsen,code14,,38.611
 2011,Prozent,,,Männlich,Sachsen,code14,,36.216
@@ -1092,6 +1132,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Sachsen,code14,,37.29
 2008,Prozent,,,Männlich,Sachsen,code14,,37.836
 2009,Prozent,,,Männlich,Sachsen,code14,,37.79
+2030,Prozent,,…,Männlich,Sachsen,code14,,
 1999,Prozent,,,,Sachsen-Anhalt,code15,,
 2010,Prozent,,,,Sachsen-Anhalt,code15,,32.196
 2011,Prozent,,,,Sachsen-Anhalt,code15,,31.538
@@ -1118,6 +1159,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Sachsen-Anhalt,code15,,27.008
 2008,Prozent,,,,Sachsen-Anhalt,code15,,30.452
 2009,Prozent,,,,Sachsen-Anhalt,code15,,32.577
+2030,Prozent,,…,,Sachsen-Anhalt,code15,,
 1999,Prozent,,,Weiblich,Sachsen-Anhalt,code15,,
 2010,Prozent,,,Weiblich,Sachsen-Anhalt,code15,,37.211
 2011,Prozent,,,Weiblich,Sachsen-Anhalt,code15,,37.381
@@ -1144,6 +1186,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Sachsen-Anhalt,code15,,34.167
 2008,Prozent,,,Weiblich,Sachsen-Anhalt,code15,,36.796
 2009,Prozent,,,Weiblich,Sachsen-Anhalt,code15,,37.137
+2030,Prozent,,…,Weiblich,Sachsen-Anhalt,code15,,
 1999,Prozent,,,Männlich,Sachsen-Anhalt,code15,,
 2010,Prozent,,,Männlich,Sachsen-Anhalt,code15,,27.529
 2011,Prozent,,,Männlich,Sachsen-Anhalt,code15,,26.277
@@ -1170,6 +1213,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Sachsen-Anhalt,code15,,20.758
 2008,Prozent,,,Männlich,Sachsen-Anhalt,code15,,24.749
 2009,Prozent,,,Männlich,Sachsen-Anhalt,code15,,28.203
+2030,Prozent,,…,Männlich,Sachsen-Anhalt,code15,,
 1999,Prozent,,,,Schleswig-Holstein,code01,,
 2010,Prozent,,,,Schleswig-Holstein,code01,,35.818
 2011,Prozent,,,,Schleswig-Holstein,code01,,40.479
@@ -1196,6 +1240,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Schleswig-Holstein,code01,,31.821
 2008,Prozent,,,,Schleswig-Holstein,code01,,32.351
 2009,Prozent,,,,Schleswig-Holstein,code01,,34.6
+2030,Prozent,,…,,Schleswig-Holstein,code01,,
 1999,Prozent,,,Weiblich,Schleswig-Holstein,code01,,
 2010,Prozent,,,Weiblich,Schleswig-Holstein,code01,,36.743
 2011,Prozent,,,Weiblich,Schleswig-Holstein,code01,,41.709
@@ -1222,6 +1267,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Schleswig-Holstein,code01,,31.164
 2008,Prozent,,,Weiblich,Schleswig-Holstein,code01,,32.799
 2009,Prozent,,,Weiblich,Schleswig-Holstein,code01,,35.757
+2030,Prozent,,…,Weiblich,Schleswig-Holstein,code01,,
 1999,Prozent,,,Männlich,Schleswig-Holstein,code01,,
 2010,Prozent,,,Männlich,Schleswig-Holstein,code01,,34.881
 2011,Prozent,,,Männlich,Schleswig-Holstein,code01,,39.187
@@ -1248,6 +1294,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Schleswig-Holstein,code01,,32.499
 2008,Prozent,,,Männlich,Schleswig-Holstein,code01,,31.852
 2009,Prozent,,,Männlich,Schleswig-Holstein,code01,,33.465
+2030,Prozent,,…,Männlich,Schleswig-Holstein,code01,,
 1999,Prozent,,,,Thüringen,code16,,
 2010,Prozent,,,,Thüringen,code16,,36.366
 2011,Prozent,,,,Thüringen,code16,,37.319
@@ -1274,6 +1321,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,Thüringen,code16,,36.495
 2008,Prozent,,,,Thüringen,code16,,35.718
 2009,Prozent,,,,Thüringen,code16,,35.356
+2030,Prozent,,…,,Thüringen,code16,,
 1999,Prozent,,,Weiblich,Thüringen,code16,,
 2010,Prozent,,,Weiblich,Thüringen,code16,,42.954
 2011,Prozent,,,Weiblich,Thüringen,code16,,45.287
@@ -1300,6 +1348,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,Thüringen,code16,,40.816
 2008,Prozent,,,Weiblich,Thüringen,code16,,41.872
 2009,Prozent,,,Weiblich,Thüringen,code16,,42.476
+2030,Prozent,,…,Weiblich,Thüringen,code16,,
 1999,Prozent,,,Männlich,Thüringen,code16,,
 2010,Prozent,,,Männlich,Thüringen,code16,,30.543
 2011,Prozent,,,Männlich,Thüringen,code16,,29.946
@@ -1326,6 +1375,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,Thüringen,code16,,32.62
 2008,Prozent,,,Männlich,Thüringen,code16,,30.442
 2009,Prozent,,,Männlich,Thüringen,code16,,29.14
+2030,Prozent,,…,Männlich,Thüringen,code16,,
 1999,Prozent,,,,,,"Zweitausbildung, Ausbildung nach Abitur",8.55
 2010,Prozent,,r,,,,"Zweitausbildung, Ausbildung nach Abitur",11.56
 2011,Prozent,,r,,,,"Zweitausbildung, Ausbildung nach Abitur",11.558
@@ -1352,6 +1402,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,,,"Zweitausbildung, Ausbildung nach Abitur",11.136
 2008,Prozent,,r,,,,"Zweitausbildung, Ausbildung nach Abitur",11.191
 2009,Prozent,,,,,,"Zweitausbildung, Ausbildung nach Abitur",11.368
+2030,Prozent,,…,,,,"Zweitausbildung, Ausbildung nach Abitur",
 1999,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2010,Prozent,,r,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",13.04
 2011,Prozent,,r,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",12.903
@@ -1378,6 +1429,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",12.365
 2008,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",12.744
 2009,Prozent,,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",13.059
+2030,Prozent,,…,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
 1999,Prozent,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2010,Prozent,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",10.105
 2011,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",10.239
@@ -1404,6 +1456,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",9.942
 2008,Prozent,,r,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",9.657
 2009,Prozent,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",9.695
+2030,Prozent,,…,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
 1999,Prozent,,,,,,Höherqualifizierende Berufsausbildung,10.043
 2010,Prozent,,,,,,Höherqualifizierende Berufsausbildung,7.965
 2011,Prozent,,,,,,Höherqualifizierende Berufsausbildung,9.987
@@ -1430,6 +1483,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,,,Höherqualifizierende Berufsausbildung,7.318
 2008,Prozent,,,,,,Höherqualifizierende Berufsausbildung,7.331
 2009,Prozent,,,,,,Höherqualifizierende Berufsausbildung,7.447
+2030,Prozent,,…,,,,Höherqualifizierende Berufsausbildung,
 1999,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,
 2010,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,7.551
 2011,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,10.477
@@ -1456,6 +1510,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,6.83
 2008,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,6.782
 2009,Prozent,,,Weiblich,,,Höherqualifizierende Berufsausbildung,7.175
+2030,Prozent,,…,Weiblich,,,Höherqualifizierende Berufsausbildung,
 1999,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,
 2010,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,8.371
 2011,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,9.506
@@ -1482,6 +1537,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,7.792
 2008,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,7.873
 2009,Prozent,,,Männlich,,,Höherqualifizierende Berufsausbildung,7.716
+2030,Prozent,,…,Männlich,,,Höherqualifizierende Berufsausbildung,
 1999,Prozent,,,,,,Hochschulabschluss,14.758
 2010,Prozent,,,,,,Hochschulabschluss,21.845
 2011,Prozent,,,,,,Hochschulabschluss,20.718
@@ -1508,6 +1564,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,,,Hochschulabschluss,19.184
 2008,Prozent,,,,,,Hochschulabschluss,20.344
 2009,Prozent,,,,,,Hochschulabschluss,21.988
+2030,Prozent,,…,,,,Hochschulabschluss,
 1999,Prozent,,,Weiblich,,,Hochschulabschluss,
 2010,Prozent,,,Weiblich,,,Hochschulabschluss,22.156
 2011,Prozent,,,Weiblich,,,Hochschulabschluss,21.081
@@ -1534,6 +1591,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,,,Hochschulabschluss,18.837
 2008,Prozent,,,Weiblich,,,Hochschulabschluss,20.263
 2009,Prozent,,,Weiblich,,,Hochschulabschluss,22.064
+2030,Prozent,,…,Weiblich,,,Hochschulabschluss,
 1999,Prozent,,,Männlich,,,Hochschulabschluss,
 2010,Prozent,,,Männlich,,,Hochschulabschluss,21.539
 2011,Prozent,,,Männlich,,,Hochschulabschluss,20.363
@@ -1560,6 +1618,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,,,Hochschulabschluss,19.522
 2008,Prozent,,,Männlich,,,Hochschulabschluss,20.424
 2009,Prozent,,,Männlich,,,Hochschulabschluss,21.912
+2030,Prozent,,…,Männlich,,,Hochschulabschluss,
 1999,Prozent,,,,,,Erstausbildung,49.396
 2010,Prozent,,,,,,Erstausbildung,41.065
 2011,Prozent,,,,,,Erstausbildung,40.482
@@ -1586,6 +1645,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,,,,Erstausbildung,43.504
 2008,Prozent,,,,,,Erstausbildung,42.921
 2009,Prozent,,,,,,Erstausbildung,41.204
+2030,Prozent,,…,,,,Erstausbildung,
 1999,Prozent,,,Weiblich,,,Erstausbildung,
 2010,Prozent,,,Weiblich,,,Erstausbildung,39.405
 2011,Prozent,,,Weiblich,,,Erstausbildung,38.186
@@ -1612,6 +1672,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Weiblich,,,Erstausbildung,42.657
 2008,Prozent,,,Weiblich,,,Erstausbildung,41.379
 2009,Prozent,,,Weiblich,,,Erstausbildung,39.704
+2030,Prozent,,…,Weiblich,,,Erstausbildung,
 1999,Prozent,,,Männlich,,,Erstausbildung,
 2010,Prozent,,,Männlich,,,Erstausbildung,42.697
 2011,Prozent,,,Männlich,,,Erstausbildung,42.734
@@ -1638,6 +1699,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,,,Männlich,,,Erstausbildung,44.327
 2008,Prozent,,,Männlich,,,Erstausbildung,44.444
 2009,Prozent,,,Männlich,,,Erstausbildung,42.688
+2030,Prozent,,…,Männlich,,,Erstausbildung,
 1999,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,,,,82.747
 2010,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,,,,82.435
 2011,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,,,,82.745
@@ -1691,6 +1753,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,80.69
 2008,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,81.069
 2009,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Weiblich,,,,81.903
+2030,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),…,Weiblich,,,,
 1999,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,
 2010,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,82.713
 2011,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,82.843
@@ -1717,3 +1780,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Qualifizierung,
 2007,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,81.583
 2008,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,82.299
 2009,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,Männlich,,,,81.911
+2030,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),…,Männlich,,,,

@@ -42,6 +42,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,c) Jugendliche,.,Weiblich,,,
 2020,Prozent,c) Jugendliche,.,Weiblich,,,
 2022,Prozent,c) Jugendliche,.,Weiblich,,,
+2030,Prozent,c) Jugendliche,…,Weiblich,,,
 2003,Prozent,c) Jugendliche,,Männlich,,,21.9
 2004,Prozent,c) Jugendliche,,Männlich,,,24.2
 2005,Prozent,c) Jugendliche,,Männlich,,,20.7
@@ -63,6 +64,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,c) Jugendliche,.,Männlich,,,
 2020,Prozent,c) Jugendliche,.,Männlich,,,
 2022,Prozent,c) Jugendliche,.,Männlich,,,
+2030,Prozent,c) Jugendliche,…,Männlich,,,
 2003,Prozent,d) Erwachsene,,,,,27.4
 2004,Prozent,d) Erwachsene,.,,,,
 2005,Prozent,d) Erwachsene,,,,,27.2
@@ -106,6 +108,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,Weiblich,,,
 2020,Prozent,d) Erwachsene,.,Weiblich,,,
 2022,Prozent,d) Erwachsene,…,Weiblich,,,
+2030,Prozent,d) Erwachsene,…,Weiblich,,,
 2003,Prozent,d) Erwachsene,,Männlich,,,33.2
 2004,Prozent,d) Erwachsene,.,Männlich,,,
 2005,Prozent,d) Erwachsene,,Männlich,,,32.2
@@ -127,6 +130,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,Männlich,,,
 2020,Prozent,d) Erwachsene,.,Männlich,,,
 2022,Prozent,d) Erwachsene,…,Männlich,,,
+2030,Prozent,d) Erwachsene,…,Männlich,,,
 2003,Prozent,d) Erwachsene,,,Baden-Württemberg,code08,25.53
 2004,Prozent,d) Erwachsene,.,,Baden-Württemberg,code08,
 2005,Prozent,d) Erwachsene,,,Baden-Württemberg,code08,24.5
@@ -148,6 +152,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Baden-Württemberg,code08,
 2020,Prozent,d) Erwachsene,.,,Baden-Württemberg,code08,
 2022,Prozent,d) Erwachsene,…,,Baden-Württemberg,code08,
+2030,Prozent,d) Erwachsene,…,,Baden-Württemberg,code08,
 2003,Prozent,d) Erwachsene,,,Bayern,code09,25.12
 2004,Prozent,d) Erwachsene,.,,Bayern,code09,
 2005,Prozent,d) Erwachsene,,,Bayern,code09,24.2
@@ -169,6 +174,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Bayern,code09,
 2020,Prozent,d) Erwachsene,.,,Bayern,code09,
 2022,Prozent,d) Erwachsene,…,,Bayern,code09,
+2030,Prozent,d) Erwachsene,…,,Bayern,code09,
 2003,Prozent,d) Erwachsene,,,Berlin,code11,34.12
 2004,Prozent,d) Erwachsene,.,,Berlin,code11,
 2005,Prozent,d) Erwachsene,,,Berlin,code11,32.7
@@ -190,6 +196,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Berlin,code11,
 2020,Prozent,d) Erwachsene,.,,Berlin,code11,
 2022,Prozent,d) Erwachsene,…,,Berlin,code11,
+2030,Prozent,d) Erwachsene,…,,Berlin,code11,
 2003,Prozent,d) Erwachsene,,,Brandenburg,code12,30.35
 2004,Prozent,d) Erwachsene,.,,Brandenburg,code12,
 2005,Prozent,d) Erwachsene,,,Brandenburg,code12,29.0
@@ -211,6 +218,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Brandenburg,code12,
 2020,Prozent,d) Erwachsene,.,,Brandenburg,code12,
 2022,Prozent,d) Erwachsene,…,,Brandenburg,code12,
+2030,Prozent,d) Erwachsene,…,,Brandenburg,code12,
 2003,Prozent,d) Erwachsene,,,Bremen,code04,33.85
 2004,Prozent,d) Erwachsene,.,,Bremen,code04,
 2005,Prozent,d) Erwachsene,,,Bremen,code04,30.8
@@ -232,6 +240,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Bremen,code04,
 2020,Prozent,d) Erwachsene,.,,Bremen,code04,
 2022,Prozent,d) Erwachsene,…,,Bremen,code04,
+2030,Prozent,d) Erwachsene,…,,Bremen,code04,
 2003,Prozent,d) Erwachsene,,,Hamburg,code02,30.95
 2004,Prozent,d) Erwachsene,.,,Hamburg,code02,
 2005,Prozent,d) Erwachsene,,,Hamburg,code02,29.8
@@ -253,6 +262,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Hamburg,code02,
 2020,Prozent,d) Erwachsene,.,,Hamburg,code02,
 2022,Prozent,d) Erwachsene,…,,Hamburg,code02,
+2030,Prozent,d) Erwachsene,…,,Hamburg,code02,
 2003,Prozent,d) Erwachsene,,,Hessen,code06,27.15
 2004,Prozent,d) Erwachsene,.,,Hessen,code06,
 2005,Prozent,d) Erwachsene,,,Hessen,code06,25.9
@@ -274,6 +284,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Hessen,code06,
 2020,Prozent,d) Erwachsene,.,,Hessen,code06,
 2022,Prozent,d) Erwachsene,…,,Hessen,code06,
+2030,Prozent,d) Erwachsene,…,,Hessen,code06,
 2003,Prozent,d) Erwachsene,,,Mecklenburg-Vorpommern,code13,30.61
 2004,Prozent,d) Erwachsene,.,,Mecklenburg-Vorpommern,code13,
 2005,Prozent,d) Erwachsene,,,Mecklenburg-Vorpommern,code13,33.3
@@ -295,6 +306,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Mecklenburg-Vorpommern,code13,
 2020,Prozent,d) Erwachsene,.,,Mecklenburg-Vorpommern,code13,
 2022,Prozent,d) Erwachsene,…,,Mecklenburg-Vorpommern,code13,
+2030,Prozent,d) Erwachsene,…,,Mecklenburg-Vorpommern,code13,
 2003,Prozent,d) Erwachsene,,,Niedersachsen,code03,28.44
 2004,Prozent,d) Erwachsene,.,,Niedersachsen,code03,
 2005,Prozent,d) Erwachsene,,,Niedersachsen,code03,28.1
@@ -316,6 +328,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Niedersachsen,code03,
 2020,Prozent,d) Erwachsene,.,,Niedersachsen,code03,
 2022,Prozent,d) Erwachsene,…,,Niedersachsen,code03,
+2030,Prozent,d) Erwachsene,…,,Niedersachsen,code03,
 2003,Prozent,d) Erwachsene,,,Nordrhein-Westfalen,code05,27.63
 2004,Prozent,d) Erwachsene,.,,Nordrhein-Westfalen,code05,
 2005,Prozent,d) Erwachsene,,,Nordrhein-Westfalen,code05,29.0
@@ -337,6 +350,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Nordrhein-Westfalen,code05,
 2020,Prozent,d) Erwachsene,.,,Nordrhein-Westfalen,code05,
 2022,Prozent,d) Erwachsene,…,,Nordrhein-Westfalen,code05,
+2030,Prozent,d) Erwachsene,…,,Nordrhein-Westfalen,code05,
 2003,Prozent,d) Erwachsene,,,Rheinland-Pfalz,code07,27.59
 2004,Prozent,d) Erwachsene,.,,Rheinland-Pfalz,code07,
 2005,Prozent,d) Erwachsene,,,Rheinland-Pfalz,code07,26.0
@@ -358,6 +372,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Rheinland-Pfalz,code07,
 2020,Prozent,d) Erwachsene,.,,Rheinland-Pfalz,code07,
 2022,Prozent,d) Erwachsene,…,,Rheinland-Pfalz,code07,
+2030,Prozent,d) Erwachsene,…,,Rheinland-Pfalz,code07,
 2003,Prozent,d) Erwachsene,,,Saarland,code10,25.19
 2004,Prozent,d) Erwachsene,.,,Saarland,code10,
 2005,Prozent,d) Erwachsene,,,Saarland,code10,26.2
@@ -379,6 +394,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Saarland,code10,
 2020,Prozent,d) Erwachsene,.,,Saarland,code10,
 2022,Prozent,d) Erwachsene,…,,Saarland,code10,
+2030,Prozent,d) Erwachsene,…,,Saarland,code10,
 2003,Prozent,d) Erwachsene,,,Sachsen,code14,24.92
 2004,Prozent,d) Erwachsene,.,,Sachsen,code14,
 2005,Prozent,d) Erwachsene,,,Sachsen,code14,24.4
@@ -400,6 +416,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Sachsen,code14,
 2020,Prozent,d) Erwachsene,.,,Sachsen,code14,
 2022,Prozent,d) Erwachsene,…,,Sachsen,code14,
+2030,Prozent,d) Erwachsene,…,,Sachsen,code14,
 2003,Prozent,d) Erwachsene,,,Sachsen-Anhalt,code15,27.23
 2004,Prozent,d) Erwachsene,.,,Sachsen-Anhalt,code15,
 2005,Prozent,d) Erwachsene,,,Sachsen-Anhalt,code15,27.9
@@ -421,6 +438,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Sachsen-Anhalt,code15,
 2020,Prozent,d) Erwachsene,.,,Sachsen-Anhalt,code15,
 2022,Prozent,d) Erwachsene,…,,Sachsen-Anhalt,code15,
+2030,Prozent,d) Erwachsene,…,,Sachsen-Anhalt,code15,
 2003,Prozent,d) Erwachsene,,,Schleswig-Holstein,code01,30.31
 2004,Prozent,d) Erwachsene,.,,Schleswig-Holstein,code01,
 2005,Prozent,d) Erwachsene,,,Schleswig-Holstein,code01,29.5
@@ -442,6 +460,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Schleswig-Holstein,code01,
 2020,Prozent,d) Erwachsene,.,,Schleswig-Holstein,code01,
 2022,Prozent,d) Erwachsene,…,,Schleswig-Holstein,code01,
+2030,Prozent,d) Erwachsene,…,,Schleswig-Holstein,code01,
 2003,Prozent,d) Erwachsene,,,Thüringen,code16,26.9
 2004,Prozent,d) Erwachsene,.,,Thüringen,code16,
 2005,Prozent,d) Erwachsene,,,Thüringen,code16,27.2
@@ -463,3 +482,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Value
 2006,Prozent,d) Erwachsene,.,,Thüringen,code16,
 2020,Prozent,d) Erwachsene,.,,Thüringen,code16,
 2022,Prozent,d) Erwachsene,…,,Thüringen,code16,
+2030,Prozent,d) Erwachsene,…,,Thüringen,code16,

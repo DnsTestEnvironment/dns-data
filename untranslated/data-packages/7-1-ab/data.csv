@@ -34,6 +34,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,baden-wuerttemberg,code08,134.332
 2023,2008 = 100,a) final energy productivity,p,baden-wuerttemberg,code08,140.777
 2024,2008 = 100,a) final energy productivity,…,baden-wuerttemberg,code08,
+2030,2008 = 100,a) final energy productivity,…,baden-wuerttemberg,code08,
 2008,2008 = 100,a) final energy productivity,,bavaria,code09,100.0
 2009,2008 = 100,a) final energy productivity,r,bavaria,code09,98.765
 2010,2008 = 100,a) final energy productivity,r,bavaria,code09,96.406
@@ -51,6 +52,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,,bavaria,code09,121.761
 2023,2008 = 100,a) final energy productivity,…,bavaria,code09,
 2024,2008 = 100,a) final energy productivity,…,bavaria,code09,
+2030,2008 = 100,a) final energy productivity,…,bavaria,code09,
 2008,2008 = 100,a) final energy productivity,,berlin,code11,100.0
 2009,2008 = 100,a) final energy productivity,r,berlin,code11,98.402
 2010,2008 = 100,a) final energy productivity,r,berlin,code11,93.02
@@ -68,6 +70,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,berlin,code11,173.297
 2023,2008 = 100,a) final energy productivity,p,berlin,code11,176.186
 2024,2008 = 100,a) final energy productivity,…,berlin,code11,
+2030,2008 = 100,a) final energy productivity,…,berlin,code11,
 2008,2008 = 100,a) final energy productivity,,brandenburg,code12,100.0
 2009,2008 = 100,a) final energy productivity,r,brandenburg,code12,99.316
 2010,2008 = 100,a) final energy productivity,r,brandenburg,code12,95.722
@@ -85,6 +88,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,brandenburg,code12,106.596
 2023,2008 = 100,a) final energy productivity,p,brandenburg,code12,106.855
 2024,2008 = 100,a) final energy productivity,…,brandenburg,code12,
+2030,2008 = 100,a) final energy productivity,…,brandenburg,code12,
 2008,2008 = 100,a) final energy productivity,,bremen,code04,100.0
 2009,2008 = 100,a) final energy productivity,r,bremen,code04,97.491
 2010,2008 = 100,a) final energy productivity,.,bremen,code04,
@@ -102,6 +106,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,…,bremen,code04,
 2023,2008 = 100,a) final energy productivity,…,bremen,code04,
 2024,2008 = 100,a) final energy productivity,…,bremen,code04,
+2030,2008 = 100,a) final energy productivity,…,bremen,code04,
 2008,2008 = 100,a) final energy productivity,,hamburg,code02,100.0
 2009,2008 = 100,a) final energy productivity,r,hamburg,code02,93.388
 2010,2008 = 100,a) final energy productivity,r,hamburg,code02,94.679
@@ -119,6 +124,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,hamburg,code02,124.39
 2023,2008 = 100,a) final energy productivity,,hamburg,code02,127.286
 2024,2008 = 100,a) final energy productivity,…,hamburg,code02,
+2030,2008 = 100,a) final energy productivity,…,hamburg,code02,
 2008,2008 = 100,a) final energy productivity,,hesse,code06,100.0
 2009,2008 = 100,a) final energy productivity,r,hesse,code06,97.851
 2010,2008 = 100,a) final energy productivity,r,hesse,code06,98.755
@@ -136,6 +142,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,hesse,code06,123.222
 2023,2008 = 100,a) final energy productivity,p,hesse,code06,125.251
 2024,2008 = 100,a) final energy productivity,…,hesse,code06,
+2030,2008 = 100,a) final energy productivity,…,hesse,code06,
 2008,2008 = 100,a) final energy productivity,,mecklenburg western pomerania,code13,100.0
 2009,2008 = 100,a) final energy productivity,r,mecklenburg western pomerania,code13,100.436
 2010,2008 = 100,a) final energy productivity,r,mecklenburg western pomerania,code13,94.842
@@ -153,6 +160,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,…,mecklenburg western pomerania,code13,
 2023,2008 = 100,a) final energy productivity,…,mecklenburg western pomerania,code13,
 2024,2008 = 100,a) final energy productivity,…,mecklenburg western pomerania,code13,
+2030,2008 = 100,a) final energy productivity,…,mecklenburg western pomerania,code13,
 2008,2008 = 100,a) final energy productivity,,lower saxony,code03,100.0
 2009,2008 = 100,a) final energy productivity,r,lower saxony,code03,99.376
 2010,2008 = 100,a) final energy productivity,r,lower saxony,code03,98.059
@@ -170,6 +178,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,lower saxony,code03,125.279
 2023,2008 = 100,a) final energy productivity,p,lower saxony,code03,135.171
 2024,2008 = 100,a) final energy productivity,…,lower saxony,code03,
+2030,2008 = 100,a) final energy productivity,…,lower saxony,code03,
 2008,2008 = 100,a) final energy productivity,,north rhine-westphalia,code05,100.0
 2009,2008 = 100,a) final energy productivity,r,north rhine-westphalia,code05,106.844
 2010,2008 = 100,a) final energy productivity,r,north rhine-westphalia,code05,102.247
@@ -187,6 +196,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,,north rhine-westphalia,code05,136.109
 2023,2008 = 100,a) final energy productivity,…,north rhine-westphalia,code05,
 2024,2008 = 100,a) final energy productivity,…,north rhine-westphalia,code05,
+2030,2008 = 100,a) final energy productivity,…,north rhine-westphalia,code05,
 2008,2008 = 100,a) final energy productivity,,rhineland palatinate,code07,100.0
 2009,2008 = 100,a) final energy productivity,r,rhineland palatinate,code07,99.673
 2010,2008 = 100,a) final energy productivity,r,rhineland palatinate,code07,100.053
@@ -204,6 +214,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,rhineland palatinate,code07,126.572
 2023,2008 = 100,a) final energy productivity,…,rhineland palatinate,code07,
 2024,2008 = 100,a) final energy productivity,…,rhineland palatinate,code07,
+2030,2008 = 100,a) final energy productivity,…,rhineland palatinate,code07,
 2008,2008 = 100,a) final energy productivity,.,saarland,code10,
 2009,2008 = 100,a) final energy productivity,.,saarland,code10,
 2010,2008 = 100,a) final energy productivity,.,saarland,code10,
@@ -221,6 +232,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,.,saarland,code10,
 2023,2008 = 100,a) final energy productivity,.,saarland,code10,
 2024,2008 = 100,a) final energy productivity,.,saarland,code10,
+2030,2008 = 100,a) final energy productivity,…,saarland,code10,
 2008,2008 = 100,a) final energy productivity,,saxony,code14,100.0
 2009,2008 = 100,a) final energy productivity,r,saxony,code14,97.479
 2010,2008 = 100,a) final energy productivity,r,saxony,code14,95.119
@@ -238,6 +250,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,saxony,code14,108.905
 2023,2008 = 100,a) final energy productivity,p,saxony,code14,116.035
 2024,2008 = 100,a) final energy productivity,…,saxony,code14,
+2030,2008 = 100,a) final energy productivity,…,saxony,code14,
 2008,2008 = 100,a) final energy productivity,,saxony-anhalt,code15,100.0
 2009,2008 = 100,a) final energy productivity,r,saxony-anhalt,code15,96.13
 2010,2008 = 100,a) final energy productivity,r,saxony-anhalt,code15,93.149
@@ -255,6 +268,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,saxony-anhalt,code15,101.808
 2023,2008 = 100,a) final energy productivity,…,saxony-anhalt,code15,
 2024,2008 = 100,a) final energy productivity,…,saxony-anhalt,code15,
+2030,2008 = 100,a) final energy productivity,…,saxony-anhalt,code15,
 2008,2008 = 100,a) final energy productivity,,schleswig-holstein,code01,100.0
 2009,2008 = 100,a) final energy productivity,r,schleswig-holstein,code01,99.774
 2010,2008 = 100,a) final energy productivity,r,schleswig-holstein,code01,94.857
@@ -272,6 +286,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,r,schleswig-holstein,code01,113.957
 2023,2008 = 100,a) final energy productivity,,schleswig-holstein,code01,119.832
 2024,2008 = 100,a) final energy productivity,…,schleswig-holstein,code01,
+2030,2008 = 100,a) final energy productivity,…,schleswig-holstein,code01,
 2008,2008 = 100,a) final energy productivity,,thuringia,code16,100.0
 2009,2008 = 100,a) final energy productivity,r,thuringia,code16,100.692
 2010,2008 = 100,a) final energy productivity,r,thuringia,code16,98.86
@@ -289,6 +304,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,a) final energy productivity,,thuringia,code16,122.974
 2023,2008 = 100,a) final energy productivity,…,thuringia,code16,
 2024,2008 = 100,a) final energy productivity,…,thuringia,code16,
+2030,2008 = 100,a) final energy productivity,…,thuringia,code16,
 2008,2008 = 100,b) primary energy consumption,,,,100.0
 2009,2008 = 100,b) primary energy consumption,r,,,93.97
 2010,2008 = 100,b) primary energy consumption,r,,,98.302
@@ -324,6 +340,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,r,baden-wuerttemberg,code08,78.054
 2023,2008 = 100,b) primary energy consumption,p,baden-wuerttemberg,code08,68.498
 2024,2008 = 100,b) primary energy consumption,…,baden-wuerttemberg,code08,
+2030,2008 = 100,b) primary energy consumption,…,baden-wuerttemberg,code08,
 2008,2008 = 100,b) primary energy consumption,,bavaria,code09,100.0
 2009,2008 = 100,b) primary energy consumption,,bavaria,code09,98.265
 2010,2008 = 100,b) primary energy consumption,,bavaria,code09,102.045
@@ -341,6 +358,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,bavaria,code09,84.171
 2023,2008 = 100,b) primary energy consumption,…,bavaria,code09,
 2024,2008 = 100,b) primary energy consumption,…,bavaria,code09,
+2030,2008 = 100,b) primary energy consumption,…,bavaria,code09,
 2008,2008 = 100,b) primary energy consumption,,berlin,code11,100.0
 2009,2008 = 100,b) primary energy consumption,,berlin,code11,98.596
 2010,2008 = 100,b) primary energy consumption,,berlin,code11,107.634
@@ -358,6 +376,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,berlin,code11,78.636
 2023,2008 = 100,b) primary energy consumption,p,berlin,code11,77.338
 2024,2008 = 100,b) primary energy consumption,…,berlin,code11,
+2030,2008 = 100,b) primary energy consumption,…,berlin,code11,
 2008,2008 = 100,b) primary energy consumption,,brandenburg,code12,100.0
 2009,2008 = 100,b) primary energy consumption,,brandenburg,code12,97.025
 2010,2008 = 100,b) primary energy consumption,,brandenburg,code12,102.117
@@ -375,6 +394,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,brandenburg,code12,90.337
 2023,2008 = 100,b) primary energy consumption,p,brandenburg,code12,87.39
 2024,2008 = 100,b) primary energy consumption,…,brandenburg,code12,
+2030,2008 = 100,b) primary energy consumption,…,brandenburg,code12,
 2008,2008 = 100,b) primary energy consumption,,bremen,code04,100.0
 2009,2008 = 100,b) primary energy consumption,,bremen,code04,96.197
 2010,2008 = 100,b) primary energy consumption,,bremen,code04,105.896
@@ -392,6 +412,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,…,bremen,code04,
 2023,2008 = 100,b) primary energy consumption,…,bremen,code04,
 2024,2008 = 100,b) primary energy consumption,…,bremen,code04,
+2030,2008 = 100,b) primary energy consumption,…,bremen,code04,
 2008,2008 = 100,b) primary energy consumption,,hamburg,code02,100.0
 2009,2008 = 100,b) primary energy consumption,,hamburg,code02,98.742
 2010,2008 = 100,b) primary energy consumption,,hamburg,code02,106.297
@@ -409,6 +430,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,hamburg,code02,88.174
 2023,2008 = 100,b) primary energy consumption,,hamburg,code02,80.647
 2024,2008 = 100,b) primary energy consumption,…,hamburg,code02,
+2030,2008 = 100,b) primary energy consumption,…,hamburg,code02,
 2008,2008 = 100,b) primary energy consumption,,hesse,code06,100.0
 2009,2008 = 100,b) primary energy consumption,,hesse,code06,83.484
 2010,2008 = 100,b) primary energy consumption,,hesse,code06,94.985
@@ -426,6 +448,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,r,hesse,code06,75.143
 2023,2008 = 100,b) primary energy consumption,p,hesse,code06,73.178
 2024,2008 = 100,b) primary energy consumption,…,hesse,code06,
+2030,2008 = 100,b) primary energy consumption,…,hesse,code06,
 2008,2008 = 100,b) primary energy consumption,,mecklenburg western pomerania,code13,100.0
 2009,2008 = 100,b) primary energy consumption,,mecklenburg western pomerania,code13,95.143
 2010,2008 = 100,b) primary energy consumption,,mecklenburg western pomerania,code13,101.928
@@ -443,6 +466,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,…,mecklenburg western pomerania,code13,
 2023,2008 = 100,b) primary energy consumption,…,mecklenburg western pomerania,code13,
 2024,2008 = 100,b) primary energy consumption,…,mecklenburg western pomerania,code13,
+2030,2008 = 100,b) primary energy consumption,…,mecklenburg western pomerania,code13,
 2008,2008 = 100,b) primary energy consumption,,lower saxony,code03,100.0
 2009,2008 = 100,b) primary energy consumption,,lower saxony,code03,97.643
 2010,2008 = 100,b) primary energy consumption,,lower saxony,code03,100.68
@@ -460,6 +484,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,r,lower saxony,code03,80.033
 2023,2008 = 100,b) primary energy consumption,p,lower saxony,code03,69.85
 2024,2008 = 100,b) primary energy consumption,…,lower saxony,code03,
+2030,2008 = 100,b) primary energy consumption,…,lower saxony,code03,
 2008,2008 = 100,b) primary energy consumption,,north rhine-westphalia,code05,100.0
 2009,2008 = 100,b) primary energy consumption,,north rhine-westphalia,code05,100.704
 2010,2008 = 100,b) primary energy consumption,,north rhine-westphalia,code05,105.724
@@ -477,6 +502,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,north rhine-westphalia,code05,78.146
 2023,2008 = 100,b) primary energy consumption,…,north rhine-westphalia,code05,
 2024,2008 = 100,b) primary energy consumption,…,north rhine-westphalia,code05,
+2030,2008 = 100,b) primary energy consumption,…,north rhine-westphalia,code05,
 2008,2008 = 100,b) primary energy consumption,,rhineland palatinate,code07,100.0
 2009,2008 = 100,b) primary energy consumption,,rhineland palatinate,code07,92.715
 2010,2008 = 100,b) primary energy consumption,,rhineland palatinate,code07,100.199
@@ -494,6 +520,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,rhineland palatinate,code07,88.456
 2023,2008 = 100,b) primary energy consumption,…,rhineland palatinate,code07,
 2024,2008 = 100,b) primary energy consumption,…,rhineland palatinate,code07,
+2030,2008 = 100,b) primary energy consumption,…,rhineland palatinate,code07,
 2008,2008 = 100,b) primary energy consumption,,saarland,code10,100.0
 2009,2008 = 100,b) primary energy consumption,,saarland,code10,82.887
 2010,2008 = 100,b) primary energy consumption,,saarland,code10,87.405
@@ -511,6 +538,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,saarland,code10,66.506
 2023,2008 = 100,b) primary energy consumption,…,saarland,code10,
 2024,2008 = 100,b) primary energy consumption,…,saarland,code10,
+2030,2008 = 100,b) primary energy consumption,…,saarland,code10,
 2008,2008 = 100,b) primary energy consumption,,saxony,code14,100.0
 2009,2008 = 100,b) primary energy consumption,,saxony,code14,99.49
 2010,2008 = 100,b) primary energy consumption,,saxony,code14,100.91
@@ -528,6 +556,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,saxony,code14,102.78
 2023,2008 = 100,b) primary energy consumption,p,saxony,code14,89.195
 2024,2008 = 100,b) primary energy consumption,…,saxony,code14,
+2030,2008 = 100,b) primary energy consumption,…,saxony,code14,
 2008,2008 = 100,b) primary energy consumption,,saxony-anhalt,code15,100.0
 2009,2008 = 100,b) primary energy consumption,,saxony-anhalt,code15,98.851
 2010,2008 = 100,b) primary energy consumption,,saxony-anhalt,code15,103.631
@@ -545,6 +574,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,saxony-anhalt,code15,95.392
 2023,2008 = 100,b) primary energy consumption,…,saxony-anhalt,code15,
 2024,2008 = 100,b) primary energy consumption,…,saxony-anhalt,code15,
+2030,2008 = 100,b) primary energy consumption,…,saxony-anhalt,code15,
 2008,2008 = 100,b) primary energy consumption,,schleswig-holstein,code01,100.0
 2009,2008 = 100,b) primary energy consumption,,schleswig-holstein,code01,97.202
 2010,2008 = 100,b) primary energy consumption,,schleswig-holstein,code01,102.207
@@ -562,6 +592,7 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,r,schleswig-holstein,code01,73.502
 2023,2008 = 100,b) primary energy consumption,,schleswig-holstein,code01,70.526
 2024,2008 = 100,b) primary energy consumption,…,schleswig-holstein,code01,
+2030,2008 = 100,b) primary energy consumption,…,schleswig-holstein,code01,
 2008,2008 = 100,b) primary energy consumption,,thuringia,code16,100.0
 2009,2008 = 100,b) primary energy consumption,,thuringia,code16,96.12
 2010,2008 = 100,b) primary energy consumption,,thuringia,code16,100.038
@@ -579,3 +610,4 @@ Year,Units,Series,COMMENT_OBS_0,federal state,GeoCode,Value
 2022,2008 = 100,b) primary energy consumption,,thuringia,code16,92.336
 2023,2008 = 100,b) primary energy consumption,…,thuringia,code16,
 2024,2008 = 100,b) primary energy consumption,…,thuringia,code16,
+2030,2008 = 100,b) primary energy consumption,…,thuringia,code16,

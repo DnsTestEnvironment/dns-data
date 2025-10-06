@@ -42,6 +42,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,c) Adolescents,.,Female,,,
 2020,Percentage,c) Adolescents,.,Female,,,
 2022,Percentage,c) Adolescents,.,Female,,,
+2030,Percentage,c) Adolescents,…,Female,,,
 2003,Percentage,c) Adolescents,,Male,,,21.9
 2004,Percentage,c) Adolescents,,Male,,,24.2
 2005,Percentage,c) Adolescents,,Male,,,20.7
@@ -63,6 +64,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,c) Adolescents,.,Male,,,
 2020,Percentage,c) Adolescents,.,Male,,,
 2022,Percentage,c) Adolescents,.,Male,,,
+2030,Percentage,c) Adolescents,…,Male,,,
 2003,Percentage,d) Adults,,,,,27.4
 2004,Percentage,d) Adults,.,,,,
 2005,Percentage,d) Adults,,,,,27.2
@@ -106,6 +108,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,Female,,,
 2020,Percentage,d) Adults,.,Female,,,
 2022,Percentage,d) Adults,…,Female,,,
+2030,Percentage,d) Adults,…,Female,,,
 2003,Percentage,d) Adults,,Male,,,33.2
 2004,Percentage,d) Adults,.,Male,,,
 2005,Percentage,d) Adults,,Male,,,32.2
@@ -127,6 +130,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,Male,,,
 2020,Percentage,d) Adults,.,Male,,,
 2022,Percentage,d) Adults,…,Male,,,
+2030,Percentage,d) Adults,…,Male,,,
 2003,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,25.53
 2004,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2005,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,24.5
@@ -148,6 +152,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2020,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2022,Percentage,d) Adults,…,,Baden-Wuerttemberg,code08,
+2030,Percentage,d) Adults,…,,Baden-Wuerttemberg,code08,
 2003,Percentage,d) Adults,,,Bavaria,code09,25.12
 2004,Percentage,d) Adults,.,,Bavaria,code09,
 2005,Percentage,d) Adults,,,Bavaria,code09,24.2
@@ -169,6 +174,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Bavaria,code09,
 2020,Percentage,d) Adults,.,,Bavaria,code09,
 2022,Percentage,d) Adults,…,,Bavaria,code09,
+2030,Percentage,d) Adults,…,,Bavaria,code09,
 2003,Percentage,d) Adults,,,Berlin,code11,34.12
 2004,Percentage,d) Adults,.,,Berlin,code11,
 2005,Percentage,d) Adults,,,Berlin,code11,32.7
@@ -190,6 +196,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Berlin,code11,
 2020,Percentage,d) Adults,.,,Berlin,code11,
 2022,Percentage,d) Adults,…,,Berlin,code11,
+2030,Percentage,d) Adults,…,,Berlin,code11,
 2003,Percentage,d) Adults,,,Brandenburg,code12,30.35
 2004,Percentage,d) Adults,.,,Brandenburg,code12,
 2005,Percentage,d) Adults,,,Brandenburg,code12,29.0
@@ -211,6 +218,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Brandenburg,code12,
 2020,Percentage,d) Adults,.,,Brandenburg,code12,
 2022,Percentage,d) Adults,…,,Brandenburg,code12,
+2030,Percentage,d) Adults,…,,Brandenburg,code12,
 2003,Percentage,d) Adults,,,Bremen,code04,33.85
 2004,Percentage,d) Adults,.,,Bremen,code04,
 2005,Percentage,d) Adults,,,Bremen,code04,30.8
@@ -232,6 +240,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Bremen,code04,
 2020,Percentage,d) Adults,.,,Bremen,code04,
 2022,Percentage,d) Adults,…,,Bremen,code04,
+2030,Percentage,d) Adults,…,,Bremen,code04,
 2003,Percentage,d) Adults,,,Hamburg,code02,30.95
 2004,Percentage,d) Adults,.,,Hamburg,code02,
 2005,Percentage,d) Adults,,,Hamburg,code02,29.8
@@ -253,6 +262,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Hamburg,code02,
 2020,Percentage,d) Adults,.,,Hamburg,code02,
 2022,Percentage,d) Adults,…,,Hamburg,code02,
+2030,Percentage,d) Adults,…,,Hamburg,code02,
 2003,Percentage,d) Adults,,,Hesse,code06,27.15
 2004,Percentage,d) Adults,.,,Hesse,code06,
 2005,Percentage,d) Adults,,,Hesse,code06,25.9
@@ -274,6 +284,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Hesse,code06,
 2020,Percentage,d) Adults,.,,Hesse,code06,
 2022,Percentage,d) Adults,…,,Hesse,code06,
+2030,Percentage,d) Adults,…,,Hesse,code06,
 2003,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,30.61
 2004,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2005,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,33.3
@@ -295,6 +306,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2020,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2022,Percentage,d) Adults,…,,Mecklenburg Western Pomerania,code13,
+2030,Percentage,d) Adults,…,,Mecklenburg Western Pomerania,code13,
 2003,Percentage,d) Adults,,,Lower Saxony,code03,28.44
 2004,Percentage,d) Adults,.,,Lower Saxony,code03,
 2005,Percentage,d) Adults,,,Lower Saxony,code03,28.1
@@ -316,6 +328,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Lower Saxony,code03,
 2020,Percentage,d) Adults,.,,Lower Saxony,code03,
 2022,Percentage,d) Adults,…,,Lower Saxony,code03,
+2030,Percentage,d) Adults,…,,Lower Saxony,code03,
 2003,Percentage,d) Adults,,,North Rhine-Westphalia,code05,27.63
 2004,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2005,Percentage,d) Adults,,,North Rhine-Westphalia,code05,29.0
@@ -337,6 +350,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2020,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2022,Percentage,d) Adults,…,,North Rhine-Westphalia,code05,
+2030,Percentage,d) Adults,…,,North Rhine-Westphalia,code05,
 2003,Percentage,d) Adults,,,Rhineland Palatinate,code07,27.59
 2004,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2005,Percentage,d) Adults,,,Rhineland Palatinate,code07,26.0
@@ -358,6 +372,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2020,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2022,Percentage,d) Adults,…,,Rhineland Palatinate,code07,
+2030,Percentage,d) Adults,…,,Rhineland Palatinate,code07,
 2003,Percentage,d) Adults,,,Saarland,code10,25.19
 2004,Percentage,d) Adults,.,,Saarland,code10,
 2005,Percentage,d) Adults,,,Saarland,code10,26.2
@@ -379,6 +394,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Saarland,code10,
 2020,Percentage,d) Adults,.,,Saarland,code10,
 2022,Percentage,d) Adults,…,,Saarland,code10,
+2030,Percentage,d) Adults,…,,Saarland,code10,
 2003,Percentage,d) Adults,,,Saxony,code14,24.92
 2004,Percentage,d) Adults,.,,Saxony,code14,
 2005,Percentage,d) Adults,,,Saxony,code14,24.4
@@ -400,6 +416,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Saxony,code14,
 2020,Percentage,d) Adults,.,,Saxony,code14,
 2022,Percentage,d) Adults,…,,Saxony,code14,
+2030,Percentage,d) Adults,…,,Saxony,code14,
 2003,Percentage,d) Adults,,,Saxony-Anhalt,code15,27.23
 2004,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2005,Percentage,d) Adults,,,Saxony-Anhalt,code15,27.9
@@ -421,6 +438,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2020,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2022,Percentage,d) Adults,…,,Saxony-Anhalt,code15,
+2030,Percentage,d) Adults,…,,Saxony-Anhalt,code15,
 2003,Percentage,d) Adults,,,Schleswig-Holstein,code01,30.31
 2004,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2005,Percentage,d) Adults,,,Schleswig-Holstein,code01,29.5
@@ -442,6 +460,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2020,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2022,Percentage,d) Adults,…,,Schleswig-Holstein,code01,
+2030,Percentage,d) Adults,…,,Schleswig-Holstein,code01,
 2003,Percentage,d) Adults,,,Thuringia,code16,26.9
 2004,Percentage,d) Adults,.,,Thuringia,code16,
 2005,Percentage,d) Adults,,,Thuringia,code16,27.2
@@ -463,3 +482,4 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,,Thuringia,code16,
 2020,Percentage,d) Adults,.,,Thuringia,code16,
 2022,Percentage,d) Adults,…,,Thuringia,code16,
+2030,Percentage,d) Adults,…,,Thuringia,code16,
