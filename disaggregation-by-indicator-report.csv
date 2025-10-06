@@ -1,5 +1,5 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"time series, COMMENT_OBS_0, sex, area",4
+#1-1-ab,"time series, COMMENT_OBS_0, federal state, sex, area",5
 #10-1,"COMMENT_OBS_0, federal state, sex",3
 #10-2,"time series, COMMENT_OBS_0, federal state, area",4
 #11-1-a,"time series, COMMENT_OBS_0, federal state, type of area",4

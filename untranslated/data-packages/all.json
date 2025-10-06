@@ -1366,6 +1366,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "p",
                 "…",
                 ""
               ]
@@ -1778,7 +1780,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
                 ".",
                 ""
               ]
@@ -2772,7 +2773,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             }
@@ -3294,7 +3294,7 @@
           }
         ]
       },
-      "title": "Frühe Schul- und Ausbildungsabgängerinnen und -abgänger"
+      "title": "Frühe Schul- und Ausbildungsabgängerinnen und  -abgänger"
     },
     {
       "path": "12-1-a/data.csv",
@@ -4385,6 +4385,35 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
