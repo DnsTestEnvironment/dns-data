@@ -321,6 +321,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 "…",
                 ""
@@ -1771,8 +1772,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
                 ".",
+                "…",
                 ""
               ]
             },
