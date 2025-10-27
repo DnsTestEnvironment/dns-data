@@ -842,6 +842,7 @@
               "enum": [
                 ".",
                 "…",
+                "r",
                 ""
               ]
             }
@@ -1566,6 +1567,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             }
@@ -2257,7 +2259,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -2291,10 +2293,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ".",
-                "…",
                 ""
               ]
             }
@@ -4009,6 +4010,7 @@
               "enum": [
                 "r",
                 "…",
+                ".",
                 ""
               ]
             }
@@ -4023,6 +4025,35 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4300,7 +4331,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -4322,9 +4353,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
-                "…",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
                 ""
               ]
             }
@@ -4357,16 +4397,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

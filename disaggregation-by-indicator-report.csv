@@ -7,7 +7,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-2-a,"time series, COMMENT_OBS_0",2
 #11-2-b,"time series, COMMENT_OBS_0",2
 #11-2-c,"time series, COMMENT_OBS_0, länder",3
-#11-3-a,"COMMENT_OBS_0, sex",2
+#11-3-a,"COMMENT_OBS_0, länder, sex",3
 #12-1-a,COMMENT_OBS_0,1
 #12-1-b,"time series, COMMENT_OBS_0",2
 #12-2-a,"COMMENT_OBS_0, länder",2

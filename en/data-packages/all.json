@@ -915,6 +915,7 @@
               "enum": [
                 ".",
                 "…",
+                "r",
                 ""
               ]
             },
@@ -1702,6 +1703,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             },
@@ -2455,7 +2457,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -2492,10 +2494,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ".",
-                "…",
                 ""
               ]
             },
@@ -4356,6 +4357,7 @@
               "enum": [
                 "r",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -4372,6 +4374,37 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Länder"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4674,7 +4707,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -4698,13 +4731,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
-                "…",
+                "p",
                 ""
               ]
             },
             "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "länder",
@@ -4736,17 +4779,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
           },
           {
             "name": "Value",

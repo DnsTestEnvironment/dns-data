@@ -915,6 +915,7 @@
               "enum": [
                 ".",
                 "…",
+                "r",
                 ""
               ]
             },
@@ -1702,6 +1703,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             },
@@ -2492,10 +2494,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ".",
-                "…",
                 ""
               ]
             },
@@ -4356,6 +4357,7 @@
               "enum": [
                 "r",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -4372,6 +4374,37 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -4698,13 +4731,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
-                "…",
+                "p",
                 ""
               ]
             },
             "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "länder",
@@ -4736,17 +4779,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
           },
           {
             "name": "Value",
