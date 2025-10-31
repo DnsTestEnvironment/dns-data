@@ -16,9 +16,9 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,länder,GeoCode,Value
 2019,percentage,a) government deficit,r,,,,1.327
 2020,percentage,a) government deficit,r,,,,-4.38
 2021,percentage,a) government deficit,,,,,-3.167
-2022,percentage,a) government deficit,p,,,,-1.909
-2023,percentage,a) government deficit,p,,,,-2.494
-2024,percentage,a) government deficit,p,,,,-2.663
+2022,percentage,a) government deficit,r,p,,,-1.909
+2023,percentage,a) government deficit,r,p,,,-2.494
+2024,percentage,a) government deficit,r,p,,,-2.663
 2005,percentage,b) structural deficit,r,,,,-2.35
 2006,percentage,b) structural deficit,r,,,,-2.026
 2007,percentage,b) structural deficit,r,,,,-0.87
@@ -178,7 +178,7 @@ Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,länder,GeoCode,Value
 2021,percentage,b) structural deficit,r,,hamburg,code02,-0.417
 2022,percentage,b) structural deficit,r,p,hamburg,code02,3.118
 2023,percentage,b) structural deficit,r,p,hamburg,code02,0.643
-2024,percentage,b) structural deficit,p,,hamburg,code02,2.65
+2024,percentage,b) structural deficit,p,,hamburg,code02,-2.65
 2005,percentage,b) structural deficit,.,,hesse,code06,
 2006,percentage,b) structural deficit,.,,hesse,code06,
 2007,percentage,b) structural deficit,.,,hesse,code06,

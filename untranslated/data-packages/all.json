@@ -349,16 +349,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
-          },
-          {
             "name": "risk situation",
             "type": "string",
             "constraints": {
@@ -366,6 +356,28 @@
                 "no risk situation",
                 "at least one risk situation",
                 "total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -638,7 +650,7 @@
             "constraints": {
               "enum": [
                 "overweight without obese",
-                "obese",
+                "obesity",
                 ""
               ]
             }
@@ -1440,6 +1452,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "p",
                 ""
               ]
@@ -2067,7 +2090,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -2106,6 +2129,35 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2294,8 +2346,8 @@
             "constraints": {
               "enum": [
                 "r",
-                "p",
                 ".",
+                "p",
                 ""
               ]
             }
@@ -3572,7 +3624,6 @@
             "constraints": {
               "enum": [
                 "female",
-                "male",
                 ""
               ]
             }
@@ -4246,7 +4297,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -4272,6 +4323,35 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
