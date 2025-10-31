@@ -349,6 +349,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "risk situation",
             "type": "string",
             "constraints": {
@@ -356,17 +367,6 @@
                 "no risk situation",
                 "at least one risk situation",
                 "total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                "…",
                 ""
               ]
             }
