@@ -759,7 +759,7 @@ Year,Units,time series,COMMENT_OBS_0,type of area,länder,GeoCode,Value
 1999,hectares per day,calculated annual values,,,berlin,code11,
 2000,hectares per day,calculated annual values,,,berlin,code11,1.0
 2001,hectares per day,calculated annual values,,,berlin,code11,1.0
-2002,hectares per day,calculated annual values,r,,berlin,code11,1.0
+2002,hectares per day,calculated annual values,0,,berlin,code11,0.0
 2003,hectares per day,calculated annual values,0,,berlin,code11,0.0
 2004,hectares per day,calculated annual values,0,,berlin,code11,0.0
 2005,hectares per day,calculated annual values,0,,berlin,code11,0.0
@@ -823,7 +823,7 @@ Year,Units,time series,COMMENT_OBS_0,type of area,länder,GeoCode,Value
 2005,hectares per day,calculated annual values,0,,bremen,code04,0.0
 2006,hectares per day,calculated annual values,0,,bremen,code04,0.0
 2007,hectares per day,calculated annual values,0,,bremen,code04,0.0
-2008,hectares per day,calculated annual values,r,,bremen,code04,0.0
+2008,hectares per day,calculated annual values,0,,bremen,code04,0.0
 2009,hectares per day,calculated annual values,-,,bremen,code04,0.0
 2010,hectares per day,calculated annual values,0,,bremen,code04,0.0
 2011,hectares per day,calculated annual values,0,,bremen,code04,0.0
@@ -857,7 +857,7 @@ Year,Units,time series,COMMENT_OBS_0,type of area,länder,GeoCode,Value
 2010,hectares per day,calculated annual values,0,,hamburg,code02,0.0
 2011,hectares per day,calculated annual values,-,,hamburg,code02,0.0
 2012,hectares per day,calculated annual values,0,,hamburg,code02,0.0
-2013,hectares per day,calculated annual values,r,,hamburg,code02,1.0
+2013,hectares per day,calculated annual values,0,,hamburg,code02,0.0
 2014,hectares per day,calculated annual values,,,hamburg,code02,-1.0
 2015,hectares per day,calculated annual values,,,hamburg,code02,-1.0
 2016,hectares per day,calculated annual values,,,hamburg,code02,-1.0
@@ -866,7 +866,7 @@ Year,Units,time series,COMMENT_OBS_0,type of area,länder,GeoCode,Value
 2019,hectares per day,calculated annual values,0,,hamburg,code02,0.0
 2020,hectares per day,calculated annual values,-,,hamburg,code02,0.0
 2021,hectares per day,calculated annual values,0,,hamburg,code02,0.0
-2022,hectares per day,calculated annual values,0,,hamburg,code02,-1.0
+2022,hectares per day,calculated annual values,r,,hamburg,code02,-1.0
 2023,hectares per day,calculated annual values,0,,hamburg,code02,0.0
 2030,hectares per day,calculated annual values,…,,hamburg,code02,
 1996,hectares per day,calculated annual values,,,hesse,code06,5.0

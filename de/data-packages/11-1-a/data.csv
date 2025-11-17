@@ -759,7 +759,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 1999,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,
 2000,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,1.0
 2001,Hektar pro Tag,Berechnete jährliche Werte,,,Berlin,code11,1.0
-2002,Hektar pro Tag,Berechnete jährliche Werte,r,,Berlin,code11,1.0
+2002,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2003,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2004,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
 2005,Hektar pro Tag,Berechnete jährliche Werte,0,,Berlin,code11,0.0
@@ -823,7 +823,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2005,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2006,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2007,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
-2008,Hektar pro Tag,Berechnete jährliche Werte,r,,Bremen,code04,0.0
+2008,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2009,Hektar pro Tag,Berechnete jährliche Werte,-,,Bremen,code04,0.0
 2010,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
 2011,Hektar pro Tag,Berechnete jährliche Werte,0,,Bremen,code04,0.0
@@ -857,7 +857,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2010,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2011,Hektar pro Tag,Berechnete jährliche Werte,-,,Hamburg,code02,0.0
 2012,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
-2013,Hektar pro Tag,Berechnete jährliche Werte,r,,Hamburg,code02,1.0
+2013,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2014,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,-1.0
 2015,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,-1.0
 2016,Hektar pro Tag,Berechnete jährliche Werte,,,Hamburg,code02,-1.0
@@ -866,7 +866,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Art der Fläche,Bundesland,GeoCode,Value
 2019,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2020,Hektar pro Tag,Berechnete jährliche Werte,-,,Hamburg,code02,0.0
 2021,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
-2022,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,-1.0
+2022,Hektar pro Tag,Berechnete jährliche Werte,r,,Hamburg,code02,-1.0
 2023,Hektar pro Tag,Berechnete jährliche Werte,0,,Hamburg,code02,0.0
 2030,Hektar pro Tag,Berechnete jährliche Werte,…,,Hamburg,code02,
 1996,Hektar pro Tag,Berechnete jährliche Werte,,,Hessen,code06,5.0

@@ -10,16 +10,16 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 1998,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,,102.13
 1999,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,,109.0
 2000,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,101.86
-2001,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,99.83
+2001,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,,99.83
 2002,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,93.25
-2003,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,89.04
+2003,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,,89.04
 2004,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,,92.82
 2005,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,91.29
 2006,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,86.58
 2007,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,87.36
 2008,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,88.45
 2009,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,82.62
-2010,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,79.47
+2010,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,,79.47
 2011,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,76.9
 2012,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,80.6
 2013,2030 = 100,<u>Zeitreihe des Indikators:</u> Gesamtindikator,r,77.04
@@ -109,7 +109,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 1992,2030 = 100,Teilindikator Agrarland,,161.58
 1993,2030 = 100,Teilindikator Agrarland,,171.77
 1994,2030 = 100,Teilindikator Agrarland,,172.43
-1995,2030 = 100,Teilindikator Agrarland,,149.98
+1995,2030 = 100,Teilindikator Agrarland,,148.98
 1996,2030 = 100,Teilindikator Agrarland,,155.38
 1997,2030 = 100,Teilindikator Agrarland,,136.58
 1998,2030 = 100,Teilindikator Agrarland,,128.14
@@ -183,7 +183,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 1996,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,,96.46
 1997,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,,98.8
 1998,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,,102.05
-1999,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,,102.38
+1999,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,,102.81
 2000,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,r,102.38
 2001,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,r,103.67
 2002,2030 = 100,<u>Zusätzliche Zeitreihe:</u> Küsten/Meere,r,99.68

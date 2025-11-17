@@ -10,16 +10,16 @@ Year,Units,Time series,COMMENT_OBS_0,Value
 1998,2030 = 100,<u>Time series of the indicator:</u> Total,,102.13
 1999,2030 = 100,<u>Time series of the indicator:</u> Total,,109.0
 2000,2030 = 100,<u>Time series of the indicator:</u> Total,r,101.86
-2001,2030 = 100,<u>Time series of the indicator:</u> Total,r,99.83
+2001,2030 = 100,<u>Time series of the indicator:</u> Total,,99.83
 2002,2030 = 100,<u>Time series of the indicator:</u> Total,r,93.25
-2003,2030 = 100,<u>Time series of the indicator:</u> Total,r,89.04
+2003,2030 = 100,<u>Time series of the indicator:</u> Total,,89.04
 2004,2030 = 100,<u>Time series of the indicator:</u> Total,,92.82
 2005,2030 = 100,<u>Time series of the indicator:</u> Total,r,91.29
 2006,2030 = 100,<u>Time series of the indicator:</u> Total,r,86.58
 2007,2030 = 100,<u>Time series of the indicator:</u> Total,r,87.36
 2008,2030 = 100,<u>Time series of the indicator:</u> Total,r,88.45
 2009,2030 = 100,<u>Time series of the indicator:</u> Total,r,82.62
-2010,2030 = 100,<u>Time series of the indicator:</u> Total,r,79.47
+2010,2030 = 100,<u>Time series of the indicator:</u> Total,,79.47
 2011,2030 = 100,<u>Time series of the indicator:</u> Total,r,76.9
 2012,2030 = 100,<u>Time series of the indicator:</u> Total,r,80.6
 2013,2030 = 100,<u>Time series of the indicator:</u> Total,r,77.04
@@ -109,7 +109,7 @@ Year,Units,Time series,COMMENT_OBS_0,Value
 1992,2030 = 100,Farmland sub-indicator,,161.58
 1993,2030 = 100,Farmland sub-indicator,,171.77
 1994,2030 = 100,Farmland sub-indicator,,172.43
-1995,2030 = 100,Farmland sub-indicator,,149.98
+1995,2030 = 100,Farmland sub-indicator,,148.98
 1996,2030 = 100,Farmland sub-indicator,,155.38
 1997,2030 = 100,Farmland sub-indicator,,136.58
 1998,2030 = 100,Farmland sub-indicator,,128.14
@@ -183,7 +183,7 @@ Year,Units,Time series,COMMENT_OBS_0,Value
 1996,2030 = 100,<u>Additional time series:</u> Coasts/seas,,96.46
 1997,2030 = 100,<u>Additional time series:</u> Coasts/seas,,98.8
 1998,2030 = 100,<u>Additional time series:</u> Coasts/seas,,102.05
-1999,2030 = 100,<u>Additional time series:</u> Coasts/seas,,102.38
+1999,2030 = 100,<u>Additional time series:</u> Coasts/seas,,102.81
 2000,2030 = 100,<u>Additional time series:</u> Coasts/seas,r,102.38
 2001,2030 = 100,<u>Additional time series:</u> Coasts/seas,r,103.67
 2002,2030 = 100,<u>Additional time series:</u> Coasts/seas,r,99.68
