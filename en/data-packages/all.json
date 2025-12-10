@@ -636,6 +636,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "p",
                 "…",
                 ""
               ]
