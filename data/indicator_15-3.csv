@@ -4,6 +4,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2012,percentage,r,,,4.299
 2015,percentage,r,,,4.327
 2018,percentage,r,,,5.175
+2021,percentage,,,,4.85
 2007,percentage,.,,,
 2008,percentage,.,,,
 2010,percentage,.,,,
@@ -12,6 +13,8 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,,,
 2016,percentage,.,,,
 2017,percentage,.,,,
+2019,percentage,.,,,
+2020,percentage,.,,,
 2006,percentage,,baden-wuerttemberg,code08,4.868
 2009,percentage,,baden-wuerttemberg,code08,4.93
 2012,percentage,,baden-wuerttemberg,code08,5.0
