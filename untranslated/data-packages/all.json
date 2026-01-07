@@ -95,6 +95,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "…",
                 ".",
                 ""
@@ -259,6 +260,16 @@
             "type": "string"
           },
           {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -295,6 +306,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "p",
                 "…",
@@ -414,6 +426,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
@@ -452,16 +475,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -994,9 +1007,20 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -1793,6 +1817,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ".",
                 ""
               ]
@@ -1848,6 +1873,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "|",
                 ""
               ]
             }
@@ -2137,8 +2163,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "p",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -2222,6 +2259,7 @@
               "enum": [
                 ".",
                 "…",
+                "|",
                 ""
               ]
             }
@@ -2466,6 +2504,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "s",
                 ".",
@@ -2700,8 +2739,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
                 ""
               ]
             }
@@ -2981,6 +3032,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3178,6 +3240,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
                 ".",
@@ -3227,6 +3290,16 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3352,9 +3425,20 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -3437,6 +3521,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "…",
                 ""
               ]
@@ -3692,6 +3777,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ".",
                 "…",
                 ""
@@ -3894,8 +3980,19 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -4065,9 +4162,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -4326,7 +4434,18 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -4545,6 +4664,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ".",
                 ""
               ]
@@ -4557,6 +4677,16 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
