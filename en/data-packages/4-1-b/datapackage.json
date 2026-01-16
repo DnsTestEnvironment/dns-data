@@ -108,7 +108,7 @@
             "title": "GeoCode"
           },
           {
-            "name": "qualification",
+            "name": "type of qualification",
             "type": "string",
             "constraints": {
               "enum": [
@@ -119,7 +119,7 @@
                 ""
               ]
             },
-            "title": "Qualification"
+            "title": "Type of qualification"
           },
           {
             "name": "Value",

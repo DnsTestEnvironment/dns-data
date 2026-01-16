@@ -100,7 +100,7 @@
             "type": "string"
           },
           {
-            "name": "qualification",
+            "name": "type of qualification",
             "type": "string",
             "constraints": {
               "enum": [
