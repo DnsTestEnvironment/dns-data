@@ -1,4 +1,4 @@
-Year,Units,display,COMMENT_OBS_0,sex,Value
+Year,Units,time series,COMMENT_OBS_0,sex,Value
 2024,number,trained personnel,,,182.0
 2030,number,trained personnel,,,1000.0
 2023,number,trained personnel,.,,
