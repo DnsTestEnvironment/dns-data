@@ -1467,7 +1467,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1491,6 +1491,7 @@
               "enum": [
                 "r",
                 "p",
+                "…",
                 ""
               ]
             }
@@ -1705,7 +1706,7 @@
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2373,7 +2374,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2408,8 +2409,9 @@
             "constraints": {
               "enum": [
                 "r",
-                ".",
                 "p",
+                "…",
+                ".",
                 ""
               ]
             }
@@ -2949,6 +2951,17 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -2995,17 +3008,6 @@
                 "65 to under 70 years",
                 "70 to under 75 years",
                 "75 years and older",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
                 ""
               ]
             }

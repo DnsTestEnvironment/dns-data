@@ -1594,7 +1594,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1620,6 +1620,7 @@
               "enum": [
                 "r",
                 "p",
+                "…",
                 ""
               ]
             },
@@ -1853,7 +1854,7 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1862,7 +1863,7 @@
                 ""
               ]
             },
-            "title": "Display"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -2580,7 +2581,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2618,8 +2619,9 @@
             "constraints": {
               "enum": [
                 "r",
-                ".",
                 "p",
+                "…",
+                ".",
                 ""
               ]
             },
@@ -3206,6 +3208,18 @@
             "title": "COMMENT_OBS_0"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -3258,18 +3272,6 @@
               ]
             },
             "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",
