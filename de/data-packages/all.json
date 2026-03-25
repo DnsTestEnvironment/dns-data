@@ -1006,6 +1006,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 "…",
                 ""
               ]
@@ -2134,7 +2135,6 @@
             "constraints": {
               "enum": [
                 "x",
-                "…",
                 ".",
                 ""
               ]
@@ -2759,9 +2759,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 "…",
-                "r",
                 ".",
                 ""
               ]
@@ -4372,6 +4372,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 "…",
                 ".",
                 "r",
