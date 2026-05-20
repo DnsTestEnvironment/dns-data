@@ -1080,7 +1080,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Altersklasse,Value
 2018,Prozent,.,Weiblich,Schleswig-Holstein,code01,,
 2019,Prozent,.,Weiblich,Schleswig-Holstein,code01,,
 2020,Prozent,.,Weiblich,Schleswig-Holstein,code01,,
-1999,Prozent,p,Weiblich,Thüringen,code16,,13.194
+1999,Prozent,,Weiblich,Thüringen,code16,,13.194
 2003,Prozent,,Weiblich,Thüringen,code16,,13.095
 2005,Prozent,,Weiblich,Thüringen,code16,,14.886
 2009,Prozent,,Weiblich,Thüringen,code16,,14.248

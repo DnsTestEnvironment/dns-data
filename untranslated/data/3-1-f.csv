@@ -1080,7 +1080,7 @@ Year,Units,COMMENT_OBS_0,sex,länder,GeoCode,age group,Value
 2018,percentage,.,female,schleswig-holstein,code01,,
 2019,percentage,.,female,schleswig-holstein,code01,,
 2020,percentage,.,female,schleswig-holstein,code01,,
-1999,percentage,p,female,thuringia,code16,,13.194
+1999,percentage,,female,thuringia,code16,,13.194
 2003,percentage,,female,thuringia,code16,,13.095
 2005,percentage,,female,thuringia,code16,,14.886
 2009,percentage,,female,thuringia,code16,,14.248
