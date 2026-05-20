@@ -28,7 +28,7 @@ Year,Units,COMMENT_OBS_0,sex,länder,GeoCode,age group,Value
 2009,percentage,,female,,,,12.4
 2013,percentage,,female,,,,12.8
 2017,percentage,,female,,,,13.047
-2021,percentage,,female,,,,13.266
+2021,percentage,p,female,,,,13.266
 2000,percentage,.,female,,,,
 2001,percentage,.,female,,,,
 2002,percentage,.,female,,,,

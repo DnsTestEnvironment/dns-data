@@ -1,6 +1,5 @@
 From,To
 time series,area
-area,COMMENT_OBS_0
 area,sex
+area,COMMENT_OBS_1
 area,länder
-COMMENT_OBS_0,COMMENT_OBS_1
