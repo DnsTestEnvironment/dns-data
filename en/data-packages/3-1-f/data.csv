@@ -28,7 +28,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2009,Percentage,,Female,,,,12.4
 2013,Percentage,,Female,,,,12.8
 2017,Percentage,,Female,,,,13.047
-2021,Percentage,p,Female,,,,13.266
+2021,Percentage,,Female,,,,13.266
 2000,Percentage,.,Female,,,,
 2001,Percentage,.,Female,,,,
 2002,Percentage,.,Female,,,,
@@ -68,7 +68,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,,
 2019,Percentage,.,Male,,,,
 2020,Percentage,.,Male,,,,
-1999,Percentage,,,Baden-Wuerttemberg,code08,,9.78
+1999,Percentage,p,,Baden-Wuerttemberg,code08,,9.78
 2003,Percentage,,,Baden-Wuerttemberg,code08,,10.913
 2005,Percentage,,,Baden-Wuerttemberg,code08,,11.371
 2009,Percentage,,,Baden-Wuerttemberg,code08,,12.259

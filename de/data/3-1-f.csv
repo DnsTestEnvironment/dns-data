@@ -28,7 +28,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Altersklasse,Value
 2009,Prozent,,Weiblich,,,,12.4
 2013,Prozent,,Weiblich,,,,12.8
 2017,Prozent,,Weiblich,,,,13.047
-2021,Prozent,p,Weiblich,,,,13.266
+2021,Prozent,,Weiblich,,,,13.266
 2000,Prozent,.,Weiblich,,,,
 2001,Prozent,.,Weiblich,,,,
 2002,Prozent,.,Weiblich,,,,
@@ -68,7 +68,7 @@ Year,Units,COMMENT_OBS_0,Geschlecht,Bundesland,GeoCode,Altersklasse,Value
 2018,Prozent,.,Männlich,,,,
 2019,Prozent,.,Männlich,,,,
 2020,Prozent,.,Männlich,,,,
-1999,Prozent,,,Baden-Württemberg,code08,,9.78
+1999,Prozent,p,,Baden-Württemberg,code08,,9.78
 2003,Prozent,,,Baden-Württemberg,code08,,10.913
 2005,Prozent,,,Baden-Württemberg,code08,,11.371
 2009,Prozent,,,Baden-Württemberg,code08,,12.259
