@@ -1,13 +1,13 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"time series, sex, länder, COMMENT_OBS_1, area",5
-#10-1,"sex, länder",2
+#1-1-ab,"time series, länder, sex, COMMENT_OBS_1, area",5
+#10-1,"länder, sex",2
 #10-2,"time series, länder, area",3
 #11-1-a,"time series, länder, COMMENT_OBS_1, type of area",4
 #11-1-c,"länder, degree of urbanisation",2
 #11-2-a,time series,1
 #11-2-b,time series,1
 #11-2-c,"time series, länder",2
-#11-3-a,"sex, länder, COMMENT_OBS_1",3
+#11-3-a,"länder, sex, COMMENT_OBS_1",3
 #12-1-b,time series,1
 #12-2-a,länder,1
 #12-4,COMMENT_OBS_1,1
@@ -19,18 +19,18 @@ Indicator,Disaggregations,Number of disaggregations
 #15-4,sector,1
 #16-2,"time series, sex",2
 #16-4,level of compliance,1
-#17-2,"time series, sex, länder",3
+#17-2,"time series, länder, sex",3
 #17-3,time series,1
 #2-1-a,time series,1
 #2-1-b,länder,1
 #3-1-a,"sex, type of treatment",2
-#3-1-cd,"time series, sex, länder",3
+#3-1-cd,"time series, länder, sex",3
 #3-1-e,"sex, age group",2
-#3-1-f,"sex, länder, age group",3
+#3-1-f,"länder, sex, age group",3
 #3-2-a,air pollutant,1
 #3-3,time series,1
-#4-1-a,"sex, länder, COMMENT_OBS_1",3
-#4-1-b,"time series, sex, länder, COMMENT_OBS_1, type of qualification",5
+#4-1-a,"länder, sex, COMMENT_OBS_1",3
+#4-1-b,"time series, länder, sex, COMMENT_OBS_1, type of qualification",5
 #4-2-ab,"länder, type of care",2
 #4-3-a,sex,1
 #4-3-b,"sex, risk situation",2
@@ -48,7 +48,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-2-c,"länder, COMMENT_OBS_1",2
 #8-3,"länder, COMMENT_OBS_1",2
 #8-4,"länder, COMMENT_OBS_1",2
-#8-5-ab,"sex, länder, COMMENT_OBS_1",3
+#8-5-ab,"länder, sex, COMMENT_OBS_1",3
 #8-5-c,type of collective bargaining agreement,1
 #9-1-a,"länder, sector",2
 #9-1-b,"time series, länder",2
