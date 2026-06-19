@@ -146,5 +146,9 @@ indicator_options:
     - GeoCode
     - COMMENT_OBS
     - COMMENT_OBS_0
+    - COMMENT_OBS_1
+    - COMMENT_OBS_2
   observation_attributes:
-    - COMMENT_OBS
+    - COMMENT_OBS_0
+    - COMMENT_OBS_1
+    - COMMENT_OBS_2
