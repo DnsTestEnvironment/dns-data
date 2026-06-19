@@ -322,13 +322,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "sex",
@@ -749,13 +743,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",
@@ -1346,14 +1334,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "sex",
@@ -1513,13 +1494,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",
@@ -1635,13 +1610,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1848,13 +1817,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "sex",
@@ -2181,13 +2144,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2275,13 +2232,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",
@@ -2433,13 +2384,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",
@@ -2642,13 +2587,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "sex",
@@ -2907,13 +2846,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",
@@ -3544,13 +3477,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",
@@ -3808,13 +3735,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",

@@ -82,13 +82,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "Value",

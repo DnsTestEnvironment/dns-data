@@ -70,12 +70,6 @@
           {
             "name": "COMMENT_OBS_1",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
             "title": "COMMENT_OBS_1"
           },
           {

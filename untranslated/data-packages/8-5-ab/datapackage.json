@@ -41,14 +41,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "sex",
