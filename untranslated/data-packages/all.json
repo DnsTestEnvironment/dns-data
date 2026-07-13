@@ -27,10 +27,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -41,6 +37,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -318,10 +318,6 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS_1",
             "type": "string"
           },
           {
@@ -708,7 +704,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -956,7 +952,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -1438,7 +1434,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -2449,6 +2445,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_1",
             "type": "string"
           },
           {
