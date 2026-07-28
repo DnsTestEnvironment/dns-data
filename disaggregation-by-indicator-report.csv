@@ -1,5 +1,5 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"time series, länder, sex, area",4
+#1-1-ab,"time series, länder, area, sex",4
 #10-1,"länder, sex",2
 #10-2,"time series, länder, area",3
 #11-1-a,"time series, länder, type of area",3
@@ -32,7 +32,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-b,"time series, länder, sex, type of qualification",4
 #4-2-ab,"länder, type of care",2
 #4-3-a,sex,1
-#4-3-b,"risk situation, sex",2
+#4-3-b,"sex, risk situation",2
 #5-1-a,länder,1
 #5-1-bc,time series,1
 #5-1-d,länder,1
