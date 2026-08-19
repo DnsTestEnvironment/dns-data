@@ -75,6 +75,19 @@
             "title": "GeoCode"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unter 18 Jahre",
+                "18 bis 64 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

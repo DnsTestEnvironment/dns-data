@@ -73,6 +73,21 @@
             "title": "COMMENT_OBS_1"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unter 16 Jahre",
+                "16 bis 24 Jahre",
+                "25 bis 49 Jahre",
+                "50 bis 64 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
