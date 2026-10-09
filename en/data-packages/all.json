@@ -4464,11 +4464,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4508,6 +4503,11 @@
             "name": "COMMENT_OBS_0",
             "type": "string",
             "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "degree of urbanisation",
